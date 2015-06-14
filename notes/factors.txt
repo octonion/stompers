@@ -1,0 +1,37 @@
+Here are the team factors for 2013 and 2014, adjusted for division.
+
+year
+
+school_id - NCAA school ID
+
+school_name
+
+division - NCAA division for that year
+
+year_factor - relative runs/game factor for that year
+
+park - home park factor for school
+
+offensive - offensive strength for team, adjusted for division
+
+defensive - defensive strength for team, adjusted for division
+
+strength - strength of team = offensive/defensive, adjusted for division
+
+park_offensive - team's park*offensive
+park_defensive - team's park*defensive
+
+schedule_park - average park factor for team's full schedule
+
+The following all account for opponent division:
+
+schedule_offensive - average opponent offensive strength for team's full schedule
+schedule_defensive - average opponent defensive strength for team's full schedule
+schedule_strength - average opponent strength for team's full schedule
+
+schedule_field - average field advantage for team's schedule (>1 if more home games)
+
+schedule_park_offensive - average offense faced; opponents and park
+schedule_park_defensive - average defense faced; opponents and park
+schedule_field_park_offensive - average offense faced; home fields, parks, opponents
+schedule_field_park_defensive - average defense faced; home fields, parks, opponents

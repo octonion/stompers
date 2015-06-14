@@ -1,0 +1,301 @@
+year,player_name,team_name,class_year,position,pa,adj_obp,slg,adj_slg,index
+2013,"Huck, Ryan",Western Ky,Sr,Infield,236,0.479,0.694,0.700,1.657
+2013,"Katz, Mason",LSU,Sr,First Base,289,0.489,0.642,0.667,1.645
+2013,"Tauchman, Mike",Bradley,Sr,Outfield,223,0.524,0.591,0.596,1.644
+2013,"Dantzler, LB",South Carolina,Sr,Infield,263,0.471,0.617,0.647,1.589
+2013,"Deitrich, Ryan",Penn,Sr,Outfield,178,0.499,0.563,0.562,1.560
+2013,"Ferdinand, Nick",Delaware,Sr,Outfield,243,0.440,0.690,0.677,1.557
+2013,"Brown, Kevin",Bryant,Sr,Outfield,282,0.502,0.552,0.550,1.553
+2013,"Cooper, Garrett",Auburn,Sr,Infield,236,0.497,0.540,0.556,1.550
+2013,"Roberts, Colby",James Madison,Sr,Outfield,151,0.462,0.629,0.626,1.550
+2013,"McAlpine, Duncan",Dallas Baptist,Sr,Catcher,259,0.444,0.662,0.662,1.549
+2013,"Bass, Michael",UNCW,Sr,Infield,260,0.488,0.560,0.564,1.540
+2013,"Stubbs, Cody",North Carolina,Sr,First Base,324,0.473,0.574,0.594,1.539
+2013,"Durdaller, Christiaan",Samford,Sr,Outfield,230,0.448,0.649,0.631,1.528
+2013,"Dickinson, Rob",VMI,Sr,Outfield,225,0.467,0.596,0.591,1.524
+2013,"Freeman, Kelvin",N.C. A&T,Sr,First Base,227,0.433,0.663,0.652,1.518
+2013,"Parr, Justin",Illinois,Sr,Infield,255,0.464,0.576,0.588,1.516
+2013,"Lecount, Robert",New Mexico St,Sr,Infield,235,0.445,0.647,0.620,1.510
+2013,"Pierce, Logan",Troy,Sr,Infield,290,0.465,0.570,0.565,1.496
+2013,"Keele, Ryan",Omaha,Sr,Outfield,183,0.467,0.571,0.561,1.495
+2013,"Kemp, Jeff",Radford,Sr,Infield,194,0.453,0.588,0.587,1.493
+2013,"Garver, Mitch",New Mexico,Sr,Catcher,280,0.456,0.589,0.578,1.490
+2013,"Allday, Forrestt",Central Ark,Sr,Outfield,301,0.509,0.472,0.472,1.490
+2013,"Orf, Nathan",Baylor,Sr,Designated Hitter,253,0.492,0.470,0.492,1.477
+2013,"Wolfe, Christian",UNC Greensboro,Sr,Outfield,228,0.456,0.579,0.562,1.474
+2013,"Roberts, George",Kent St,Sr,Infield,205,0.484,0.503,0.504,1.471
+2013,"Campbell, Luke",New Mexico,Sr,Outfield,224,0.443,0.595,0.584,1.470
+2013,"White, Tyler",Western Caro,Sr,Infield,280,0.415,0.661,0.640,1.470
+2013,"Black, Alex",Columbia,Sr,Infield,206,0.464,0.524,0.527,1.454
+2013,"Healy, Tom",Mt. St. Mary's,Sr,Outfield,176,0.431,0.608,0.591,1.452
+2013,"Foster, Brooklyn",Canisius,Sr,Catcher,156,0.472,0.520,0.504,1.449
+2013,"Fish, Mike",Siena,Sr,Outfield,254,0.421,0.602,0.601,1.443
+2013,"Murphy, John",Sacred Heart,Sr,Infield,237,0.441,0.565,0.557,1.438
+2013,"Radwan, Jason",St. Bonaventure,Sr,Second Base,208,0.479,0.486,0.479,1.437
+2013,"Pittman, Nathan",Fla. Atlantic,Sr,Outfield,275,0.465,0.498,0.501,1.431
+2013,"Parker, Andrew",Towson,Sr,Catcher,238,0.442,0.544,0.545,1.429
+2013,"Harrell, Connor",Vanderbilt,Sr,Outfield,295,0.439,0.530,0.549,1.428
+2013,"Kalfus, Brenden",St. Mary's (CA),Sr,Outfield,228,0.481,0.459,0.466,1.427
+2013,"Zebrack, Greg",Southern California,Sr,Outfield,228,0.451,0.490,0.524,1.426
+2013,"Graham, Brent",Campbell,Sr,Infield,230,0.471,0.495,0.483,1.424
+2013,"Hagel, Jordan",Maryland,Sr,Outfield,173,0.436,0.534,0.551,1.423
+2013,"Risi, Jimmy",Butler,Sr,First Base,199,0.425,0.579,0.570,1.421
+2013,"Christensen, Chad",Nebraska,Sr,Outfield,258,0.471,0.453,0.479,1.421
+2013,"Bouck, Tom",NJIT,Sr,Infield,158,0.467,0.500,0.486,1.420
+2013,"Kelly, Alex",Saint Louis,Sr,Outfield,285,0.429,0.557,0.554,1.413
+2013,"Papaccio, Giuseppe",Seton Hall,Sr,Infield,255,0.424,0.554,0.560,1.408
+2013,"Davis, Jon",Kansas St,Sr,Outfield,263,0.455,0.476,0.495,1.406
+2013,"Burk, Chris",UALR,Sr,Infield,239,0.447,0.510,0.509,1.404
+2013,"Bunner, V.J",Lamar,Sr,Infield,205,0.435,0.520,0.533,1.404
+2013,"Retz, Ryan",High Point,Sr,First Base,258,0.442,0.509,0.514,1.399
+2013,"Kanzler, Jason",Buffalo,Sr,Outfield,258,0.402,0.604,0.591,1.395
+2013,"Johnson, Darian",Lamar,Sr,Outfield,275,0.462,0.458,0.470,1.395
+2013,"McInturff, Cole",James Madison,Sr,Outfield,216,0.470,0.453,0.451,1.392
+2013,"DeLeon, Alex",Kansas,Sr,Catcher,233,0.411,0.559,0.569,1.391
+2013,"Ringo, Justin",Stanford,Sr,First Base,227,0.433,0.495,0.523,1.390
+2013,"Bladel, Johnny",James Madison,Sr,Outfield,275,0.485,0.420,0.418,1.389
+2013,"Rockett, Daniel",UTSA,Sr,Outfield,228,0.411,0.562,0.567,1.389
+2013,"Zavala, Steve",Rutgers,Sr,Outfield,230,0.463,0.452,0.462,1.388
+2013,"Mayers, Jacob",Richmond,Sr,Pitcher,239,0.433,0.531,0.523,1.388
+2013,"Bayardi, Brandon",UNLV,Sr,Outfield,265,0.416,0.565,0.556,1.388
+2013,"Towey, Cal",Baylor,Sr,Infield,249,0.454,0.457,0.478,1.387
+2013,"Prestridge, Clayton",UC Riverside,Sr,Catcher,234,0.471,0.431,0.444,1.385
+2013,"Mazzilli, L.J",UConn,Sr,Infield,290,0.429,0.515,0.525,1.382
+2013,"Rodriguez, Isaac",Southern Miss,Sr,Infield,239,0.460,0.453,0.462,1.382
+2013,"Landecker, Adam",Southern California,Sr,Infield,220,0.433,0.480,0.514,1.380
+2013,"Hempe, Erik",UCF,Sr,Outfield,259,0.427,0.514,0.526,1.380
+2013,"Shank, Zach",Marist,Sr,Shortstop,238,0.434,0.517,0.508,1.375
+2013,"Blair, Pat",Wake Forest,Sr,Infield,255,0.470,0.424,0.431,1.371
+2013,"Montgomery, Austin",Southern Ill,Sr,Infield,253,0.418,0.535,0.534,1.370
+2013,"Custons, Garrett",Air Force,Sr,Outfield,251,0.438,0.498,0.489,1.366
+2013,"Aguilera, Eric",Illinois St,Sr,Outfield,258,0.418,0.524,0.528,1.365
+2013,"Greatting, Joel",SIUE,Sr,Infield,221,0.442,0.486,0.480,1.364
+2013,"Lopez, Carlos",Cal St. Fullerton,Sr,Infield,268,0.439,0.462,0.485,1.363
+2013,"Klein, Brooks",Nevada,Sr,Outfield,244,0.412,0.544,0.536,1.360
+2013,"McCauley, Ryan",Niagara,Sr,First Base,221,0.432,0.495,0.493,1.358
+2013,"Blackman, Ted",Coastal Caro,Sr,Outfield,247,0.455,0.441,0.447,1.358
+2013,"Stanton, Kyle",Illinois St,Sr,Infield,246,0.439,0.476,0.480,1.357
+2013,"Dalken, Dustin",South Ala,Sr,Infield,210,0.412,0.530,0.533,1.356
+2013,"Stringer, Christian",Rice,Sr,Infield,298,0.446,0.447,0.464,1.355
+2013,"Orefice, Mike",Marist,Sr,First Base,237,0.448,0.462,0.454,1.350
+2013,"Chavez, Denver",Cal Poly,Sr,Infield,273,0.440,0.451,0.467,1.346
+2013,"Olson, David",Campbell,Sr,Infield,240,0.455,0.444,0.433,1.343
+2013,"Roberts, Ryan",Arkansas St,Sr,Catcher,183,0.446,0.440,0.449,1.342
+2013,"McQuown, Ben",Campbell,Sr,Outfield,273,0.443,0.468,0.456,1.342
+2013,"McDorman, Josh",Troy,Sr,Outfield,241,0.436,0.472,0.468,1.341
+2013,"Rash, Andrew",Virginia Tech,Sr,Outfield,259,0.381,0.563,0.578,1.340
+2013,"Yastrzemski, Mike",Vanderbilt,Sr,Outfield,293,0.435,0.449,0.465,1.335
+2013,"Romero, Victor",Oklahoma St,Sr,Catcher,212,0.444,0.441,0.447,1.335
+2013,"Diaz, Luis",N.C. Central,Sr,Outfield,248,0.444,0.462,0.447,1.335
+2013,"Clements, Luke",Houston Baptist,Sr,Outfield,253,0.422,0.514,0.490,1.334
+2013,"Melendez, Josh",New Mexico,Sr,Outfield,269,0.431,0.480,0.471,1.333
+2013,"Reynolds, Mikey",Texas A&M,Sr,Infield,255,0.440,0.431,0.452,1.332
+2013,"Mack, Chantz",Miami (FL),Sr,Outfield,255,0.466,0.381,0.397,1.328
+2013,"Powell, Curt",Georgia,Sr,Infield,238,0.445,0.422,0.438,1.328
+2013,"Harper, Reed",Austin Peay,Sr,Infield,272,0.418,0.500,0.491,1.327
+2013,"Fransoso, Michael",Maine,Sr,Second Base,242,0.418,0.500,0.491,1.327
+2013,"Nelson, Grant",Saint Louis,Sr,Catcher,267,0.432,0.465,0.463,1.327
+2013,"DeBlieux, Jeff",South Ala,Sr,Outfield,258,0.401,0.511,0.514,1.316
+2013,"Felton, Michael",Campbell,Sr,Infield,251,0.427,0.473,0.461,1.316
+2013,"Weiss, Eric",A&M-Corpus Christi,Sr,Catcher,241,0.417,0.474,0.481,1.314
+2013,"Haupt, Dillon",San Diego,Sr,Catcher,235,0.381,0.529,0.551,1.314
+2013,"Grubb, Ben",Portland,Sr,Catcher,180,0.398,0.490,0.517,1.313
+2013,"McIntyre, Tyler",Central Conn. St,Sr,Infield,215,0.410,0.503,0.492,1.311
+2013,"Rhymes, Raph",LSU,Sr,Outfield,287,0.424,0.445,0.463,1.310
+2013,"Turner, Casey",Lehigh,Sr,Outfield,205,0.431,0.459,0.446,1.307
+2013,"Thomas, Brandon",Georgia Tech,Sr,Outfield,241,0.424,0.445,0.459,1.307
+2013,"Marietta, Michael",Central Ark,Sr,Catcher,279,0.423,0.460,0.460,1.307
+2013,"Taladay, Chris",UCF,Sr,Infield,255,0.422,0.452,0.463,1.306
+2013,"Brown, Ryan",William & Mary,Sr,Outfield,292,0.450,0.407,0.405,1.306
+2013,"Puentes, Patrick",Holy Cross,Sr,Outfield,192,0.396,0.521,0.514,1.306
+2013,"Ballou, Isaac",Marshall,Sr,Outfield,241,0.438,0.433,0.431,1.306
+2013,"Johnson, Blake",UALR,Sr,Catcher,237,0.400,0.500,0.499,1.300
+2013,"Hudson, Cody",Austin Peay,Sr,Outfield,265,0.404,0.502,0.493,1.300
+2013,"Melby, Jeff",Portland,Sr,Infield,190,0.427,0.421,0.444,1.298
+2013,"Earley, Nolan",South Ala,Sr,Outfield,274,0.422,0.451,0.453,1.297
+2013,"Hipp, Parker",New Mexico St,Sr,Infield,236,0.418,0.479,0.459,1.296
+2013,"Parente, Sam",Pittsburgh,Sr,Infield,241,0.393,0.514,0.507,1.293
+2013,"Casey, Kevin",Lafayette,Sr,Pitcher,204,0.439,0.427,0.415,1.292
+2013,"Graham, Ian",UNC Asheville,Sr,Catcher,205,0.421,0.453,0.449,1.290
+2013,"Kalkowski, Kash",Nebraska,Sr,Outfield,245,0.414,0.435,0.460,1.288
+2013,"Johnson, Zac",Illinois St,Sr,Infield,255,0.403,0.477,0.481,1.288
+2013,"Stewart, Owen",Monmouth,Sr,Infield,220,0.445,0.395,0.394,1.284
+2013,"Davis, T.D",Ga. Southern,Sr,Infield,255,0.377,0.536,0.531,1.284
+2013,"Jackson, Benji",Gardner-Webb,Sr,Outfield,224,0.416,0.455,0.451,1.283
+2013,"Ortega, Ramon",Manhattan,Sr,Catcher,211,0.406,0.478,0.471,1.283
+2013,"Beisner, Brooks",FGCU,Sr,Infield,257,0.414,0.453,0.455,1.283
+2013,"Hockemeyer, Jason",Evansville,Sr,Outfield,256,0.445,0.388,0.391,1.282
+2013,"Dupell, Greg",Navy,Sr,Outfield,229,0.398,0.495,0.485,1.280
+2013,"Rhine, Mark",Wake Forest,Sr,Infield,227,0.443,0.387,0.393,1.279
+2013,"Frost, John",UAB,Sr,Infield,253,0.408,0.453,0.463,1.279
+2013,"Goss, Casey",James Madison,Sr,Shortstop,216,0.424,0.431,0.429,1.278
+2013,"Boisture, Dave",Sacred Heart,Sr,Outfield,197,0.410,0.465,0.458,1.278
+2013,"Campbell, Evan",Kent St,Sr,Infield,267,0.428,0.421,0.422,1.277
+2013,"Green, Andrew",East Tenn. St,Sr,Outfield,274,0.405,0.475,0.467,1.277
+2013,"Sciacca, Tyler",Villanova,Sr,Shortstop,208,0.407,0.458,0.462,1.276
+2013,"Basil, Michael",Indiana,Sr,Infield,283,0.417,0.426,0.438,1.273
+2013,"Cirillo, Anthony",Saint Joseph's,Sr,Infield,207,0.445,0.385,0.381,1.272
+2013,"Hammer, Ben",Toledo,Sr,Outfield,219,0.404,0.467,0.464,1.272
+2013,"Elwell, Mark",Xavier,Sr,Outfield,250,0.436,0.398,0.398,1.271
+2013,"Robinson, AJ",San Diego,Sr,Outfield,222,0.418,0.417,0.435,1.270
+2013,"Nelson, Mark",Fla. Atlantic,Sr,Infield,256,0.417,0.433,0.436,1.269
+2013,"Witt, Tanner",Kansas St,Sr,Outfield,292,0.424,0.402,0.418,1.267
+2013,"Emery, Ryan",Arkansas St,Sr,Outfield,261,0.438,0.379,0.387,1.263
+2013,"Kremer, Jeff",Duke,Sr,Catcher,246,0.440,0.369,0.384,1.263
+2013,"Witte, Jantzen",TCU,Sr,Infield,242,0.408,0.428,0.445,1.261
+2013,"Roberts, Nate",Seattle,Sr,Infield,232,0.392,0.463,0.478,1.261
+2013,"Melgosa, Markus",St. Mary's (CA),Sr,Outfield,168,0.429,0.396,0.402,1.260
+2013,"Richardson, Trey",USC Upstate,Sr,Catcher,235,0.377,0.509,0.502,1.257
+2013,"Akers, Judah",Belmont,Sr,Infield,254,0.388,0.488,0.481,1.256
+2013,"Johnson, Taylor",Furman,Sr,Outfield,265,0.371,0.522,0.514,1.256
+2013,"Hayes, Danny",Oregon St,Sr,Infield,256,0.404,0.426,0.449,1.256
+2013,"Day, Dillon",Southern Miss,Sr,Pitcher,202,0.419,0.409,0.417,1.254
+2013,"Ford, Ryan",Middle Tenn,Sr,Infield,264,0.397,0.457,0.460,1.254
+2013,"Keller, Corey",Fla. Atlantic,Sr,Outfield,214,0.367,0.516,0.519,1.253
+2013,"Haas, Ryan",Delaware St,Sr,Infield,195,0.441,0.395,0.369,1.251
+2013,"Balkwill, Larry",Siena,Sr,Catcher,243,0.391,0.470,0.469,1.251
+2013,"Ratterree, Michael",Rice,Sr,Outfield,274,0.405,0.425,0.441,1.251
+2013,"Hughes, Alex",Eastern Ky,Sr,Infield,209,0.392,0.475,0.464,1.249
+2013,"Rodriguez, Ali",NYIT,Sr,Infield,210,0.410,0.444,0.429,1.248
+2013,"Opel, Dane",Missouri,Sr,Outfield,218,0.414,0.405,0.420,1.248
+2013,"Kay, Brett",Illinois St,Sr,Infield,257,0.416,0.412,0.415,1.247
+2013,"Coble, Ennis",Dartmouth,Sr,Infield,172,0.399,0.457,0.448,1.246
+2013,"Edwards, Trevor",UNC Greensboro,Sr,Catcher,246,0.363,0.532,0.517,1.243
+2013,"Miller, Seth",Florida St,Sr,Outfield,204,0.409,0.412,0.424,1.242
+2013,"Mendez, Alex",South Fla,Sr,Outfield,273,0.415,0.413,0.411,1.241
+2013,"Wacker, Cullen",Auburn,Sr,Outfield,224,0.404,0.420,0.432,1.241
+2013,"Tate, Malcolm",Jackson St,Sr,Catcher,159,0.417,0.434,0.406,1.241
+2013,"Farmer, Darren",Grambling,Sr,Outfield,184,0.402,0.455,0.437,1.241
+2013,"Smith, Tyler",Oregon St,Sr,Infield,254,0.411,0.397,0.418,1.240
+2013,"Dornak, Seth",Lamar,Sr,First Base,237,0.407,0.415,0.426,1.239
+2013,"Abraham, James",Tennessee Tech,Sr,Outfield,232,0.418,0.422,0.402,1.239
+2013,"Gragnani, Reed",Virginia,Sr,Infield,245,0.399,0.424,0.441,1.238
+2013,"Senay, Tarran",North Carolina St,Sr,Outfield,291,0.382,0.459,0.472,1.236
+2013,"Knabe, Henry",Temple,Sr,Infield,190,0.394,0.454,0.447,1.236
+2013,"Gaige, Nolan",Albany (NY),Sr,Outfield,213,0.400,0.440,0.435,1.235
+2013,"Perret, Chris",Monmouth,Sr,Pitcher,199,0.391,0.453,0.452,1.235
+2013,"Ray, Jayce",Washington,Sr,Outfield,247,0.406,0.400,0.422,1.234
+2013,"Gray, Garrett",Wright St,Sr,Catcher,219,0.375,0.480,0.481,1.232
+2013,"Smith, Casey",Indiana,Sr,Pitcher,194,0.387,0.446,0.458,1.231
+2013,"Booth, Brett",Alabama,Sr,Catcher,266,0.401,0.411,0.429,1.231
+2013,"Plaia, Colton",Loyola Marymount,Sr,Catcher,213,0.388,0.440,0.455,1.231
+2013,"Plumlee, Jessie",Sam Houston St,Sr,Shortstop,214,0.420,0.382,0.390,1.230
+2013,"Fowler, Chase",Southern Miss,Sr,Catcher,208,0.402,0.419,0.427,1.230
+2013,"Urban, Billy",St. Bonaventure,Sr,Third Base,199,0.401,0.433,0.427,1.230
+2013,"Ball, Shaun",Eastern Ky,Sr,Infield,256,0.366,0.509,0.497,1.229
+2013,"Fadness, Will",Milwaukee,Sr,Catcher,181,0.396,0.437,0.435,1.228
+2013,"Reeves, Mike",FGCU,Sr,Catcher,258,0.420,0.386,0.388,1.228
+2013,"Breen, Jared",Belmont,Sr,Infield,243,0.385,0.464,0.457,1.227
+2013,"Kalamar, Scott",Seton Hall,Sr,Outfield,253,0.392,0.439,0.444,1.227
+2013,"DeLoach, Brett",Georgia,Sr,Catcher,211,0.403,0.403,0.418,1.225
+2013,"Vavra, Tanner",Valparaiso,Sr,Infield,253,0.415,0.394,0.394,1.224
+2013,"Sah, Kevin",Texas St,Sr,Outfield,241,0.407,0.400,0.409,1.224
+2013,"Falla, Jimmy",South Fla,Sr,Outfield,264,0.396,0.435,0.433,1.224
+2013,"Pedroza, Richy",Cal St. Fullerton,Sr,Infield,271,0.422,0.359,0.377,1.222
+2013,"Miller, Kevin",Sam Houston St,Sr,Third Base,248,0.404,0.404,0.413,1.220
+2013,"Narby, Sean",Seattle,Sr,Outfield,187,0.381,0.444,0.458,1.220
+2013,"Melillo, Jeff",Rutgers,Sr,Catcher,243,0.392,0.426,0.436,1.219
+2013,"Mistone, Andrew",Ole Miss,Sr,Infield,254,0.410,0.379,0.398,1.218
+2013,"Crespo, Hector",Appalachian St,Sr,Infield,256,0.380,0.472,0.459,1.218
+2013,"Mitchell, Ronnie",Dallas Baptist,Sr,Outfield,282,0.397,0.422,0.422,1.216
+2013,"Enos, Jordan",Holy Cross,Sr,Infield,200,0.380,0.462,0.456,1.216
+2013,"Green, Austin",San Diego,Sr,Catcher,190,0.368,0.460,0.479,1.215
+2013,"Genovese, Mike",Seton Hall,Sr,Infield,219,0.420,0.370,0.374,1.214
+2013,"Zaharion, Nick",South Ala,Sr,Infield,164,0.355,0.500,0.503,1.214
+2013,"Romanski, Jake",San Diego St,Sr,Catcher,265,0.408,0.390,0.398,1.213
+2013,"Turner, Drew",Belmont,Sr,Outfield,238,0.389,0.441,0.434,1.212
+2013,"Aanderud, Bryan",Liberty,Sr,Infield,285,0.415,0.373,0.380,1.211
+2013,"Molinaro, Tyler",UNCW,Sr,Outfield,263,0.375,0.457,0.460,1.211
+2013,"Hogan, Mark",Georgia St,Sr,Outfield,179,0.399,0.428,0.413,1.210
+2013,"Clyde, Grant",North Carolina St,Sr,Infield,224,0.386,0.426,0.438,1.210
+2013,"McCurry, Randy",Oklahoma St,Sr,Pitcher,244,0.378,0.448,0.454,1.209
+2013,"Vazquez, James",SIUE,Sr,Infield,205,0.409,0.394,0.389,1.207
+2013,"Dorsey, Whitt",South Ala,Sr,Catcher,169,0.416,0.372,0.374,1.207
+2013,"Montalbano, Tony",Charlotte,Sr,Designated Hitter,164,0.399,0.412,0.408,1.206
+2013,"Dove, Sam",Georgia Tech,Sr,Infield,267,0.390,0.412,0.425,1.206
+2013,"Biondi, Patrick",Michigan,Sr,Outfield,191,0.409,0.382,0.388,1.206
+2013,"Wimmer, Trey",Liberty,Sr,Catcher,269,0.372,0.453,0.462,1.205
+2013,"Sanguinetti, Rich",Nebraska,Sr,Outfield,252,0.411,0.362,0.383,1.205
+2013,"Gonzales, Jonathan",A&M-Corpus Christi,Sr,Infield,237,0.368,0.462,0.469,1.205
+2013,"Watson, Will",Northwestern St,Sr,First Base,224,0.407,0.376,0.390,1.204
+2013,"King, Jared",Virginia,Sr,First Base,280,0.404,0.379,0.394,1.203
+2013,"Havey, Jack",Northwestern,Sr,First Base,189,0.399,0.398,0.405,1.203
+2013,"Richard, Matt",Nicholls St,Sr,Outfield,243,0.395,0.405,0.413,1.202
+2013,"DeLucia, Michael",Campbell,Sr,Catcher,172,0.385,0.441,0.430,1.201
+2013,"Ort, Robby",Indiana St,Sr,Outfield,225,0.360,0.481,0.480,1.200
+2013,"Kraemer, Koby",Indiana St,Sr,Infield,217,0.382,0.436,0.435,1.200
+2013,"Frank, Chaz",North Carolina,Sr,Outfield,314,0.395,0.394,0.408,1.199
+2013,"Bumgardner, Gaither",USC Upstate,Sr,Pitcher,268,0.408,0.387,0.381,1.198
+2013,"Ayers, Andrew",Sacramento St,Sr,Infield,233,0.356,0.479,0.485,1.198
+2013,"Muller, Greg",Albany (NY),Sr,Infield,201,0.399,0.405,0.401,1.198
+2013,"Voit, Luke",Missouri St,Sr,Catcher,243,0.398,0.393,0.400,1.197
+2013,"Loeffler, John",Valparaiso,Sr,Infield,238,0.420,0.356,0.356,1.196
+2013,"Buccilli, Alex",Coastal Caro,Sr,Designated Hitter,231,0.421,0.349,0.354,1.196
+2013,"Kelly, Devin",Western Ky,Sr,Infield,239,0.405,0.383,0.386,1.196
+2013,"Weeks, Kyle",Fairleigh Dickinson,Sr,Infield,200,0.406,0.392,0.383,1.195
+2013,"Davis, Josh",Belmont,Sr,Pitcher,179,0.413,0.374,0.368,1.194
+2013,"Ruck, Andrew",Lafayette,Sr,Outfield,201,0.392,0.420,0.408,1.192
+2013,"Bower, Kevin",Miami (OH),Sr,Infield,234,0.394,0.408,0.404,1.192
+2013,"Avila, Juan",Long Beach St,Sr,Infield,188,0.392,0.381,0.407,1.192
+2013,"Twichell, J.M",Texas-Arlington,Sr,Infield,187,0.381,0.413,0.427,1.190
+2013,"Hinshaw, Chad",Illinois St,Sr,Outfield,255,0.376,0.434,0.438,1.189
+2013,"Branigan, Spencer",Penn,Sr,First Base,163,0.392,0.406,0.405,1.189
+2013,"Slade, Harry",Southeastern La,Sr,Outfield,249,0.405,0.375,0.378,1.189
+2013,"Harris, Ethan",Central Ark,Sr,Outfield,246,0.390,0.407,0.407,1.188
+2013,"White, Max",Oklahoma,Sr,Infield,283,0.386,0.408,0.416,1.187
+2013,"Collins, Brad",Gardner-Webb,Sr,Infield,235,0.350,0.491,0.487,1.187
+2013,"Mathis, Tanner",Ole Miss,Sr,Outfield,275,0.432,0.307,0.323,1.187
+2013,"Relf, Tyler",Utah,Sr,Outfield,205,0.403,0.369,0.381,1.187
+2013,"Zink, Matt",Richmond,Sr,Outfield,175,0.383,0.427,0.421,1.186
+2013,"Clark, John",UALR,Sr,Infield,235,0.361,0.463,0.462,1.185
+2013,"Henkemeyer, Andy",Minnesota,Sr,Outfield,218,0.376,0.418,0.433,1.185
+2013,"Greenwell, Chase",Morehead St,Sr,Shortstop,248,0.385,0.427,0.416,1.185
+2013,"Brown, Blake",Southern Miss,Sr,Infield,231,0.348,0.478,0.487,1.184
+2013,"Law, Charlie",Rutgers,Sr,Pitcher,214,0.368,0.437,0.447,1.183
+2013,"Forgey, Collin",Saint Joseph's,Sr,Outfield,177,0.381,0.426,0.422,1.183
+2013,"Mickan, Morgan",Texas St,Sr,Outfield,227,0.396,0.382,0.391,1.183
+2013,"Muzika, Will",Furman,Sr,Outfield,269,0.377,0.435,0.428,1.182
+2013,"Stumph, Andrew",Texas St,Sr,Catcher,202,0.390,0.386,0.395,1.174
+2013,"Bass, Corey",North Florida,Sr,Catcher,217,0.371,0.438,0.430,1.173
+2013,"Simpson, Jamie",Eastern Mich,Sr,Outfield,222,0.376,0.420,0.422,1.173
+2013,"Abrahamson, Ryan",Minnesota,Sr,Infield,206,0.383,0.393,0.407,1.172
+2013,"Allen, Mike",Siena,Sr,Infield,218,0.371,0.430,0.430,1.172
+2013,"Spina, Tj",UNC Greensboro,Sr,Infield,226,0.374,0.436,0.423,1.171
+2013,"Barna, Andrew",Davidson,Sr,Third Base,210,0.329,0.518,0.512,1.171
+2013,"Uxa, Logan",Arkansas St,Sr,Outfield,267,0.394,0.375,0.383,1.171
+2013,"Gonzalez, Jake",Houston Baptist,Sr,Outfield,234,0.375,0.442,0.421,1.171
+2013,"Zeblo, Michael",Davidson,Sr,Shortstop,215,0.358,0.458,0.453,1.170
+2013,"Kozlowski, Mike",Murray St,Sr,Infield,253,0.373,0.434,0.423,1.170
+2013,"Levine, Mike",Saint Louis,Sr,Second Base,252,0.391,0.390,0.388,1.170
+2013,"Enzor, Lloyd",UNC Greensboro,Sr,Infield,237,0.361,0.462,0.449,1.170
+2013,"Callaway, Will",Appalachian St,Sr,Infield,225,0.363,0.456,0.443,1.169
+2013,"Keel, Jayson",Wagner,Sr,Outfield,195,0.396,0.380,0.376,1.169
+2013,"Vergason, Chase",South Carolina,Sr,Infield,269,0.390,0.371,0.389,1.169
+2013,"Migani, Chris",Quinnipiac,Sr,Infield,210,0.391,0.390,0.386,1.169
+2013,"Wulf, Austin",Tennessee Tech,Sr,Outfield,273,0.391,0.407,0.387,1.168
+2013,"Cho, Kevin",Oral Roberts,Sr,Outfield,231,0.411,0.332,0.346,1.167
+2013,"Maffei, Justin",San Francisco,Sr,Outfield,283,0.378,0.399,0.411,1.167
+2013,"Wielbruda, Joe",North Florida,Sr,Second Base,264,0.402,0.369,0.363,1.167
+2013,"Clement, Brad",Northern Ky,Sr,Infield,238,0.394,0.375,0.378,1.167
+2013,"Williams, Bret",Richmond,Sr,Pitcher,194,0.376,0.421,0.415,1.166
+2013,"Karmeris, Paul",North Florida,Sr,Infield,257,0.382,0.408,0.401,1.166
+2013,"Phillips, Kyle",New Mexico St,Sr,Outfield,232,0.355,0.474,0.454,1.165
+2013,"Meyer, Sam",Pepperdine,Sr,First Base,217,0.369,0.405,0.427,1.165
+2013,"Villalobos, Freddy",Stephen F. Austin,Sr,Infield,230,0.363,0.426,0.439,1.164
+2013,"Politi, Paul",UC Davis,Sr,Infield,261,0.372,0.396,0.418,1.163
+2013,"Vinson, Matt",Arkansas,Sr,Outfield,244,0.386,0.380,0.389,1.161
+2013,"Meggs, Joe",Washington,Sr,Outfield,228,0.407,0.328,0.346,1.161
+2013,"Hajjar, Anthony",Fairfield,Sr,First Base,207,0.375,0.418,0.411,1.161
+2013,"Stewart, Elliot",Cal Poly,Sr,Catcher,164,0.334,0.476,0.492,1.161
+2013,"Rojas, Leo",Alabama St,Sr,Infield,195,0.369,0.453,0.423,1.160
+2013,"Eslick, Clayton",Gonzaga,Sr,Infield,206,0.392,0.364,0.376,1.160
+2013,"Rambaud, Paul",Villanova,Sr,Outfield,238,0.407,0.343,0.346,1.159
+2013,"Shannon, Mark",UNLV,Sr,Outfield,254,0.368,0.430,0.423,1.159
+2013,"Lowenstein, Matt",Loyola Marymount,Sr,Outfield,221,0.383,0.379,0.392,1.159
+2013,"Lowe, Ranny",Pepperdine,Sr,Outfield,197,0.401,0.337,0.355,1.158
+2013,"Potkay, Sean",Tulane,Sr,Infield,242,0.380,0.386,0.399,1.158
+2013,"Patterson, Brandon",USC Upstate,Sr,Catcher,234,0.388,0.388,0.382,1.158
+2013,"Ratajczak, Nick",Louisville,Sr,Second Base,284,0.398,0.358,0.362,1.158
+2013,"Porras, Brad",A&M-Corpus Christi,Sr,Infield,244,0.362,0.428,0.434,1.157
+2013,"Pare', Matt",Boston College,Sr,Catcher,172,0.382,0.377,0.393,1.157
+2013,"Roberts, Kenny",Alabama,Sr,Infield,283,0.380,0.378,0.395,1.156

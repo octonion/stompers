@@ -1,0 +1,101 @@
+year,player_name,team_name,class_year,position,pa,adj_obp,slg,adj_slg,index
+2014,"Brugnoni, Giancarlo",Grand Valley St,Sr,Infield,213,0.514,0.786,0.754,1.782
+2014,"Delerme, Nico",East Stroudsburg,Sr,Catcher,164,0.546,0.635,0.611,1.703
+2014,"Wilson, Phillip",Central Okla,Sr,Pitcher,224,0.488,0.733,0.690,1.665
+2014,"Kaiser, Austin",Colorado Mesa,Sr,Outfield,251,0.472,0.767,0.699,1.643
+2014,"Reitano, Bradon",Mount Olive,Sr,Shortstop,232,0.469,0.681,0.656,1.595
+2014,"Knott, Chris",East Stroudsburg,Sr,Outfield,181,0.473,0.667,0.642,1.588
+2014,"Grady, Patrick",Lander,Sr,Outfield,303,0.499,0.610,0.588,1.586
+2014,"Howell, Nick",Trevecca Nazarene,Sr,Outfield,256,0.457,0.711,0.666,1.580
+2014,"Robinson, Cody",Northeastern St,Sr,Outfield,204,0.423,0.771,0.732,1.579
+2014,"Whitten, Fran",Saint Leo,Sr,Pitcher,192,0.459,0.669,0.655,1.573
+2014,"Lunde, Erik",Lander,Sr,Infield,315,0.471,0.643,0.620,1.562
+2014,"Rients, Patrick",Southwest Minn. St,Sr,Infield,195,0.399,0.804,0.763,1.562
+2014,"Viger, Tony",Augustana (SD),Sr,Infield,243,0.440,0.688,0.656,1.535
+2014,"Fulmer, Will",Montevallo,Sr,Infield,273,0.518,0.512,0.496,1.531
+2014,"Wilson, Michael",Francis Marion,Sr,Infield,229,0.451,0.644,0.622,1.525
+2014,"Lewis, Connor",Lander,Sr,Infield,310,0.444,0.655,0.631,1.520
+2014,"Todoschuk, Steven",McKendree,Sr,,206,0.464,0.616,0.589,1.518
+2014,"Campbell, Jacob",Albany St. (GA),Sr,Outfield,201,0.474,0.619,0.561,1.508
+2014,"Leister, Jordan",Colorado Mesa,Sr,First Base,161,0.453,0.659,0.601,1.506
+2014,"Giardina, Sal",Lynn,Sr,Third Base,209,0.479,0.563,0.547,1.505
+2014,"Albano, Ben",Lewis,Sr,Outfield,195,0.447,0.639,0.612,1.505
+2014,"Miller, Joey",Concord,Sr,First Base,201,0.417,0.724,0.667,1.502
+2014,"Thimesch, Nick",Drury,Sr,Outfield,246,0.486,0.558,0.530,1.502
+2014,"Coker, Josh",Lincoln Memorial,Sr,Pitcher,176,0.414,0.708,0.671,1.499
+2014,"Koenig, Wes",St. Edward's,Sr,First Base,227,0.455,0.627,0.589,1.499
+2014,"Olson, Stetson",Minn. St. Mankato,Sr,Infield,247,0.460,0.609,0.577,1.498
+2014,"Gonzalez, Jay",Mount Olive,Sr,Outfield,249,0.488,0.537,0.518,1.493
+2014,"Morrow, Jack",Young Harris,Sr,Catcher,240,0.440,0.632,0.606,1.485
+2014,"Winter, Kye",Augustana (SD),Sr,Pitcher,214,0.472,0.565,0.539,1.483
+2014,"La Face, Nick",UC San Diego,Sr,Catcher,246,0.475,0.539,0.524,1.473
+2014,"Wilson, Brad",Central Mo,Sr,Outfield,213,0.461,0.574,0.543,1.465
+2014,"Kengor, Will",Slippery Rock,Sr,Infield,196,0.459,0.563,0.545,1.464
+2014,"Walls, Derrick",Tex. A&M-Kingsville,Sr,Infield,256,0.501,0.462,0.459,1.462
+2014,"Buckley, Brendon",New Haven,Sr,Third Base,158,0.462,0.550,0.529,1.453
+2014,"Kaido, Wade",Ashland,Sr,Third Base,181,0.474,0.535,0.504,1.453
+2014,"Stringer, Blake",Okla. Christian,Sr,First Base,220,0.429,0.620,0.591,1.450
+2014,"Cranmer, Ryan",Newberry,Sr,Infield,200,0.417,0.641,0.615,1.449
+2014,"Garland, Clayton",Fort Hays St,Sr,Outfield,182,0.449,0.580,0.551,1.448
+2014,"Johnson, Matt",Central Okla,Sr,Infield,211,0.433,0.617,0.581,1.446
+2014,"Failoni, Mike",Lindenwood (MO),Sr,First Base,195,0.474,0.516,0.497,1.445
+2014,"Corn, Chase",Erskine,Sr,Outfield,223,0.429,0.612,0.574,1.433
+2014,"Adams, Tyler",Upper Iowa,Sr,Outfield,172,0.449,0.557,0.531,1.430
+2014,"Gaspar, Kaohu",Fresno Pacific,Sr,Outfield,196,0.471,0.500,0.486,1.429
+2014,"Blevins, Bret",Concord,Sr,Outfield,194,0.466,0.539,0.497,1.428
+2014,"Fraga, Daniel",UNC Pembroke,Sr,Infield,251,0.455,0.539,0.517,1.426
+2014,"Calhoun, Matt",Harding,Sr,Infield,207,0.444,0.545,0.533,1.421
+2014,"Petersen, Jake",Augustana (SD),Sr,Infield,221,0.436,0.571,0.544,1.416
+2014,"Kronenfeld, Paul",Catawba,Sr,First Base,244,0.439,0.558,0.538,1.416
+2014,"Musgrove, Jared",Tarleton St,Sr,Catcher,155,0.476,0.477,0.463,1.415
+2014,"Hinshaw, Taylor",Georgia College,Sr,Outfield,215,0.429,0.579,0.556,1.414
+2014,"Galliford, Nathan",Anderson (SC),Sr,Outfield,221,0.409,0.616,0.592,1.409
+2014,"Agredano, Ben",Ark.-Monticello,Sr,Infield,237,0.441,0.536,0.524,1.406
+2014,"Thomas, Rustin",Tarleton St,Sr,Outfield,209,0.423,0.575,0.558,1.404
+2014,"Fears, Matthew",Valdosta St,Sr,Infield,198,0.451,0.503,0.499,1.402
+2014,"Danner, Michael",Tampa,Sr,Outfield,211,0.421,0.570,0.556,1.398
+2014,"Nordgren, Tyler",Point Loma,Sr,Third Base,207,0.436,0.542,0.526,1.398
+2014,"Taska, Taylor",Tex. A&M-Kingsville,Sr,Pitcher,205,0.427,0.547,0.544,1.398
+2014,"Leal, Carlos",Delta St,Sr,Catcher,196,0.485,0.429,0.425,1.396
+2014,"Sterkel, Ethan",Central Wash,Sr,Outfield,182,0.446,0.528,0.498,1.389
+2014,"Gaby, Tyler",King (TN),Sr,Outfield,236,0.414,0.585,0.560,1.388
+2014,"Fennell, Luke",Trevecca Nazarene,Sr,Catcher,215,0.418,0.589,0.551,1.388
+2014,"Chew, David",Mo. Western St,Sr,Outfield,220,0.431,0.547,0.524,1.386
+2014,"Serra, Eric",Wingate,Sr,Outfield,211,0.403,0.610,0.577,1.384
+2014,"Piazza, Tony",Regis (CO),Sr,Infield,195,0.413,0.615,0.557,1.383
+2014,"Comerford, Heath",Tusculum,Sr,First Base,220,0.453,0.494,0.473,1.380
+2014,"Lott, Michael",Shepherd,Sr,Outfield,212,0.443,0.524,0.493,1.379
+2014,"Mejia, Richard",Adelphi,Sr,Infield,178,0.435,0.525,0.508,1.377
+2014,"Rahn, Justin",UC San Diego,Sr,Outfield,243,0.448,0.490,0.477,1.373
+2014,"Blair, Tyler",Dixie St,Sr,First Base,230,0.405,0.596,0.561,1.372
+2014,"Slaid, Jackson",Montevallo,Sr,Catcher,246,0.421,0.543,0.526,1.368
+2014,"Dennett, Josh",Rockhurst,Sr,First Base,189,0.451,0.484,0.464,1.366
+2014,"Covington, Cliff",West Florida,Sr,Infield,158,0.437,0.489,0.490,1.365
+2014,"McKnight, Tyler",West Tex. A&M,Sr,Outfield,214,0.418,0.543,0.523,1.360
+2014,"Kattula, Mike",Arkansas Tech,Sr,First Base,172,0.398,0.586,0.565,1.360
+2014,"Moon, Logan",Mo. Southern St,Sr,Outfield,211,0.433,0.527,0.492,1.358
+2014,"Bick, Daniel",Georgia College,Sr,Infield,240,0.444,0.488,0.469,1.357
+2014,"Drew, Ryan",Palm Beach Atl,Sr,Third Base,168,0.419,0.523,0.518,1.355
+2014,"Andrus, Connor",Winston-Salem,Sr,Catcher,221,0.447,0.497,0.459,1.354
+2014,"Rudnik, Josh",Young Harris,Sr,Pitcher,240,0.408,0.560,0.537,1.352
+2014,"Hudson, Jack",West Virginia St,Sr,Infield,176,0.410,0.569,0.533,1.352
+2014,"Gray, Logan",Malone,Sr,Infield,192,0.432,0.503,0.480,1.344
+2014,"Armendariz, David",Cal Poly Pomona,Sr,,211,0.377,0.606,0.588,1.343
+2014,"Obermark, Jimmy",Columbus St,Sr,Shortstop,260,0.429,0.498,0.483,1.341
+2014,"Rocamora, Robbie",Northern St,Sr,First Base,161,0.374,0.632,0.594,1.341
+2014,"San Miguel, Chance",Southern Nazarene,Sr,Catcher,186,0.415,0.534,0.509,1.339
+2014,"Standish, Todd",Minn. St. Mankato,Sr,Infield,242,0.435,0.495,0.469,1.338
+2014,"Stone, Zach",Millersville,Sr,Outfield,227,0.438,0.470,0.458,1.335
+2014,"Summers, Tyler",Pfeiffer,Sr,Infield,217,0.441,0.466,0.451,1.333
+2014,"Ding, Tyler",Tampa,Sr,Infield,222,0.431,0.483,0.471,1.333
+2014,"Cameron, Tyler",Southern Ark,Sr,Infield,266,0.416,0.511,0.500,1.332
+2014,"Langston, Brent",Delta St,Sr,First Base,152,0.424,0.485,0.481,1.328
+2014,"Vallandingham, Marshall",Lindenwood (MO),Sr,Outfield,182,0.423,0.497,0.479,1.325
+2014,"Perez, Matt",Tex. A&M-Kingsville,Sr,Shortstop,152,0.464,0.398,0.396,1.325
+2014,"Young, Landon",Southwest Baptist,Sr,Infield,237,0.402,0.559,0.522,1.325
+2014,"English, Adrian",Barry,Sr,Infield,201,0.423,0.494,0.478,1.324
+2014,"Hampton, Josh",Wilmington (DE),Sr,Third Base,196,0.411,0.534,0.500,1.322
+2014,"Daris, Joseph",Azusa Pacific,Sr,Outfield,228,0.428,0.480,0.463,1.318
+2014,"Curry, Marquis",Francis Marion,Sr,Outfield,184,0.425,0.484,0.468,1.318
+2014,"Cole, Caleb",Drury,Sr,Infield,234,0.450,0.437,0.415,1.316
+2014,"Zeroski, Derrik",California (PA),Sr,Infield,150,0.438,0.454,0.439,1.315

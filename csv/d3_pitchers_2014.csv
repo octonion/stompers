@@ -1,0 +1,101 @@
+year,player_name,team_name,class_year,position,p_gs,p_ip,p_so,p_bb,outs,adj_so9,adj_bb9,index
+2014,"Kelley, Andrew",Grinnell,Sr,Pitcher,2,48.1,48,4,145,7.46,0.00,16.72
+2014,"Posey, Adam",East. Mennonite,Sr,Pitcher,10,65,56,4,195,6.47,0.00,15.83
+2014,"Gallet, Robert",Bridgewater (VA),Sr,Pitcher,5,57.2,52,6,173,7.60,0.00,13.32
+2014,"Barbee, Kyle",Spalding,Sr,Shortstop,5,37.2,23,1,113,4.58,0.00,12.47
+2014,"Conroy, Sean",Rensselaer,Sr,Pitcher,8,55.2,57,7,167,8.16,1.10,12.34
+2014,"Roenker, Andy",Thomas More,Sr,Pitcher,3,37.1,21,1,112,4.54,0.00,11.41
+2014,"Nunez, Arismendy",Old Westbury,Sr,Pitcher,10,71.2,72,10,215,8.18,1.10,11.34
+2014,"McCarthy, Justin",Brockport,Sr,Pitcher,10,60.2,41,4,182,5.56,0.00,11.29
+2014,"Monger, Andrew",McDaniel,Sr,Pitcher,9,61.2,48,6,185,6.37,0.00,10.32
+2014,"Henshaw, Kyle",Bridgewater (VA),Sr,Pitcher,9,66.1,59,9,199,7.60,1.05,10.16
+2014,"Ringblom, Jon",Buena Vista,Sr,Pitcher,11,78.2,90,15,236,9.28,1.08,9.52
+2014,"McDonald, Mike",Oberlin,Sr,Pitcher,9,67,62,11,201,7.66,1.04,8.34
+2014,"Barnett, Pat",Eastern Conn. St,Sr,Pitcher,5,58,45,7,174,5.64,1.06,8.16
+2014,"Palioca, Alec",Wheaton (MA),Sr,Pitcher,9,60.2,47,7,182,5.63,1.07,8.10
+2014,"Lewis, Hunter",Hampden-Sydney,Sr,Third Base,11,75,67,12,225,7.60,1.05,8.05
+2014,"Hendrick, Jamie",Randolph-Macon,Sr,Pitcher,10,55.1,41,7,166,5.74,1.04,7.65
+2014,"Plaza, Scott",Wis.-Whitewater,Sr,Pitcher,13,96,85,16,288,6.87,1.02,7.30
+2014,"Nordgren, Miles",Birmingham-So,Sr,Pitcher,11,86.1,67,11,259,5.65,1.06,7.14
+2014,"Rettenmeier, Ben",Wartburg,Sr,Pitcher,11,79,82,16,237,8.41,1.07,6.89
+2014,"Via, Dillon",Bridgewater (VA),Sr,Pitcher,5,41,31,6,123,5.70,1.05,5.31
+2014,"Lewis, Ben",Wentworth,Sr,Pitcher,9,54,39,7,162,5.41,1.11,4.93
+2014,"Pyszczynski, Jeremy",Keuka,Sr,Pitcher,10,60,49,9,180,6.11,1.14,4.33
+2014,"Jones-Berasaluce, Borja",Guilford,Sr,Pitcher,13,63,41,8,189,4.68,1.07,4.18
+2014,"Papa, Dylan",Montclair St,Sr,Pitcher,10,70.1,34,7,211,3.84,0.00,4.13
+2014,"Day, Garrick",Wis. Lutheran,Sr,Infield,5,42,23,4,126,3.61,0.00,3.76
+2014,"Danczyk, Tommy",St. Thomas (MN),Sr,Pitcher,2,51,51,12,153,8.59,2.10,3.76
+2014,"Hunnicutt, Jason",Hanover,Sr,Pitcher,7,49.1,45,10,148,7.46,1.07,3.05
+2014,"Rynerson, Michael",St. John Fisher,Sr,Pitcher,7,42,33,7,126,6.43,1.09,2.94
+2014,"Norton, Jake",Loras,Sr,Pitcher,8,45.2,31,7,137,5.61,1.07,2.93
+2014,"Kirby, Brooks",Va. Wesleyan,Sr,Pitcher,1,34.2,21,5,104,4.77,1.05,2.68
+2014,"Moore, Cody",Averett,Sr,Pitcher,11,74.2,65,15,224,6.59,1.06,2.51
+2014,"Vlaj, Adam",MSOE,Sr,Infield,9,69.1,43,9,208,4.54,1.10,2.42
+2014,"Lovizio, Joe",Vassar,Sr,Pitcher,8,50.2,32,7,152,4.54,1.10,2.21
+2014,"Boff, Karney",UMass Dartmouth,Sr,Pitcher,3,44,39,9,132,6.54,1.07,2.19
+2014,"Beck, Tyler",Augsburg,Sr,Pitcher,7,49.1,59,15,148,9.46,2.11,1.71
+2014,"Stuart, Zach",Wesley,Sr,Pitcher,11,71,41,10,213,4.74,1.06,1.54
+2014,"Ziel, Jacob",Martin Luther,Sr,Pitcher,7,51,59,13,153,8.67,2.31,1.52
+2014,"Greenwood, Brent",Adrian,Sr,Pitcher,10,75.1,52,12,226,5.55,1.08,1.51
+2014,"Soltys, Chris",Moravian,Sr,Pitcher,0,41.2,47,12,125,9.36,2.14,1.37
+2014,"Nugent, Brendan",Western New Eng,Sr,Pitcher,10,61.1,73,18,184,9.19,2.18,1.14
+2014,"Eastman, Joshua",Dubuque,Sr,Pitcher,10,57.2,38,9,173,4.67,1.07,0.87
+2014,"Potts, Tommy",Rutgers-Camden,Sr,Pitcher,7,60,41,10,180,5.61,1.07,0.78
+2014,"Weiss, Colin",Widener,Sr,Outfield,10,75,49,12,225,4.64,1.08,0.69
+2014,"Driscoll, Dylan",Amherst,Sr,Pitcher,10,68.2,54,14,206,6.59,1.06,0.63
+2014,"Meyer, Bryan",Eureka,Sr,Pitcher,8,46.1,32,8,139,5.49,1.09,0.10
+2014,"Martin, Ryan",Rutgers-Camden,Sr,Pitcher,6,37,34,9,111,7.48,2.14,-0.03
+2014,"Seidl, Cam",Wis.-Stevens Point,Sr,Pitcher,10,82.1,81,23,247,7.84,2.04,-0.05
+2014,"Benusis, Aaron",Alvernia,Sr,Pitcher,8,42.2,34,9,128,6.47,1.08,-0.08
+2014,"Mowatt, Robin",Catholic,Sr,Pitcher,11,62,36,9,186,4.64,1.08,-0.11
+2014,"Kramer, Ryan",Dickinson,Sr,Pitcher,8,61.2,72,18,185,9.10,2.20,-0.37
+2014,"Weinschenk, Scott",Concordia (TX),Sr,Pitcher,13,102,90,23,306,6.46,2.17,-0.46
+2014,"Sery, Temujin",Manchester,Sr,Third Base,11,78.2,59,16,236,5.61,1.07,-0.55
+2014,"McKown, Judson",Central (IA),Sr,Pitcher,9,66,29,8,198,2.78,1.08,-0.63
+2014,"Lacy, James",Wis.-Oshkosh,Sr,Pitcher,8,56,37,11,168,4.87,1.03,-0.88
+2014,"Hendrickson, Ross",Wabash,Sr,Pitcher,8,56,33,9,168,4.68,1.07,-0.91
+2014,"Collado, Brian",CCNY,Sr,Pitcher,6,39.2,24,6,119,4.35,1.15,-1.03
+2014,"Copp, Josh",Manchester,Sr,Pitcher,2,39.1,48,13,118,9.35,2.14,-1.10
+2014,"Zarosinski, Tom",George Fox,Sr,Pitcher,13,95,86,24,285,7.47,2.14,-1.18
+2014,"Hockenbury, Chip",Hanover,Sr,Pitcher,2,41,25,7,123,4.66,1.07,-1.19
+2014,"Pahos, Will",Grinnell,Sr,Pitcher,10,54,35,10,162,4.66,1.07,-1.33
+2014,"Gartner, Clay",George Fox,Sr,Pitcher,13,95,67,19,285,5.60,1.07,-1.56
+2014,"Gruntkosky, Joe",St. Joseph's (ME),Sr,Pitcher,8,46,48,13,138,8.25,2.18,-1.59
+2014,"Boyle, Sean",Roger Williams,Sr,Pitcher,11,65.1,51,14,196,6.39,1.09,-1.63
+2014,"Choleva, Alec",Utica,Sr,Pitcher,6,33.1,29,8,100,6.44,2.17,-1.67
+2014,"Elwood, Travis",Wis.-Superior,Sr,Pitcher,7,56,50,15,168,7.72,2.07,-1.69
+2014,"Burrows, Peter",Trinity (CT),Sr,Pitcher,7,40.1,32,9,121,6.54,2.14,-1.81
+2014,"Bierlein, Bryan",Chris. Newport,Sr,Pitcher,10,77.1,56,17,232,5.72,1.05,-1.85
+2014,"Carr, Ryan",Trinity (CT),Sr,Pitcher,8,51.1,27,8,154,3.74,1.07,-1.92
+2014,"Lachney, Madison",Louisiana Col,Sr,Pitcher,14,80.1,40,12,241,3.71,1.08,-1.99
+2014,"Reynolds, Brad",Bates,Sr,Pitcher,11,61.1,63,18,184,8.50,2.12,-2.05
+2014,"Langhan, David",Oglethorpe,Sr,Pitcher,0,38,28,8,114,5.52,1.09,-2.10
+2014,"Beam, Jake",Texas-Tyler,Sr,Pitcher,14,83.2,71,20,251,6.49,2.16,-2.27
+2014,"McCaffery, Mitch",Dominican (IL),Sr,Pitcher,10,81,50,14,243,4.49,1.11,-2.31
+2014,"Basso, Alex",Manhattanville,Sr,Pitcher,10,59,58,16,177,7.29,2.20,-2.68
+2014,"Grann, Andrew",SUNY New Paltz,Sr,Pitcher,8,50.2,51,15,152,8.36,2.15,-2.88
+2014,"Keith, Kevin",Colby-Sawyer,Sr,Pitcher,8,51,43,11,153,6.06,1.16,-2.93
+2014,"Kiesewetter, Kyle",Eureka,Sr,Pitcher,7,44,18,6,132,2.75,1.09,-3.04
+2014,"Petersen, Jake",Cal Lutheran,Sr,Pitcher,12,87.2,75,23,263,6.54,2.14,-3.14
+2014,"Marquardt, Peter",Knox,Sr,Pitcher,5,41.1,35,10,124,6.36,2.20,-3.15
+2014,"Roth, Aaron",Cal Lutheran,Sr,Pitcher,0,52,47,14,156,7.47,2.14,-3.28
+2014,"Coleman, Matthew",Brockport,Sr,Pitcher,12,61.2,36,11,185,4.63,1.08,-3.36
+2014,"Hyjek, Ryan",Salem St,Sr,Pitcher,10,66.2,51,15,200,5.51,2.18,-3.38
+2014,"Skelly, Ryan",Western New Eng,Sr,Pitcher,6,35,19,6,105,3.68,1.09,-3.44
+2014,"Poretz, Austin",Frostburg St,Sr,Pitcher,9,62,64,19,186,8.43,2.14,-3.54
+2014,"DiCato, Matthew",Framingham St,Sr,Pitcher,10,66.2,44,13,200,4.49,1.11,-3.64
+2014,"Padgett, Dylan",Manchester,Sr,Pitcher,12,84,63,20,252,5.61,2.14,-3.76
+2014,"Brandon, Zach",Linfield,Sr,Pitcher,14,78.1,44,15,235,4.73,1.06,-3.79
+2014,"Becker, Jacob",Fontbonne,Sr,Pitcher,13,78.1,50,16,235,4.59,1.09,-4.01
+2014,"Sanborn, Lincoln",St. Joseph's (ME),Sr,Infield,9,58.2,54,16,176,7.34,2.18,-4.17
+2014,"Roeschley, Ben",Bluffton,Sr,Pitcher,9,65,48,15,195,5.53,2.17,-4.17
+2014,"Nogay, Eddie",Wash. & Jeff,Sr,Pitcher,10,68.1,33,12,205,3.66,1.09,-4.47
+2014,"Roberts, Chris",FDU-Florham,Sr,Pitcher,10,61.2,55,17,185,7.27,2.20,-4.57
+2014,"Sadoski, Andy",Bridgewater St,Sr,Pitcher,9,63.2,35,12,191,3.65,1.10,-4.79
+2014,"DeSantis, Dante",Penn St.-Behrend,Sr,Pitcher,13,72.1,57,17,217,6.25,2.24,-4.80
+2014,"Beatty, Sam",St. Mary's (MD),Sr,Pitcher,10,76.1,68,22,229,7.39,2.16,-4.88
+2014,"Margolis, Mitch",Occidental,Sr,Infield,11,80.1,68,22,241,6.53,2.14,-5.17
+2014,"Solano, Rob",Moravian,Sr,Pitcher,11,68.1,40,14,205,4.68,1.07,-5.19
+2014,"Hanicak, Scott",Westminster (PA),Sr,Pitcher,11,69.1,50,16,208,5.38,2.23,-5.26
+2014,"Sanchez, Keith",Mass. Maritime,Sr,Pitcher,6,35.2,26,8,107,5.37,2.24,-5.37
+2014,"Rahn, Evan",Wheaton (IL),Sr,Pitcher,10,69.1,60,20,208,6.52,2.15,-5.45

@@ -1,0 +1,301 @@
+year,player_name,team_name,class_year,position,p_gs,p_ip,p_so,p_bb,outs,adj_so9,adj_bb9,index
+2013,"Cotton, Chris",LSU,Sr,Pitcher,0,46.2,47,3,140,9.20,0.00,22.70
+2013,"Nelson, Ben",Navy,Sr,Pitcher,6,41.2,45,4,125,8.72,0.00,19.85
+2013,"Brookshire, Chase",Belmont,Sr,Pitcher,11,71,82,12,213,10.01,1.00,16.02
+2013,"Appel, Mark",Stanford,Sr,Pitcher,14,106.1,130,23,319,11.34,0.97,15.57
+2013,"Bevacqua, Kenton",Oklahoma St,Sr,Pitcher,9,37.2,32,4,113,7.07,0.00,13.31
+2013,"Cimber, Adam",San Francisco,Sr,Pitcher,1,53,59,11,159,10.25,0.98,13.20
+2013,"Westwood, Kyle",North Florida,Sr,Pitcher,9,62.1,71,12,187,9.97,1.00,12.86
+2013,"Christensen, Pat",La Salle,Sr,Pitcher,2,50,58,10,150,9.83,1.02,12.14
+2013,"Straka, John",North Dakota St,Sr,Pitcher,13,108,90,11,324,6.74,0.00,11.85
+2013,"Girodo, Chad",Mississippi St,Sr,Pitcher,0,59.2,82,19,179,12.40,1.94,11.15
+2013,"Zokan, Jake",Col. of Charleston,Sr,Pitcher,14,79,80,15,237,9.20,0.98,10.96
+2013,"Frank, Trevor",UC Riverside,Sr,Pitcher,0,44,44,9,132,9.30,0.97,10.47
+2013,"Prosinski, Jon",Seton Hall,Sr,Pitcher,15,108,82,13,324,6.00,1.00,10.02
+2013,"Scribner, Troy",Sacred Heart,Sr,Pitcher,11,83.1,90,17,250,8.81,1.02,10.01
+2013,"Belcher, Nolan",South Carolina,Sr,Pitcher,17,117,95,16,351,7.21,0.97,9.97
+2013,"Webb, Tyler",South Carolina,Sr,Pitcher,0,43,60,14,129,12.36,1.94,9.93
+2013,"Farrell, John",William & Mary,Sr,Pitcher,17,116.2,92,16,350,7.16,0.98,9.76
+2013,"McClanahan, Caleb",Central Ark,Sr,Pitcher,17,122,80,12,366,5.05,0.00,9.23
+2013,"Meyer, Jonathan",Clemson,Sr,Pitcher,3,46.2,37,7,140,7.23,0.97,9.10
+2013,"Lee, Brandon",USC Upstate,Sr,Pitcher,14,104.1,80,13,313,5.97,1.01,8.84
+2013,"Pegler, Matt",Col. of Charleston,Sr,Pitcher,14,87,70,13,261,7.15,0.98,8.74
+2013,"Koehler, Brett",William & Mary,Sr,Pitcher,16,110.1,70,12,331,5.12,0.00,8.60
+2013,"Yardley, Eric",Seattle,Sr,Pitcher,0,35.2,24,4,107,6.11,0.98,8.50
+2013,"Webb, Kyle",Elon,Sr,Pitcher,16,104,97,21,312,8.23,0.97,8.22
+2013,"Smith, Michael",Dallas Baptist,Sr,Pitcher,0,47.1,51,12,142,9.10,1.98,7.56
+2013,"Mayers, Jacob",Richmond,Sr,Pitcher,6,55.2,41,7,167,5.88,1.02,7.41
+2013,"Ruth, Eric",Winthrop,Sr,Pitcher,0,41.2,55,13,125,11.03,1.99,7.19
+2013,"Brown, Jeremy",VMI,Sr,Pitcher,7,38.2,29,6,116,6.03,1.00,7.15
+2013,"Lambert, Jake",Binghamton,Sr,Pitcher,16,101,84,16,303,6.83,1.02,7.14
+2013,"McKinney, Brett",Ohio St,Sr,Pitcher,3,48.1,58,14,145,10.18,1.96,7.03
+2013,"Dailey, Jordan",Bethune-Cookman,Sr,Pitcher,0,55.1,55,12,166,7.93,1.01,6.59
+2013,"Bradstreet, Mike",Rhode Island,Sr,Pitcher,14,102.1,76,15,307,5.92,1.01,6.57
+2013,"Wilkins, Ryan",North Carolina St,Sr,Pitcher,4,47,47,12,141,9.28,1.94,6.48
+2013,"Hermans, Zak",Princeton,Sr,Pitcher,9,56.1,55,12,169,7.90,1.01,6.43
+2013,"Shannahan, Erik",Missouri St,Sr,Pitcher,0,38.1,39,9,115,9.08,1.98,6.42
+2013,"Westmoreland, Adam",South Carolina,Sr,Pitcher,0,66,62,15,198,8.24,1.94,6.32
+2013,"Kelich, Peter",Bryant,Sr,Pitcher,15,97.2,89,19,293,7.86,1.02,6.27
+2013,"Archer, Tristan",Tennessee Tech,Sr,Pitcher,15,97,97,23,291,8.92,2.02,5.59
+2013,"Carlson, Ben",Furman,Sr,Pitcher,0,52.1,45,11,157,7.08,0.99,5.47
+2013,"King, Brian",Ohio St,Sr,Pitcher,15,100.2,56,12,302,5.09,0.98,5.45
+2013,"Hernandez, Matt",Houston,Sr,Pitcher,3,42,38,9,126,8.08,0.99,5.43
+2013,"Holiday, Jesse",Southern U,Sr,Pitcher,12,81.2,72,15,245,6.72,1.04,5.43
+2013,"McGreevy, Tj",Wichita St,Sr,Pitcher,0,47.1,32,7,142,6.08,0.99,5.42
+2013,"Norton, Adam",Notre Dame,Sr,Infield,16,116.1,70,15,349,5.08,0.99,5.40
+2013,"Clapsaddle, Malcolm",High Point,Sr,Pitcher,6,59,53,13,177,8.04,1.00,5.20
+2013,"Pierpont, Matt",Winthrop,Sr,Pitcher,13,90.2,80,19,272,7.02,1.00,5.13
+2013,"Fiala, Brooks",Miami (OH),Sr,Pitcher,15,102,93,22,306,7.97,1.00,4.86
+2013,"Scarborough, Conner",Gardner-Webb,Sr,Pitcher,4,58.2,41,9,176,5.97,1.00,4.86
+2013,"Griffin, Aaron",Loyola Marymount,Sr,Pitcher,13,88,72,19,264,7.21,0.97,4.23
+2013,"Farmer, Buck",Georgia Tech,Sr,Pitcher,17,113.1,122,35,340,9.34,1.93,4.06
+2013,"Snodgrass, Jessie",Belmont,Sr,Pitcher,0,72.2,77,20,218,9.00,2.00,4.03
+2013,"Frye, Glenn",N.C. Central,Sr,Pitcher,13,88.2,63,14,266,5.82,1.03,3.97
+2013,"Boyd, Matt",Oregon St,Sr,Pitcher,18,132.2,122,33,398,8.32,1.92,3.78
+2013,"Hess, Justin",Ga. Southern,Sr,Pitcher,13,95,120,34,285,11.27,2.93,3.62
+2013,"Mattes, Ryan",Campbell,Sr,Pitcher,16,106.2,76,18,320,5.93,1.01,3.62
+2013,"Aguilar, Gabe",New Mexico,Sr,Pitcher,0,38.1,37,10,115,8.10,1.98,3.59
+2013,"Pierce, Andrew",Southern Miss,Sr,Pitcher,15,112,98,26,336,7.09,1.98,3.54
+2013,"Sitz, Scott",Florida St,Sr,Pitcher,16,94.2,80,22,284,7.21,1.94,3.24
+2013,"Harrington, Eric",Lamar,Sr,Pitcher,10,75.2,54,14,227,6.00,1.00,2.97
+2013,"Wright, Daniel",Arkansas St,Sr,Pitcher,15,110.1,96,26,331,7.15,1.96,2.93
+2013,"Fisher, Jake",Oklahoma,Sr,Pitcher,6,54,51,14,162,8.15,1.96,2.87
+2013,"Sulser, Cole",Dartmouth,Sr,Pitcher,8,53.2,56,14,161,8.63,2.09,2.86
+2013,"Battistelli, Joe",Eastern Mich,Sr,Pitcher,5,42.1,39,10,127,7.95,2.01,2.74
+2013,"Sasser, Grant",North Carolina St,Sr,Pitcher,0,43.2,44,13,131,9.28,1.94,2.60
+2013,"Giel, Tim",Columbia,Sr,Pitcher,10,64.2,51,13,194,6.93,1.01,2.59
+2013,"Wagman, Joey",Cal Poly,Sr,Pitcher,16,112.1,103,29,337,8.27,1.93,2.57
+2013,"McKenzie, Jeff",Bakersfield,Sr,Outfield,15,114.2,88,24,344,6.09,0.99,2.54
+2013,"Pruitt, Austin",Houston,Sr,Pitcher,15,113.2,92,24,341,7.07,0.99,2.40
+2013,"Sorce, Ryan",Troy,Sr,Pitcher,10,58,45,12,174,6.05,0.99,2.35
+2013,"Shaw, Kyle",Toledo,Sr,Pitcher,15,104,66,18,312,5.00,1.00,1.97
+2013,"Connolly, Ryan",Coastal Caro,Sr,Pitcher,1,81,69,20,243,7.14,1.96,1.88
+2013,"Henn, Casey",Wright St,Sr,Pitcher,15,90.2,81,23,272,7.95,2.01,1.73
+2013,"Enloe, Jeffery",Central Ark,Sr,Pitcher,16,110.1,86,25,331,7.06,1.98,1.37
+2013,"Clark, Dylan",Elon,Sr,Pitcher,12,79.2,54,16,239,6.17,0.97,1.02
+2013,"Hinkle, Haden",San Francisco,Sr,Pitcher,5,80.1,61,18,241,6.15,1.95,0.99
+2013,"Foss, Trevor",A&M-Corpus Christi,Sr,Pitcher,15,102,103,31,306,9.13,1.97,0.79
+2013,"Dudley, Caleb",Louisiana Tech,Sr,Pitcher,0,52,37,11,156,6.11,0.98,0.70
+2013,"Suk, Michael",Nicholls St,Sr,Pitcher,12,84.1,74,22,253,7.08,1.98,0.51
+2013,"Easley, Josh",North Carolina St,Sr,Pitcher,2,45.2,42,13,137,8.25,1.94,0.48
+2013,"Ferguson, Kevin",Northeastern,Sr,Pitcher,14,104.1,93,28,313,8.08,1.98,0.47
+2013,"Greenhouse, Jack",Central Conn. St,Sr,Pitcher,7,46.1,22,6,139,3.90,1.02,0.45
+2013,"Johnson, Michael",Dartmouth,Sr,Pitcher,9,59.1,47,13,178,6.71,1.04,0.32
+2013,"Doane, Kerry",East Tenn. St,Sr,Pitcher,17,147,77,24,441,4.03,0.99,0.22
+2013,"Doran, Ryan",San Diego St,Sr,Pitcher,16,111.2,86,27,335,6.18,1.94,0.21
+2013,"Medick, Spencer",Elon,Sr,Pitcher,12,95.2,75,24,287,7.20,1.94,0.21
+2013,"Rowley, Chris",Army,Sr,Pitcher,14,97.2,75,21,293,5.86,1.02,0.07
+2013,"Renner, Michael",North Florida,Sr,Pitcher,12,94.2,54,16,284,4.99,1.00,-0.09
+2013,"Dermody, Matt",Iowa,Sr,Pitcher,14,94,68,21,282,6.13,1.96,-0.17
+2013,"Furney, Sean",Rhode Island,Sr,Pitcher,15,98,75,22,294,5.92,2.03,-0.52
+2013,"Pitts, Mitchell",Texas St,Sr,Pitcher,9,48,28,9,144,5.08,0.98,-0.53
+2013,"Waszak, Andrew",Michigan St,Sr,Pitcher,13,91.2,57,18,275,5.07,0.99,-0.57
+2013,"Yarusi, Brandon",Wofford,Sr,Pitcher,11,63,54,17,189,7.06,1.98,-0.58
+2013,"Ramer, Robert",Purdue,Sr,Pitcher,13,90.2,43,14,272,4.06,0.98,-0.60
+2013,"Choate, Justin",Stephen F. Austin,Sr,Pitcher,11,73.1,61,19,220,7.06,1.98,-0.61
+2013,"Godley, Zack",Tennessee,Sr,Pitcher,14,108.1,98,32,325,8.21,1.95,-0.71
+2013,"Smith, Tyler",Rider,Sr,Pitcher,14,93,82,24,279,6.88,2.03,-0.76
+2013,"Newberry, Jacob",High Point,Sr,Pitcher,14,88,78,24,264,7.03,1.99,-0.78
+2013,"Little, Connor",Hawaii,Sr,Pitcher,13,96,52,18,288,4.16,0.96,-0.81
+2013,"Grundy, Jerad",Kentucky,Sr,Pitcher,14,83.1,61,20,250,6.18,1.94,-0.83
+2013,"Strenge, Andrew",Cincinnati,Sr,Pitcher,4,40,42,13,120,9.02,2.00,-0.86
+2013,"Hassna, Kyle",San Jose St,Sr,Pitcher,3,58,49,16,174,7.16,1.96,-0.97
+2013,"Davis, Josh",Belmont,Sr,Pitcher,1,44.2,39,12,134,7.00,2.00,-0.98
+2013,"Wormington, Kyle",Valparaiso,Sr,Pitcher,11,75,50,16,225,6.00,1.00,-1.02
+2013,"Mott, Evan",New Mexico St,Sr,Pitcher,0,45.1,59,19,136,11.13,2.96,-1.15
+2013,"Cleveland, Chance",UALR,Sr,Pitcher,15,100.1,90,29,301,8.13,1.97,-1.20
+2013,"Farrell, Luke",Northwestern,Sr,Pitcher,12,84.1,80,26,253,8.09,1.98,-1.42
+2013,"Bertelson, Ben",Air Force,Sr,Pitcher,13,79.1,80,26,238,9.09,1.98,-1.42
+2013,"Gordon, Grant",Missouri St,Sr,Pitcher,0,39.1,40,13,118,9.08,1.98,-1.52
+2013,"Greening, Chase",Stephen F. Austin,Sr,Pitcher,14,90,78,25,270,7.06,1.98,-1.59
+2013,"Bladel, Johnny",James Madison,Sr,Outfield,7,38.1,31,10,115,7.06,1.98,-1.60
+2013,"Forsythe, Cody",Southern Ill,Sr,Pitcher,15,101,67,22,303,5.05,0.99,-1.62
+2013,"Gebler, Tyler",Rutgers,Sr,Pitcher,11,85,39,14,255,4.04,0.99,-1.74
+2013,"Garrett, John",VMI,Sr,Pitcher,0,39.1,34,11,118,7.03,1.99,-1.78
+2013,"Sullivan, Charley",Alabama,Sr,Pitcher,16,94.1,76,26,283,7.18,1.95,-1.86
+2013,"Cito, Jarron",South Ala,Sr,Pitcher,14,71.2,66,22,215,8.17,1.96,-1.91
+2013,"Adkins, Brian",UCF,Sr,Pitcher,14,71.1,38,13,214,4.01,1.00,-1.92
+2013,"O'Brien, Patrick",Youngstown St,Sr,Pitcher,13,91,51,18,273,5.01,1.00,-1.96
+2013,"Hamilton, John",Charlotte,Sr,Pitcher,15,98,67,22,294,6.00,2.00,-2.01
+2013,"Meiers, Jake",Fla. Atlantic,Sr,Pitcher,12,68.1,51,18,205,6.13,1.96,-2.08
+2013,"Schaeffer, Tony",SIUE,Sr,Pitcher,6,50,36,12,150,5.99,2.00,-2.08
+2013,"Pond, Joe",Utah,Sr,Pitcher,8,65.2,66,23,197,9.30,2.90,-2.12
+2013,"Koors, Tyler",Xavier,Sr,Pitcher,15,98.2,59,20,296,4.97,1.01,-2.20
+2013,"Olson, Tyler",Gonzaga,Sr,Pitcher,14,101.2,91,31,305,8.11,1.97,-2.27
+2013,"Hill, Nathan",Troy,Sr,Pitcher,1,74.1,92,30,223,11.10,2.97,-2.37
+2013,"Kalber, Jason",IPFW,Sr,Pitcher,14,82.2,61,19,248,5.79,2.07,-2.38
+2013,"Hatfield, Heith",Memphis,Sr,Pitcher,0,41.2,39,13,125,8.07,1.98,-2.56
+2013,"Byerly, Chase",Butler,Sr,Pitcher,0,43.2,33,11,131,5.92,2.03,-2.57
+2013,"Higginbotham, Brett",Stephen F. Austin,Sr,Pitcher,0,43.2,38,13,131,7.06,1.98,-2.58
+2013,"Holmes, Colby",South Carolina,Sr,Pitcher,9,55,42,15,165,6.18,1.94,-2.71
+2013,"Fant, Randall",Arkansas,Sr,Pitcher,14,66.2,52,19,200,7.20,1.95,-2.73
+2013,"Adams, Hugh",Fla. Atlantic,Sr,Pitcher,0,38.2,38,13,116,8.17,2.94,-2.80
+2013,"Delgado, Casey",Austin Peay,Sr,Pitcher,16,96.1,105,35,289,9.03,2.99,-2.83
+2013,"Lovecchio, Joey",South Fla,Sr,Pitcher,15,77.2,48,17,233,5.02,1.00,-2.84
+2013,"Garner, Max",Baylor,Sr,Pitcher,14,84.2,64,23,254,6.16,1.95,-2.84
+2013,"Ogburn, Ethan",North Carolina St,Sr,Pitcher,12,60,38,14,180,5.15,1.94,-2.85
+2013,"Lynch, Jay",Binghamton,Sr,Pitcher,13,84.1,54,18,253,4.88,1.02,-2.86
+2013,"Dziedzic, Jonathan",Lamar,Sr,Pitcher,16,107.2,106,35,323,7.99,2.00,-3.04
+2013,"Izzio, Anthony",South Ala,Sr,Pitcher,5,42.1,31,11,127,6.13,1.96,-3.10
+2013,"Davis, Tripp",NJIT,Sr,Pitcher,15,97.1,87,28,292,7.65,2.09,-3.17
+2013,"Beck, Ryan",New Mexico St,Sr,Pitcher,12,81,86,29,243,9.11,2.96,-3.29
+2013,"Smith, Nate",Furman,Sr,Pitcher,17,100.1,98,34,301,8.09,2.97,-3.35
+2013,"Manuel, Kaleb",Southeastern La,Sr,Pitcher,8,56.1,55,19,169,8.09,2.97,-3.38
+2013,"Lloyd, Kyle",Evansville,Sr,Pitcher,14,94,99,34,282,9.09,2.97,-3.39
+2013,"Baker, Alex",Air Force,Sr,Pitcher,7,51.1,46,16,154,8.08,1.98,-3.46
+2013,"Lunsford, Stephen",Prairie View,Sr,Pitcher,2,48,32,11,144,5.77,2.08,-3.47
+2013,"Martin, Kyle",Texas A&M,Sr,Pitcher,7,58.2,41,15,176,6.20,1.94,-3.65
+2013,"Stevenson, Josh",Ga. Southern,Sr,Pitcher,12,69.2,63,23,209,8.20,1.95,-3.70
+2013,"Yuhas, Mathew",Saint Peter's,Sr,Pitcher,13,76.2,45,16,230,4.89,1.02,-3.72
+2013,"Trecaso, Samuel",Akron,Sr,Infield,0,35.1,22,8,106,5.03,1.99,-3.79
+2013,"Healy, John",Bryant,Sr,Pitcher,10,80.2,69,24,242,6.88,2.04,-3.87
+2013,"Fritz, Keith",Radford,Sr,Pitcher,13,65.2,32,13,197,3.99,1.00,-4.07
+2013,"Hunter, Kyle",Dartmouth,Sr,Pitcher,8,54,52,17,162,7.67,2.09,-4.27
+2013,"Flattery, Joe",Kansas St,Sr,Pitcher,13,79.1,52,20,238,5.09,1.97,-4.34
+2013,"Horne, Chris",Norfolk St,Sr,Pitcher,14,100,57,21,300,4.79,1.04,-4.45
+2013,"Kaminska, Patrick",Central Mich,Sr,Pitcher,7,35.2,29,10,107,6.93,2.02,-4.45
+2013,"Kingsley, Kyle",North Dakota St,Sr,Pitcher,0,39.1,28,10,118,5.78,2.08,-4.53
+2013,"Graveman, Kendall",Mississippi St,Sr,Pitcher,19,113.2,69,29,341,5.17,1.94,-4.75
+2013,"Somsen, Layne",South Dakota St,Sr,Pitcher,13,91.1,91,30,274,7.73,2.07,-4.87
+2013,"DeBoo, Chris",Valparaiso,Sr,Pitcher,16,98.2,40,17,296,3.00,1.00,-5.01
+2013,"Johnson, Jake",Northern Colo,Sr,Pitcher,12,73,49,18,219,5.83,2.06,-5.14
+2013,"Valente, Brian",Eastern Mich,Sr,Pitcher,6,52.1,33,13,157,4.97,2.01,-5.22
+2013,"Gilbreath, Aaron",Dallas Baptist,Sr,Pitcher,0,33.2,36,13,101,9.10,2.97,-5.33
+2013,"Bougher, Stephen",South Dakota St,Sr,Pitcher,14,88,62,23,264,5.80,2.07,-5.43
+2013,"Andrzejewski, Brett",Purdue,Sr,Pitcher,0,35,19,8,105,4.06,1.97,-5.45
+2013,"Roe, Nathaniel",Rutgers,Sr,Pitcher,0,41.1,32,12,124,6.06,1.98,-5.54
+2013,"MacDonald, Corey",Hawaii,Sr,Infield,14,99.1,57,25,298,5.20,1.92,-5.54
+2013,"Silverstein, Scott",Virginia,Sr,Pitcher,16,91.1,70,28,274,6.17,1.94,-5.67
+2013,"Barto, Jeff",Utah Valley,Sr,Pitcher,0,47.1,31,12,142,4.90,2.04,-5.77
+2013,"Burstrom, Tyler",Lipscomb,Sr,Pitcher,0,58.2,41,16,176,6.03,1.99,-5.77
+2013,"Wilson, Josh",Appalachian St,Sr,Pitcher,0,38.1,36,14,115,8.15,2.95,-5.97
+2013,"Bazdanes, AJ",Maine,Sr,Pitcher,14,96,70,25,288,5.72,2.10,-6.01
+2013,"Allbritton, Nick",North Florida,Sr,Pitcher,14,92.1,49,21,277,3.99,2.01,-6.10
+2013,"Whaley, Eric",Miami (FL),Sr,Pitcher,3,35.2,26,11,107,6.24,1.92,-6.18
+2013,"Adkins, Hunter",Middle Tenn,Sr,Pitcher,14,87.2,64,26,263,6.11,1.96,-6.19
+2013,"Butara, Neil",Eastern Mich,Sr,Pitcher,9,81,49,20,243,4.97,2.01,-6.22
+2013,"Johnson, Kevin",Illinois,Sr,Pitcher,11,67,44,18,201,5.06,1.98,-6.50
+2013,"Kyle, Kevin",Kennesaw St,Sr,Pitcher,14,73.2,51,21,221,6.07,1.98,-6.51
+2013,"Firth, Scott",Clemson,Sr,Pitcher,6,61.1,41,18,184,6.20,1.94,-6.58
+2013,"Chase, Austin",Albany (NY),Sr,Pitcher,11,75,57,21,225,5.79,2.07,-6.58
+2013,"Ray, Parker",Texas A&M,Sr,Pitcher,6,67.2,44,19,203,5.17,1.94,-6.62
+2013,"Lamacchia, Derek",Quinnipiac,Sr,Pitcher,10,75.1,56,22,226,5.91,2.03,-6.73
+2013,"Buchanan, Chuck",Bakersfield,Sr,Pitcher,4,41,48,18,123,10.14,2.96,-7.00
+2013,"Bruns, Nick",Bowling Green,Sr,Pitcher,2,53.1,46,18,160,6.99,3.00,-7.05
+2013,"Ostapeck, Stephen",Villanova,Sr,Pitcher,12,79.2,48,21,239,4.98,2.01,-7.13
+2013,"Richard, Jon",Xavier,Sr,Pitcher,15,105,65,27,315,4.97,2.01,-7.23
+2013,"Augenstein, Ben",USC Upstate,Sr,Pitcher,9,54.1,39,16,163,5.97,2.01,-7.23
+2013,"Ormseth, Michael",New Mexico St,Sr,Pitcher,10,53.1,50,20,160,8.09,2.96,-7.32
+2013,"Giller, Kurt",Oral Roberts,Sr,Pitcher,7,39.1,21,10,118,4.08,1.96,-7.33
+2013,"Jones, Justin",California,Sr,Pitcher,9,45,29,13,135,5.20,1.92,-7.35
+2013,"Taylor, Thomas",Kansas,Sr,Pitcher,14,96.2,66,28,290,6.09,1.97,-7.35
+2013,"Keane, Patrick",St. Mary's (CA),Sr,Pitcher,0,38.2,25,11,116,5.06,1.98,-7.54
+2013,"Vattuone, Dominique",UNC Greensboro,Sr,Pitcher,0,44.1,43,17,133,8.06,2.98,-7.59
+2013,"Dennison, Neal",Georgetown,Sr,Catcher,0,40.2,32,13,122,6.91,2.03,-7.61
+2013,"McWilliams, River",Buffalo,Sr,Pitcher,0,57.1,41,17,172,5.91,2.03,-7.70
+2013,"Dieterich, Blake",Georgia,Sr,Pitcher,2,41,32,14,123,7.17,2.93,-7.80
+2013,"Zerff, Evan",LIU Brooklyn,Sr,Pitcher,2,52.1,49,19,157,7.87,3.05,-7.96
+2013,"Pulido, Andrew",San Francisco,Sr,Pitcher,6,46.2,28,13,140,5.13,1.95,-7.99
+2013,"Badura, Dylan",Tex.-Pan American,Sr,Pitcher,14,79.1,48,21,238,4.87,2.05,-8.01
+2013,"Anastasi, Rich",Fordham,Sr,Pitcher,3,49.2,30,13,149,4.87,2.05,-8.03
+2013,"Charest, Joseph",Fordham,Sr,Pitcher,12,78,52,22,234,5.84,2.05,-8.14
+2013,"Bayless, Trevor",San Diego,Sr,Pitcher,0,34.1,40,16,103,10.26,3.90,-8.15
+2013,"Grimm, Shane",Eastern Ky,Sr,Pitcher,12,73,46,21,219,4.98,2.01,-8.20
+2013,"Wine, Cale",La.-Monroe,Sr,Pitcher,15,91,59,27,273,5.09,1.97,-8.26
+2013,"Bare, Crayton",Baylor,Sr,Pitcher,0,53.1,54,22,160,9.24,2.92,-8.31
+2013,"Reed, Jimmy",Maryland,Sr,Pitcher,13,88.2,74,32,266,7.22,2.91,-8.35
+2013,"McCoy, Jordan",Nicholls St,Sr,Pitcher,0,34.1,33,13,103,8.09,2.97,-8.35
+2013,"Hander, Ryan",Nebraska,Sr,Pitcher,8,49.2,41,18,149,7.21,2.91,-8.38
+2013,"Law, Charlie",Rutgers,Sr,Pitcher,15,91.2,82,34,275,8.08,2.97,-8.43
+2013,"Anderson, Simon",North Dakota St,Sr,Pitcher,0,36.1,24,10,109,4.82,2.08,-8.54
+2013,"Funk, AJ",Northwestern St,Sr,Pitcher,3,40,23,11,120,5.05,1.98,-8.59
+2013,"Morton, Zach",Northwestern,Sr,Infield,13,85,46,22,255,4.04,1.98,-8.59
+2013,"Mullen, Kyle",Saint Joseph's,Sr,Pitcher,14,91,77,31,273,6.90,3.04,-8.73
+2013,"Begel, Joey",Ill.-Chicago,Sr,Pitcher,10,75.2,41,20,227,3.99,2.01,-9.12
+2013,"Organ, Tommy",North Florida,Sr,Pitcher,15,85.1,54,25,256,4.99,2.01,-9.13
+2013,"Stady, Kameron",Mississippi Val,Sr,Pitcher,8,67,57,23,201,6.84,3.07,-9.17
+2013,"Hill, Brian",Eastern Mich,Sr,Pitcher,13,79,42,21,237,3.98,2.01,-9.21
+2013,"Razo, Chris",Illinois St,Sr,Pitcher,11,89.1,79,32,268,6.97,3.01,-9.21
+2013,"Aulds, Shelby",La.-Monroe,Sr,Pitcher,10,72.2,37,19,218,4.07,1.97,-9.38
+2013,"Volpe, Mike",Towson,Sr,Pitcher,16,102.2,78,35,308,6.07,2.97,-9.43
+2013,"Watts, Dre",Col. of Charleston,Sr,Pitcher,0,38.2,43,18,116,10.22,3.91,-9.46
+2013,"Munnelly, Chris",North Carolina,Sr,Pitcher,8,60.1,63,27,181,9.33,3.86,-9.56
+2013,"Graham, Kasceim",Albany (NY),Sr,Pitcher,13,73,52,22,219,5.79,2.07,-9.62
+2013,"Houseal, Brett",Marist,Sr,Pitcher,15,95,49,24,285,3.93,2.04,-9.64
+2013,"Wainman, Matt",William & Mary,Sr,Pitcher,6,66.1,61,26,199,8.19,2.93,-9.65
+2013,"Bagshaw, Blake",Northern Ky,Sr,Pitcher,13,62,32,16,186,4.03,1.98,-9.71
+2013,"Moore, Devin",Indiana St,Sr,Pitcher,11,80.2,63,28,242,7.04,2.98,-9.71
+2013,"Tabar, Dillon",UNC Asheville,Sr,Pitcher,4,41.2,29,13,125,6.04,1.99,-9.72
+2013,"Clark, Tim",Northern Ky,Sr,Pitcher,5,35.2,17,9,107,4.03,1.98,-9.73
+2013,"Jones, Stanten",Ark.-Pine Bluff,Sr,Pitcher,8,55,53,21,165,7.77,3.09,-9.74
+2013,"Bailey, Tanner",Ole Miss,Sr,Pitcher,0,42.2,38,17,128,8.16,2.94,-9.83
+2013,"Klitsch, Tyler",Winthrop,Sr,Pitcher,12,73,35,18,219,4.01,1.99,-9.90
+2013,"Sandquist, Ricky",Iowa,Sr,Pitcher,2,40.2,29,14,122,6.13,2.94,-9.96
+2013,"Wilson, Casey",Kent St,Sr,Pitcher,15,94.2,50,26,284,4.00,2.00,-10.01
+2013,"Thoreson, Mac",Miami (OH),Sr,Pitcher,14,86.1,50,24,259,4.98,2.01,-10.13
+2013,"Mott, Adam",New Mexico St,Sr,Pitcher,14,95,93,40,285,8.09,2.96,-10.26
+2013,"Mantiply, Joe",Virginia Tech,Sr,Pitcher,13,75.2,50,25,227,5.19,1.93,-10.26
+2013,"Curtis, Adam",Western Caro,Sr,Pitcher,6,36.2,25,12,110,6.09,1.97,-10.33
+2013,"Tew, Matt",Omaha,Sr,Pitcher,10,53.2,54,22,161,8.80,3.07,-10.45
+2013,"Gunther, Ryan",Charleston So,Sr,Pitcher,15,90.2,73,33,272,7.07,2.97,-10.49
+2013,"Byo, Alex",Tulane,Sr,Pitcher,14,99,49,27,297,4.04,1.98,-10.59
+2013,"Pace, Jordan",Massachusetts,Sr,Pitcher,9,78,42,21,234,3.93,2.04,-10.71
+2013,"Soren, Matt",Delaware,Sr,Pitcher,10,74.2,81,34,224,9.03,3.99,-10.75
+2013,"Elliott, Jordan",Delaware St,Sr,Pitcher,13,91,73,30,273,6.61,2.12,-10.85
+2013,"Kraemer, Shane",South Dakota St,Sr,Pitcher,6,42.2,39,16,128,7.73,3.10,-10.94
+2013,"Terhune, Greg",Seton Hall,Sr,Pitcher,11,81,58,27,243,6.00,3.00,-10.97
+2013,"Miller, Ethan",San Diego St,Sr,Pitcher,1,49.1,52,23,148,9.27,3.88,-10.97
+2013,"Vogt, Dylan",Nebraska,Sr,Pitcher,1,57.1,25,15,172,3.09,1.94,-10.98
+2013,"Romano, Michael",N.C. Central,Sr,Pitcher,12,84,37,20,252,2.91,2.06,-11.00
+2013,"Alemann, Alex",Saint Louis,Sr,Pitcher,15,93.2,70,33,281,5.98,3.01,-11.15
+2013,"Ricciardi, Anthony",Alabama St,Sr,Pitcher,11,57.1,50,21,172,6.72,3.12,-11.22
+2013,"Stadler, Austin",Wake Forest,Sr,Pitcher,12,69.1,60,28,208,7.21,2.91,-11.26
+2013,"Bumgardner, Gaither",USC Upstate,Sr,Pitcher,9,68,52,24,204,5.97,3.02,-11.26
+2013,"Barrera, Guadalupe",Tex.-Pan American,Sr,Pitcher,1,34.1,27,12,103,6.82,3.08,-11.35
+2013,"Dierdorff, Dan",West Virginia,Sr,Pitcher,13,79.1,47,24,238,5.05,1.98,-11.60
+2013,"Kramp, Kyle",Butler,Sr,Pitcher,13,69.1,52,24,208,5.92,3.04,-11.69
+2013,"Shannon, Mark",UNLV,Sr,Outfield,8,48.2,37,18,146,6.15,2.93,-11.74
+2013,"Moore, Brent",N.C. A&T,Sr,Pitcher,14,90.1,53,27,271,4.88,2.05,-12.01
+2013,"Leiter, Mark",NJIT,Sr,Pitcher,15,94.2,106,42,284,9.57,3.14,-12.07
+2013,"Pritcher, Austin",Citadel,Sr,Pitcher,16,99.1,80,38,298,7.11,2.95,-12.13
+2013,"McArdle, Dean",Stanford,Sr,Pitcher,8,42.2,34,17,128,7.21,2.91,-12.32
+2013,"Hagan, Sean",St. John's (NY),Sr,Pitcher,15,90.2,47,27,272,4.05,1.98,-12.52
+2013,"Salter, Richie",Norfolk St,Sr,Pitcher,9,57.2,52,22,173,7.66,3.13,-12.55
+2013,"McCallister, Matt",Portland,Sr,Pitcher,10,64.2,38,21,194,5.17,1.94,-12.56
+2013,"Morgan, Kyler",Longwood,Sr,Pitcher,14,77.2,40,23,233,4.04,1.98,-12.61
+2013,"Mitchell, Matt",Grambling,Sr,Pitcher,12,68.1,55,25,205,6.79,3.09,-12.62
+2013,"McKenzie, Ethan",Central Ark,Sr,Pitcher,3,51.2,22,14,155,3.03,1.98,-12.68
+2013,"Gordon, Hunter",Boston College,Sr,Pitcher,8,57.1,33,19,172,5.15,1.94,-12.68
+2013,"Labitan, Clark",Virginia Tech,Sr,Pitcher,0,45.1,37,19,136,7.27,2.89,-12.76
+2013,"Retz, Ryan",High Point,Sr,First Base,11,65.2,33,19,197,4.02,1.99,-12.82
+2013,"Gunn, Adam",Utah Valley,Sr,Pitcher,14,82.1,58,29,247,5.88,3.06,-12.99
+2013,"Duncan, David",Florida A&M,Sr,Pitcher,12,79.2,53,27,239,4.99,3.01,-13.09
+2013,"Dollar, Stephen",Florida A&M,Sr,Pitcher,1,35.1,23,12,106,4.99,3.01,-13.09
+2013,"Huffman, Blake",UALR,Sr,Pitcher,14,88,69,35,264,7.11,2.95,-13.10
+2013,"May, Jackson",Savannah St,Sr,Pitcher,10,77,40,23,231,3.89,2.06,-13.17
+2013,"Patrick, Danny",FGCU,Sr,Pitcher,2,40.1,30,15,121,5.98,3.01,-13.21
+2013,"Smith, Zack",Southeast Mo. St,Sr,Pitcher,14,71.1,49,25,214,5.96,3.02,-13.31
+2013,"Rinehart, Joel",Navy,Sr,Pitcher,0,41.2,25,13,125,4.85,2.06,-13.39
+2013,"Biggs, Josh",Evansville,Sr,Pitcher,8,51.1,41,20,154,7.07,2.97,-13.43
+2013,"Townsley, Sean",High Point,Sr,Pitcher,9,57.1,50,24,172,7.03,2.99,-13.72
+2013,"Mott, Bob",San Francisco,Sr,Pitcher,1,35,20,12,105,5.13,2.93,-13.89
+2013,"Hanse, Andrew",Iowa,Sr,Pitcher,7,46,32,17,138,6.13,2.94,-13.92
+2013,"Knight, Dusten",Tex.-Pan American,Sr,Pitcher,13,78,96,39,234,10.72,4.11,-14.03
+2013,"Morgan, Zach",Sacramento St,Sr,Pitcher,10,75.2,33,22,227,3.05,1.97,-14.41
+2013,"Smorol, Rob",Rutgers,Sr,Pitcher,15,89.1,62,33,268,6.06,2.97,-14.49
+2013,"Price, Nick",Tennessee Tech,Sr,Pitcher,4,51.1,46,22,154,7.93,3.03,-14.53
+2013,"Koch, John",Arkansas St,Sr,Pitcher,4,68.1,62,31,205,8.17,3.92,-14.65
+2013,"Rogers, Jared",Hofstra,Sr,Pitcher,9,37.1,18,12,112,4.02,1.99,-14.77
+2013,"D'Errico, David",Hofstra,Sr,Pitcher,10,46.1,22,14,139,4.02,1.99,-14.78
+2013,"Perkins, Tanner",Western Ky,Sr,Pitcher,12,63,51,26,189,7.13,2.94,-14.92
+2013,"Moyer, Mike",Western Mich,Sr,Pitcher,14,74.1,48,27,223,5.00,3.00,-15.03
+2013,"Blackburn, Heath",Florida A&M,Sr,Pitcher,13,64.1,37,22,193,4.99,3.01,-15.09
+2013,"Danielczyk, Jonathan",Pittsburgh,Sr,Catcher,1,37.2,16,11,113,2.99,2.01,-15.11
+2013,"Michaud, Joseph",Bryant,Sr,Pitcher,9,63,61,28,189,7.86,4.07,-15.17
+2013,"Winkelman, Mark",Creighton,Sr,Pitcher,1,53.2,31,19,161,5.09,2.95,-15.22
+2013,"Ashwander, Walton",Alabama A&M,Sr,Second Base,2,66.2,35,21,200,3.89,2.06,-15.22
+2013,"Cox, Chris",USC Upstate,Sr,Pitcher,11,56.2,33,19,170,4.97,3.02,-15.23
+2013,"Wolff, Sam",New Mexico,Sr,Pitcher,16,93,75,39,279,7.09,2.96,-15.30
+2013,"Creel, Brandon",Sacramento St,Sr,Pitcher,0,55.1,29,19,166,4.06,2.95,-15.30
+2013,"Barber, Brett",Ohio,Sr,Pitcher,1,57.2,52,25,173,7.95,3.02,-15.43
+2013,"Delange, Kory",Nicholls St,Sr,Pitcher,14,92.1,62,35,277,6.07,2.97,-15.43
