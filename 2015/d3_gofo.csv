@@ -1,101 +1,101 @@
-name,team,cl,go_fo
-"Ingram, Tim",Old Westbury,Sr,3.435
-"Hungerford, Eric",Gettysburg,Sr,2.700
-"Schiltz, Bennett",Frostburg St.,Sr,2.659
-"Sullivan, Joe",Me.-Farmington,Sr,2.419
-"Landry, Taylor",WPI,Sr,2.400
-"Schulman, Josh",Rochester (NY),Sr,2.355
-"Pheland, Kyle",Salve Regina,Sr,2.343
-"Freeman, Matt",St. Norbert,Sr,2.333
-"Howard, Josh",Methodist,Sr,2.320
-"Olesen, Caleb",Old Westbury,Sr,2.303
-"Behme, Isaac",Webster,Sr,2.279
-"Alberhasky, Connor",Coe,Sr,2.222
-"England, Jason",Hardin-Simmons,Sr,2.213
-"Johnstone, Kevin",Case,Sr,2.182
-"Haddeland, Chris",Linfield,Sr,2.147
-"Sharkey, Ryan",Rowan,Sr,2.125
-"Miller, Brandon",Lynchburg,Sr,2.122
-"Hoffman, Peter",Willamette,Sr,2.119
-"Rule, Jake",Westminster (MO),Sr,2.028
-"Deighan, Cory",Pitt.-Greensburg,Sr,2.026
-"Vargues, Mike",Plattsburgh St.,Sr,2.000
-"Robers, Tyler",Carroll (WI),Sr,1.971
-"Enterlin, Jacob",Johns Hopkins,Sr,1.961
-"Richards, Andrew",Southern Me.,Sr,1.945
-"Cox, Cameron",Concordia (TX),Sr,1.934
-"Hube, Nate",Earlham,Sr,1.930
-"Carroll, R.J.",Rose-Hulman,Sr,1.918
-"Debernardis, Tom",Cazenovia,Sr,1.917
-"Manner, Adam",Heidelberg,Sr,1.894
-"Meeken, Dan",St. Joseph's (ME),Sr,1.889
-"Daniels, Josh",Carthage,Sr,1.889
-"Olson, Connor",Northwestern-St. Paul,Sr,1.870
-"Carlisle, Adam",Millikin,Sr,1.857
-"Janik, Stephen",Saint Vincent,Sr,1.852
-"Treadway, Kyle",Pacific (OR),Sr,1.851
-"Koenig, Steve",Penn St.-Berks,Sr,1.833
-"Ethridge, Smokey",Millsaps,Sr,1.820
-"Dineen, Kevin",Carroll (WI),Sr,1.796
-"Adams, Tyler",Concordia Wisconsin,Sr,1.796
-"Perez, Paul",Baruch,Sr,1.795
-"Speer, Zack",Trinity (TX),Sr,1.788
-"Hart, Matt",Ill. Wesleyan,Sr,1.783
-"Bjorkgren, Jake",Buena Vista,Sr,1.778
-"Klaess, Kevin",Chapman,Sr,1.758
-"Paumen, Jaime",Wis. Lutheran,Sr,1.750
-"Cook, John",Amherst,Sr,1.744
-"Buckles, Ian",George Fox,Sr,1.731
-"Elias, Sam",Wesleyan (CT),Sr,1.727
-"Irgang, Michael",Benedictine (IL),Sr,1.711
-"Zorn, Joe",Bethel (MN),Sr,1.686
-"Inman, Michael",Methodist,Sr,1.667
-"Schadrie, Nate",St. Norbert,Sr,1.660
-"Palmeri, Joe",Manhattanville,Sr,1.659
-"Gregory, Thaddaeus",Carleton,Sr,1.646
-"Iniguez, Javi",La Verne,Sr,1.643
-"Oberkofler, Max",Piedmont,Sr,1.635
-"Holshouser, Cameron",Roanoke,Sr,1.614
-"Peeden, Kristopher",Greensboro,Sr,1.596
-"Schuman, Logan",Northland,Sr,1.592
-"Oakes, Tanner",Augsburg,Sr,1.585
-"Davis, Taylor",Averett,Sr,1.564
-"Ansett, Spencer",Whitworth,Sr,1.554
-"Rape, Trent",Trinity (TX),Sr,1.552
-"Goershel, Chris",Piedmont,Sr,1.519
-"Guzzi, Jeff",Elmhurst,Sr,1.510
-"Doring, Andrew",John Carroll,Sr,1.509
-"Cutrone, Chris",St. Joseph's (Brkln),Sr,1.500
-"Schreyack, Andrew",St. Lawrence,Sr,1.500
-"Carr, Andy",Central (IA),Sr,1.500
-"Jenkins, Justin",LeTourneau,Sr,1.494
-"McFarland, Jake",Centenary (LA),Sr,1.489
-"Brankle, Matt",Earlham,Sr,1.489
-"Desai, Josh",Suffolk,Sr,1.479
-"Love, Cody",Aurora,Sr,1.462
-"Tomich, Edward",Trine,Sr,1.447
-"Petrella, Nick",Skidmore,Sr,1.440
-"Bishop, Chris",Pacific Lutheran,Sr,1.431
-"Little, Austin",Eastern,Sr,1.429
-"Renz, Mitch",Centenary (NJ),Sr,1.426
-"Hotaling, Spencer",Susquehanna,Sr,1.419
-"Hoffmann, Jack",Coe,Sr,1.414
-"Alventosa, Luke",Swarthmore,Sr,1.409
-"Watson, Ryan",Utica,Sr,1.395
-"Van Daalwyk, Patrick",Ripon,Sr,1.386
-"Jensen, Jared",Rensselaer,Sr,1.385
-"Theisen, Justin",Elmhurst,Sr,1.383
-"Thomassen, Aaron",Linfield,Sr,1.370
-"Pennings, Matt",Simpson,Sr,1.358
-"Stennes, Kyle",Cornell College,Sr,1.358
-"Szatko, Stephen",Utica,Sr,1.357
-"Thielmann, Charles",Kean,Sr,1.354
-"Boettcher, Ryan",Lakeland,Sr,1.327
-"Zhang, Max",Washington-St. Louis,Sr,1.323
-"Beau, Mitch",Wis.-Stevens Point,Sr,1.317
-"Gregory, Austin",Roanoke,Sr,1.311
-"Barth, Robert",Widener,Sr,1.310
-"Sanders, Andrew",Ithaca,Sr,1.307
-"Mack, Cory",Whitworth,Sr,1.304
-"Kret, John",Merchant Marine,Sr,1.300
-"Hadjuk, Walt",La Roche,Sr,1.279
+name,team,cl,ip,so,bb,outs,adj_so9,adj_bb9,index,gofo
+"Ingram, Tim",Old Westbury,Sr,69.1,92,20,208,7.92,2.78,-9.53,3.435
+"Hungerford, Eric",Gettysburg,Sr,59.0,51,11,177,5.18,1.35,-4.58,2.700
+"Schiltz, Bennett",Frostburg St.,Sr,82.2,64,24,248,4.56,2.63,-19.05,2.659
+"Sullivan, Joe",Me.-Farmington,Sr,51.1,39,19,154,4.25,4.24,-32.48,2.419
+"Landry, Taylor",WPI,Sr,52.1,44,13,157,5.12,2.73,-13.95,2.400
+"Schulman, Josh",Rochester (NY),Sr,56.0,47,29,168,5.15,5.44,-46.38,2.355
+"Pheland, Kyle",Salve Regina,Sr,50.2,24,21,152,2.93,4.10,-41.76,2.343
+"Freeman, Matt",St. Norbert,Sr,60.1,52,21,181,5.19,4.04,-24.72,2.333
+"Howard, Josh",Methodist,Sr,87.1,70,25,262,5.26,2.66,-17.49,2.320
+"Olesen, Caleb",Old Westbury,Sr,53.0,38,18,159,4.32,4.17,-28.00,2.303
+"Behme, Isaac",Webster,Sr,78.1,74,22,235,6.07,2.64,-13.98,2.279
+"Alberhasky, Connor",Coe,Sr,82.1,67,31,247,5.20,4.04,-28.78,2.222
+"England, Jason",Hardin-Simmons,Sr,73.0,47,25,219,3.75,4.00,-27.22,2.213
+"Johnstone, Kevin",Case,Sr,67.0,49,13,201,4.59,1.31,-7.66,2.182
+"Haddeland, Chris",Linfield,Sr,109.1,64,20,328,3.81,1.31,-9.53,2.147
+"Sharkey, Ryan",Rowan,Sr,69.1,48,15,208,4.62,1.30,-10.79,2.125
+"Miller, Brandon",Lynchburg,Sr,56.1,30,8,169,2.98,1.34,-5.65,2.122
+"Hoffman, Peter",Willamette,Sr,68.2,63,17,206,5.98,2.68,-11.49,2.119
+"Rule, Jake",Westminster (MO),Sr,47.1,24,4,142,2.92,0.00,-0.12,2.028
+"Deighan, Cory",Pitt.-Greensburg,Sr,60.0,45,34,180,4.38,6.84,-55.17,2.026
+"Vargues, Mike",Plattsburgh St.,Sr,45.2,24,15,137,2.99,2.67,-28.27,2.000
+"Robers, Tyler",Carroll (WI),Sr,52.2,43,15,158,5.14,2.72,-17.87,1.971
+"Enterlin, Jacob",Johns Hopkins,Sr,74.0,61,8,222,5.24,0.00,4.46,1.961
+"Richards, Andrew",Southern Me.,Sr,114.1,108,19,343,5.99,1.34,0.04,1.945
+"Cox, Cameron",Concordia (TX),Sr,92.0,83,25,276,5.97,2.68,-14.29,1.934
+"Hube, Nate",Earlham,Sr,58.2,37,34,176,3.81,6.55,-55.20,1.930
+"Carroll, R.J.",Rose-Hulman,Sr,66.1,44,18,199,3.83,2.61,-18.33,1.918
+"Debernardis, Tom",Cazenovia,Sr,48.1,34,27,145,4.24,7.07,-57.94,1.917
+"Manner, Adam",Heidelberg,Sr,84.0,46,22,252,3.05,2.62,-19.47,1.894
+"Meeken, Dan",St. Joseph's (ME),Sr,55.1,54,15,166,5.82,2.75,-14.11,1.889
+"Daniels, Josh",Carthage,Sr,48.2,33,34,146,4.55,7.91,-68.03,1.889
+"Olson, Connor",Northwestern-St. Paul,Sr,65.1,43,32,196,3.58,5.59,-49.38,1.870
+"Carlisle, Adam",Millikin,Sr,43.0,21,17,129,2.99,4.01,-37.04,1.857
+"Janik, Stephen",Saint Vincent,Sr,65.1,28,10,196,2.20,1.36,-9.64,1.852
+"Treadway, Kyle",Pacific (OR),Sr,82.1,41,15,247,3.02,1.33,-11.42,1.851
+"Koenig, Steve",Penn St.-Berks,Sr,58.1,26,9,175,2.89,1.39,-9.35,1.833
+"Ethridge, Smokey",Millsaps,Sr,85.0,70,18,255,5.22,1.34,-9.05,1.820
+"Adams, Tyler",Concordia Wisconsin,Sr,58.2,19,8,176,1.48,1.35,-10.28,1.796
+"Dineen, Kevin",Carroll (WI),Sr,60.0,33,23,180,2.94,4.08,-36.00,1.796
+"Perez, Paul",Baruch,Sr,51.2,34,9,155,3.69,1.36,-7.80,1.795
+"Speer, Zack",Trinity (TX),Sr,78.2,73,20,236,6.02,2.66,-10.41,1.788
+"Hart, Matt",Ill. Wesleyan,Sr,66.1,59,14,199,6.06,1.32,-5.61,1.783
+"Bjorkgren, Jake",Buena Vista,Sr,59.2,37,7,179,3.70,1.35,-1.68,1.778
+"Klaess, Kevin",Chapman,Sr,78.2,39,47,236,2.94,6.80,-62.58,1.758
+"Paumen, Jaime",Wis. Lutheran,Sr,72.0,32,18,216,2.92,2.74,-21.36,1.750
+"Cook, John",Amherst,Sr,60.0,52,16,180,5.28,2.65,-14.42,1.744
+"Buckles, Ian",George Fox,Sr,88.2,65,17,266,4.57,1.31,-7.83,1.731
+"Elias, Sam",Wesleyan (CT),Sr,76.1,66,15,229,5.26,1.33,-5.32,1.727
+"Irgang, Michael",Benedictine (IL),Sr,58.1,38,12,175,3.73,1.34,-11.43,1.711
+"Zorn, Joe",Bethel (MN),Sr,69.1,62,9,208,6.00,1.33,3.33,1.686
+"Inman, Michael",Methodist,Sr,53.0,30,21,159,3.76,3.99,-35.31,1.667
+"Schadrie, Nate",St. Norbert,Sr,51.2,22,9,155,2.23,1.35,-12.06,1.660
+"Palmeri, Joe",Manhattanville,Sr,46.2,25,7,140,2.88,1.39,-8.00,1.659
+"Gregory, Thaddaeus",Carleton,Sr,54.0,30,17,162,3.79,2.64,-25.55,1.646
+"Iniguez, Javi",La Verne,Sr,97.2,64,15,293,3.73,1.34,-4.71,1.643
+"Oberkofler, Max",Piedmont,Sr,60.2,30,28,182,3.02,5.30,-44.55,1.635
+"Holshouser, Cameron",Roanoke,Sr,55.0,42,26,165,4.44,5.40,-41.91,1.614
+"Peeden, Kristopher",Greensboro,Sr,58.1,24,30,175,2.25,5.33,-53.01,1.596
+"Schuman, Logan",Northland,Sr,85.2,59,27,257,4.23,2.83,-26.99,1.592
+"Oakes, Tanner",Augsburg,Sr,64.1,52,7,193,5.31,0.00,4.06,1.585
+"Davis, Taylor",Averett,Sr,71.0,58,19,213,5.23,2.68,-15.71,1.564
+"Ansett, Spencer",Whitworth,Sr,61.0,31,12,183,3.01,1.33,-12.84,1.554
+"Rape, Trent",Trinity (TX),Sr,77.2,69,28,233,5.27,3.99,-25.20,1.552
+"Goershel, Chris",Piedmont,Sr,63.1,49,31,190,4.53,5.30,-43.25,1.519
+"Guzzi, Jeff",Elmhurst,Sr,54.0,30,14,162,3.72,2.69,-19.79,1.510
+"Doring, Andrew",John Carroll,Sr,78.2,92,24,236,7.58,2.64,-12.09,1.509
+"Schreyack, Andrew",St. Lawrence,Sr,49.1,27,22,148,2.93,5.47,-44.46,1.500
+"Cutrone, Chris",St. Joseph's (Brkln),Sr,51.1,44,20,154,4.90,4.28,-33.84,1.500
+"Carr, Andy",Central (IA),Sr,68.1,37,24,205,2.98,4.03,-31.18,1.500
+"Jenkins, Justin",LeTourneau,Sr,101.1,91,18,304,5.98,1.34,-2.15,1.494
+"Brankle, Matt",Earlham,Sr,61.1,62,14,184,6.87,2.62,-5.62,1.489
+"McFarland, Jake",Centenary (LA),Sr,53.1,34,12,160,3.77,2.65,-13.72,1.489
+"Desai, Josh",Suffolk,Sr,65.0,64,24,195,5.80,4.14,-26.65,1.479
+"Love, Cody",Aurora,Sr,67.1,29,21,202,2.20,2.72,-30.04,1.462
+"Tomich, Edward",Trine,Sr,54.2,32,6,164,3.68,0.00,-1.20,1.447
+"Petrella, Nick",Skidmore,Sr,57.2,40,11,173,4.42,1.36,-9.85,1.440
+"Bishop, Chris",Pacific Lutheran,Sr,88.2,78,37,266,5.33,3.94,-31.08,1.431
+"Little, Austin",Eastern,Sr,55.0,30,23,165,2.95,4.07,-39.88,1.429
+"Renz, Mitch",Centenary (NJ),Sr,49.1,25,8,148,2.94,1.36,-9.45,1.426
+"Hotaling, Spencer",Susquehanna,Sr,51.2,40,13,155,4.46,2.69,-14.76,1.419
+"Hoffmann, Jack",Coe,Sr,66.1,39,10,199,3.72,1.35,-6.33,1.414
+"Alventosa, Luke",Swarthmore,Sr,46.1,24,14,139,2.95,2.71,-26.95,1.409
+"Watson, Ryan",Utica,Sr,47.2,33,12,143,4.24,2.83,-18.45,1.395
+"Van Daalwyk, Patrick",Ripon,Sr,63.0,40,18,189,3.74,2.68,-20.74,1.386
+"Jensen, Jared",Rensselaer,Sr,61.0,46,12,183,4.50,1.33,-7.67,1.385
+"Theisen, Justin",Elmhurst,Sr,59.2,55,31,179,5.95,5.38,-44.04,1.383
+"Thomassen, Aaron",Linfield,Sr,82.1,59,16,247,4.58,1.31,-7.78,1.370
+"Pennings, Matt",Simpson,Sr,59.0,39,12,177,3.73,1.34,-11.43,1.358
+"Stennes, Kyle",Cornell College,Sr,57.2,36,18,173,3.69,2.71,-26.20,1.358
+"Szatko, Stephen",Utica,Sr,63.2,47,13,191,4.24,1.42,-12.07,1.357
+"Thielmann, Charles",Kean,Sr,92.2,73,30,278,5.31,2.64,-22.27,1.354
+"Boettcher, Ryan",Lakeland,Sr,54.1,38,14,163,4.38,2.74,-18.34,1.327
+"Zhang, Max",Washington-St. Louis,Sr,63.2,36,23,191,3.76,3.99,-31.30,1.323
+"Beau, Mitch",Wis.-Stevens Point,Sr,91.1,62,41,274,4.60,5.22,-38.44,1.317
+"Gregory, Austin",Roanoke,Sr,49.0,31,7,147,3.70,1.35,-3.62,1.311
+"Barth, Robert",Widener,Sr,80.0,65,17,240,5.24,1.34,-9.66,1.310
+"Sanders, Andrew",Ithaca,Sr,73.2,35,10,221,2.94,1.36,-7.47,1.307
+"Mack, Cory",Whitworth,Sr,60.0,42,20,180,4.51,3.99,-26.37,1.304
+"Kret, John",Merchant Marine,Sr,45.0,11,9,135,1.47,1.36,-20.15,1.300
+"Hadjuk, Walt",La Roche,Sr,61.2,34,12,185,3.00,1.33,-12.14,1.279

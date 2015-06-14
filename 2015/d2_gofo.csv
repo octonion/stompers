@@ -1,101 +1,101 @@
-name,team,cl,go_fo
-"Bane, Garrett",Emporia St.,Sr,3.846
-"Fast, Colton",Augustana (SD),Sr,3.818
-"Farleigh, Nick",William Jewell,Sr,3.535
-"Scudiero, Francesco",Bloomfield,Sr,3.522
-"Oglesby, Ryan",Slippery Rock,Sr,3.000
-"Beauchamp, Jacob",North Georgia,Sr,2.943
-"Howard, Jackson",Spring Hill,Sr,2.813
-"Murphy, Chris",Millersville,Sr,2.729
-"Camp, Wesley",Newberry,Sr,2.500
-"Batchelor, Zach",Post,Sr,2.483
-"Cromer, Cole",Newberry,Sr,2.447
-"Shelton, Lance",Ga. Southwestern,Sr,2.400
-"Johnson, Nick",Southeastern Okla.,Sr,2.360
-"Lequire, Tyler",Pfeiffer,Sr,2.341
-"Dohlen, Micah",Missouri S&T,Sr,2.333
-"Gappa, Cody",Cal St. Monterey Bay,Sr,2.250
-"Gottardy, Kyle",Tarleton St.,Sr,2.225
-"Conkle, Kyle",North Ala.,Sr,2.103
-"Gercken, Nate",Academy of Art,Sr,2.065
-"McCarthy, Connor",LIU Post,Sr,2.054
-"Mendek, Bill",Lynn,Sr,2.053
-"Badalucco, Anthony",N.M. Highlands,Sr,2.044
-"Hall, Cam",Salem Int'l,Sr,2.044
-"Crumley, Luke",Erskine,Sr,2.044
-"Cook, Gabe",Fort Hays St.,Sr,2.026
-"Pratt, Jesse",Western Ore.,Sr,2.022
-"Merlo, Drew",Fresno Pacific,Sr,1.918
-"Muller, Brady",Mont. St. Billings,Sr,1.902
-"Rakkar, Barinder",Concord,Sr,1.886
-"Horan, Neal",Stonehill,Sr,1.886
-"Raia III, Dominic",Chestnut Hill,Sr,1.863
-"Bass, Blake",Angelo St.,Sr,1.862
-"Jacobs, Craig",Nyack,Sr,1.841
-"Soto, Victor",Colorado St.-Pueblo,Sr,1.837
-"Pope, Michael",Cal St. East Bay,Sr,1.818
-"Humes, Robert",Caldwell,Sr,1.783
-"Ezell, Jake",Columbus St.,Sr,1.761
-"Gonzalez, Jeremy",Tex. A&M Int'l,Sr,1.760
-"Hatch, Aaron",Winston-Salem,Sr,1.759
-"Faulconer, Austin",Drury,Sr,1.741
-"Bozman, Nick",Urbana,Sr,1.730
-"Shambaugh, Kyle",Northeastern St.,Sr,1.730
-"Shepard, Matthew",Rogers St.,Sr,1.700
-"Lawson, Dustin",Lee,Sr,1.682
-"Martinez, Peter",Dominican (NY),Sr,1.667
-"Campeau, Jake",Mont. St. Billings,Sr,1.667
-"Gibson, Tyler",West Tex. A&M,Sr,1.662
-"Sexton, Jamie",West Ga.,Sr,1.649
-"Rainwater, Walker",Okla. Panhandle,Sr,1.644
-"Rivera, Ricky",Central Mo.,Sr,1.642
-"Blazier, Chase",Winona St.,Sr,1.638
-"Smith, Aaron",Neb.-Kearney,Sr,1.605
-"Bidwell, Ryan",Ohio Dominican,Sr,1.585
-"Born, Banks",Mo. Western St.,Sr,1.578
-"Tarter, Preston",San Fran. St.,Sr,1.574
-"Ojeda, Henry",Sioux Falls,Sr,1.568
-"Egan, Pat",Southern Conn. St.,Sr,1.564
-"LaRosa, Zack",Assumption,Sr,1.563
-"Gore, Rob",Wilmington (DE),Sr,1.550
-"Thompson, Russell Tyler",West Virginia St.,Sr,1.534
-"Gresch, Zach",Notre Dame (OH),Sr,1.526
-"Burnidge, Luke",Drury,Sr,1.519
-"McGuire, Colben",Northwest Nazarene,Sr,1.513
-"Sparkman, Chase",Tampa,Sr,1.513
-"Gibson, David",Southern N.H.,Sr,1.500
-"Harper, Ryan",Saint Rose,Sr,1.500
-"Kurokawa, Jordan",Hawaii Hilo,Sr,1.491
-"Bomenblit, Eric",Caldwell,Sr,1.488
-"Taylor, Justin",California (PA),Sr,1.463
-"Fowler, Jack",Felician,Sr,1.460
-"Johns, Cody",Northern St.,Sr,1.448
-"Ashburn, Micah",Holy Names,Sr,1.444
-"Spitzfaden, Will",Lindenwood (MO),Sr,1.432
-"Anthony, Jake",Georgia College,Sr,1.419
-"Samluk, Frank",Wilmington (DE),Sr,1.417
-"Martin, Alex",King (TN),Sr,1.415
-"O'Sullivan, Liam",Saint Leo,Sr,1.412
-"Reneau, Kelby",Okla. Christian,Sr,1.409
-"Yocom, Quinton",Carson-Newman,Sr,1.406
-"Richards, Trevor",Drury,Sr,1.404
-"Milligan, Drew",Delta St.,Sr,1.404
-"Scott, Trevor",UC San Diego,Sr,1.400
-"Davis, Ethan",Southwestern Okla.,Sr,1.395
-"Reno, Ryan",Colorado Mesa,Sr,1.383
-"Ragan, Nick",Wayne St. (NE),Sr,1.375
-"Vreeland, Justin",Claflin,Sr,1.373
-"Cooper, Justin",Young Harris,Sr,1.369
-"Zimmerman, Kyle",Wayne St. (MI),Sr,1.364
-"Rimer, Kolby",Colorado St.-Pueblo,Sr,1.362
-"Stallings, Nick",West Chester,Sr,1.362
-"Shaftner, Logan",Carson-Newman,Sr,1.362
-"Brothers, Eric",Sioux Falls,Sr,1.357
-"Jones, Cody",Henderson St.,Sr,1.356
-"Disbro, Justin",West Tex. A&M,Sr,1.349
-"Wright, Ben",Southern Ind.,Sr,1.348
-"Klein, Jon",Mercyhurst,Sr,1.340
-"Frederickson, Cody",Newman,Sr,1.339
-"Ford, Anthony",Claflin,Sr,1.333
-"Harper, Jake",St. Joseph's (IN),Sr,1.333
-"Thill, Mike",Metro St.,Sr,1.316
+name,team,cl,ip,so,bb,outs,adj_so9,adj_bb9,index,gofo
+"Bane, Garrett",Emporia St.,Sr,52.2,21,25,158,2.56,4.68,-40.58,3.846
+"Fast, Colton",Augustana (SD),Sr,52.1,39,20,157,4.98,3.61,-24.36,3.818
+"Farleigh, Nick",William Jewell,Sr,83.1,32,34,250,2.49,3.62,-35.12,3.535
+"Scudiero, Francesco",Bloomfield,Sr,56.1,52,11,169,6.39,1.25,-2.10,3.522
+"Oglesby, Ryan",Slippery Rock,Sr,62.0,51,14,186,5.91,2.37,-5.10,3.000
+"Beauchamp, Jacob",North Georgia,Sr,82.0,96,42,246,8.76,4.57,-25.36,2.943
+"Howard, Jackson",Spring Hill,Sr,57.0,40,35,171,4.69,6.39,-56.27,2.813
+"Murphy, Chris",Millersville,Sr,88.0,70,15,264,5.86,1.19,-0.31,2.729
+"Camp, Wesley",Newberry,Sr,83.0,77,12,249,6.82,1.17,6.04,2.500
+"Batchelor, Zach",Post,Sr,52.1,47,13,157,6.50,2.46,-7.54,2.483
+"Cromer, Cole",Newberry,Sr,75.1,52,8,226,5.11,0.00,4.77,2.447
+"Shelton, Lance",Ga. Southwestern,Sr,48.2,36,21,146,5.28,3.41,-26.50,2.400
+"Johnson, Nick",Southeastern Okla.,Sr,74.0,38,17,222,3.37,2.38,-12.84,2.360
+"Lequire, Tyler",Pfeiffer,Sr,73.1,62,20,220,5.90,2.37,-9.94,2.341
+"Dohlen, Micah",Missouri S&T,Sr,66.2,45,21,200,5.04,2.38,-18.17,2.333
+"Gappa, Cody",Cal St. Monterey Bay,Sr,72.2,54,21,218,5.00,2.40,-14.56,2.250
+"Gottardy, Kyle",Tarleton St.,Sr,62.0,42,15,186,5.05,2.37,-9.76,2.225
+"Conkle, Kyle",North Ala.,Sr,54.2,35,12,164,4.16,1.20,-8.69,2.103
+"Gercken, Nate",Academy of Art,Sr,96.1,79,29,289,5.79,2.42,-14.46,2.065
+"McCarthy, Connor",LIU Post,Sr,56.2,44,21,170,4.95,3.63,-23.47,2.054
+"Mendek, Bill",Lynn,Sr,56.1,42,13,169,5.18,2.32,-5.90,2.053
+"Badalucco, Anthony",N.M. Highlands,Sr,63.1,45,29,190,5.03,4.77,-33.02,2.044
+"Hall, Cam",Salem Int'l,Sr,63.2,38,13,191,4.11,1.22,-8.75,2.044
+"Crumley, Luke",Erskine,Sr,70.1,61,25,211,5.87,3.58,-17.65,2.044
+"Cook, Gabe",Fort Hays St.,Sr,50.1,26,25,151,3.39,4.73,-40.98,2.026
+"Pratt, Jesse",Western Ore.,Sr,75.2,80,31,227,7.45,3.62,-20.31,2.022
+"Merlo, Drew",Fresno Pacific,Sr,72.0,63,25,216,5.77,3.64,-18.63,1.918
+"Muller, Brady",Mont. St. Billings,Sr,79.0,79,29,237,7.42,3.64,-17.74,1.902
+"Rakkar, Barinder",Concord,Sr,38.2,11,23,116,1.60,6.26,-60.73,1.886
+"Horan, Neal",Stonehill,Sr,66.0,66,33,198,7.47,4.82,-31.81,1.886
+"Raia III, Dominic",Chestnut Hill,Sr,85.1,99,31,256,7.91,3.79,-15.94,1.863
+"Bass, Blake",Angelo St.,Sr,105.1,106,23,316,7.57,1.19,0.12,1.862
+"Jacobs, Craig",Nyack,Sr,57.0,38,9,171,4.87,1.23,-2.65,1.841
+"Soto, Victor",Colorado St.-Pueblo,Sr,69.1,54,41,208,5.84,6.00,-46.06,1.837
+"Pope, Michael",Cal St. East Bay,Sr,75.2,44,38,227,4.14,4.84,-42.00,1.818
+"Humes, Robert",Caldwell,Sr,63.2,53,18,191,5.64,2.48,-13.32,1.783
+"Ezell, Jake",Columbus St.,Sr,59.2,34,35,179,4.36,5.74,-46.62,1.761
+"Gonzalez, Jeremy",Tex. A&M Int'l,Sr,73.1,52,25,220,5.01,3.59,-20.08,1.760
+"Hatch, Aaron",Winston-Salem,Sr,77.0,66,30,231,5.70,3.68,-24.21,1.759
+"Faulconer, Austin",Drury,Sr,73.2,57,22,221,5.05,2.37,-14.01,1.741
+"Bozman, Nick",Urbana,Sr,59.2,69,32,179,8.00,5.00,-35.21,1.730
+"Shambaugh, Kyle",Northeastern St.,Sr,50.1,38,28,151,5.08,5.90,-42.07,1.730
+"Shepard, Matthew",Rogers St.,Sr,43.2,16,10,131,2.49,2.41,-16.57,1.700
+"Lawson, Dustin",Lee,Sr,87.0,67,26,261,5.01,2.40,-14.48,1.682
+"Martinez, Peter",Dominican (NY),Sr,62.0,57,9,186,6.44,1.24,3.17,1.667
+"Campeau, Jake",Mont. St. Billings,Sr,60.1,41,15,181,4.95,2.42,-11.83,1.667
+"Gibson, Tyler",West Tex. A&M,Sr,103.2,87,30,311,5.85,2.39,-12.68,1.662
+"Sexton, Jamie",West Ga.,Sr,97.0,79,17,291,5.93,1.18,0.09,1.649
+"Rainwater, Walker",Okla. Panhandle,Sr,68.0,34,23,204,3.32,3.61,-25.29,1.644
+"Rivera, Ricky",Central Mo.,Sr,63.0,33,16,189,3.41,2.34,-13.85,1.642
+"Blazier, Chase",Winona St.,Sr,65.2,30,10,197,3.29,1.22,-5.97,1.638
+"Smith, Aaron",Neb.-Kearney,Sr,60.2,56,7,182,6.79,1.18,8.57,1.605
+"Bidwell, Ryan",Ohio Dominican,Sr,74.1,43,25,223,4.15,3.62,-23.73,1.585
+"Born, Banks",Mo. Western St.,Sr,68.2,31,20,206,3.41,2.34,-20.22,1.578
+"Tarter, Preston",San Fran. St.,Sr,56.1,29,36,169,3.32,6.03,-57.91,1.574
+"Ojeda, Henry",Sioux Falls,Sr,59.1,46,30,178,4.92,4.88,-38.52,1.568
+"Egan, Pat",Southern Conn. St.,Sr,61.0,73,27,183,8.17,3.67,-21.58,1.564
+"LaRosa, Zack",Assumption,Sr,54.0,33,25,162,4.20,4.76,-35.32,1.563
+"Gore, Rob",Wilmington (DE),Sr,49.2,41,18,149,5.74,3.66,-20.95,1.550
+"Thompson, Russell Tyler",West Virginia St.,Sr,81.1,82,16,244,7.26,1.24,0.71,1.534
+"Gresch, Zach",Notre Dame (OH),Sr,73.0,63,18,219,5.61,2.50,-9.02,1.526
+"Burnidge, Luke",Drury,Sr,60.2,36,25,182,4.21,3.56,-30.44,1.519
+"McGuire, Colben",Northwest Nazarene,Sr,91.1,76,14,274,5.74,1.22,2.19,1.513
+"Sparkman, Chase",Tampa,Sr,94.1,71,12,283,5.24,1.14,4.89,1.513
+"Gibson, David",Southern N.H.,Sr,54.0,43,17,162,5.85,2.39,-15.94,1.500
+"Harper, Ryan",Saint Rose,Sr,65.1,44,9,196,4.96,1.21,0.36,1.500
+"Kurokawa, Jordan",Hawaii Hilo,Sr,70.1,68,24,211,6.61,3.63,-14.82,1.491
+"Bomenblit, Eric",Caldwell,Sr,55.1,53,15,166,6.44,2.48,-9.66,1.488
+"Taylor, Justin",California (PA),Sr,52.0,51,8,156,6.69,1.20,6.20,1.463
+"Fowler, Jack",Felician,Sr,69.2,73,24,209,7.36,3.67,-14.98,1.460
+"Johns, Cody",Northern St.,Sr,70.2,53,5,212,4.96,0.00,9.29,1.448
+"Ashburn, Micah",Holy Names,Sr,74.2,31,34,224,2.47,4.86,-39.49,1.444
+"Spitzfaden, Will",Lindenwood (MO),Sr,46.0,23,14,138,3.43,2.33,-20.35,1.432
+"Anthony, Jake",Georgia College,Sr,69.1,46,27,208,4.38,3.42,-25.03,1.419
+"Samluk, Frank",Wilmington (DE),Sr,66.1,71,20,199,7.38,2.44,-9.93,1.417
+"Martin, Alex",King (TN),Sr,61.0,48,14,183,5.95,2.35,-5.69,1.415
+"O'Sullivan, Liam",Saint Leo,Sr,87.0,81,20,261,6.88,2.32,-1.74,1.412
+"Reneau, Kelby",Okla. Christian,Sr,70.1,39,17,211,3.35,2.39,-13.40,1.409
+"Yocom, Quinton",Carson-Newman,Sr,80.0,74,26,240,6.78,2.36,-13.91,1.406
+"Richards, Trevor",Drury,Sr,72.1,72,19,217,6.74,2.37,-5.39,1.404
+"Milligan, Drew",Delta St.,Sr,69.0,69,22,207,7.73,2.33,-9.38,1.404
+"Scott, Trevor",UC San Diego,Sr,83.1,68,23,250,5.85,2.39,-10.33,1.400
+"Davis, Ethan",Southwestern Okla.,Sr,47.0,31,13,141,4.28,2.34,-13.51,1.395
+"Reno, Ryan",Colorado Mesa,Sr,91.1,64,9,274,4.96,0.00,5.21,1.383
+"Ragan, Nick",Wayne St. (NE),Sr,52.1,32,15,157,4.16,2.40,-16.74,1.375
+"Vreeland, Justin",Claflin,Sr,79.0,41,30,237,3.22,3.73,-31.00,1.373
+"Cooper, Justin",Young Harris,Sr,75.1,58,33,226,5.26,3.42,-26.99,1.369
+"Zimmerman, Kyle",Wayne St. (MI),Sr,68.2,64,21,206,6.65,2.40,-11.68,1.364
+"Rimer, Kolby",Colorado St.-Pueblo,Sr,53.0,34,27,159,4.17,4.80,-39.80,1.362
+"Stallings, Nick",West Chester,Sr,58.0,47,35,174,5.90,5.93,-46.32,1.362
+"Shaftner, Logan",Carson-Newman,Sr,49.2,28,9,149,4.23,1.18,-6.19,1.362
+"Brothers, Eric",Sioux Falls,Sr,63.1,40,39,190,4.10,6.10,-53.18,1.357
+"Jones, Cody",Henderson St.,Sr,71.0,60,18,213,5.97,2.35,-7.03,1.356
+"Disbro, Justin",West Tex. A&M,Sr,52.1,42,9,157,5.85,1.20,-0.37,1.349
+"Wright, Ben",Southern Ind.,Sr,72.1,41,11,217,4.12,1.21,-3.41,1.348
+"Klein, Jon",Mercyhurst,Sr,68.1,85,17,205,9.39,2.34,2.41,1.340
+"Frederickson, Cody",Newman,Sr,65.0,43,25,195,4.14,3.62,-26.99,1.339
+"Ford, Anthony",Claflin,Sr,55.1,41,16,166,4.83,2.49,-16.23,1.333
+"Harper, Jake",St. Joseph's (IN),Sr,56.2,51,18,170,6.62,2.42,-13.97,1.333
+"Thill, Mike",Metro St.,Sr,71.0,64,21,213,6.73,2.38,-10.72,1.316

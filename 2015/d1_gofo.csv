@@ -1,101 +1,101 @@
-name,team,cl,go_fo
-"Freeman, Michael",Oklahoma St.,Sr,4.025
-"Wertz, Dan",Sacred Heart,Sr,3.542
-"Thome, Andrew",North Dakota,Sr,3.362
-"Mitchell, Ross",Mississippi St.,Sr,2.909
-"Holtmann, Bryant",Florida St.,Sr,2.886
-"Bisacca, Alex",Sam Houston St.,Sr,2.811
-"Davis, Evan",Marist,Sr,2.585
-"Kerr, Austin",Coastal Caro.,Sr,2.515
-"Haan, Brett",Purdue,Sr,2.475
-"Anderson, Tanner",Harvard,Sr,2.448
-"Angelle, Chase",Lamar,Sr,2.387
-"Danton, Matt",A&M-Corpus Chris,Sr,2.361
-"Berg, David",UCLA,Sr,2.343
-"Taylor, Corey",Texas Tech,Sr,2.316
-"Johnson, Drasen",Illinois,Sr,2.286
-"Muhammad, Yahya",Coppin St.,Sr,2.268
-"Ledford, Alex",Samford,Sr,2.262
-"Solter, Matt",Furman,Sr,2.235
-"Mulholland, Casey",South Fla.,Sr,2.222
-"Milhorn, Greg",La.-Lafayette,Sr,2.176
-"Neumann, Ben",Northern Ill.,Sr,2.153
-"Luna, Alex",UAB,Sr,2.146
-"Buettgen, Noah",Dayton,Sr,2.140
-"Talley, Christian",Southern Miss.,Sr,2.135
-"Edwards, Jayme",Lehigh,Sr,2.114
-"Clowers, Shawn",Liberty,Sr,2.043
-"Hough, Bryson",Bucknell,Sr,2.037
-"Lieske, Johnny",UAB,Sr,2.017
-"Galbraith, Laetten",Louisiana Tech,Sr,2.000
-"Friedrichs, Kyle",Long Beach St.,Sr,1.983
-"Lyons, Jared",Liberty,Sr,1.952
-"Fernandez, Danny",Lamar,Sr,1.918
-"Laster, Lucas",Mississippi St.,Sr,1.904
-"Jacobson, Raul",UC Davis,Sr,1.882
-"Riga, Ryan",Ohio St.,Sr,1.819
-"Suarez, Andrew",Miami (FL),Sr,1.791
-"Williams, John",George Mason,Sr,1.790
-"Dwyer, Heath",VCU,Sr,1.783
-"Morrison, Preston",TCU,Sr,1.781
-"Loeffler, Matt",New Mexico St.,Sr,1.778
-"Pittman, Morgan",Mercer,Sr,1.756
-"Case, Tyler",Mississippi Val.,Sr,1.730
-"French, Parker",Texas,Sr,1.710
-"Wells, Ryan",IPFW,Sr,1.708
-"Abbott, Tyler",Chicago St.,Sr,1.703
-"McCord, Rocky",Auburn,Sr,1.694
-"Kubat, Kyle",Nebraska,Sr,1.693
-"Elia, Anthony",Seton Hall,Sr,1.673
-"Pearson, Robert",Texas Southern,Sr,1.667
-"Zuniga, Keith",Bethune-Cookman,Sr,1.667
-"Godail, Andrew",Sam Houston St.,Sr,1.657
-"Magallones, Brandon",Northwestern,Sr,1.641
-"Stewart, Devon",Canisius,Sr,1.640
-"Stephens, Nick",Lehigh,Sr,1.635
-"Istler, Andrew",Duke,Sr,1.627
-"Fraudin, Matt",Gardner-Webb,Sr,1.614
-"Ponto, Tim",Saint Joseph's,Sr,1.610
-"Schwartz, Toby",Lafayette,Sr,1.604
-"McClennan, Scott",Manhattan,Sr,1.597
-"Heath, Scott",Maine,Sr,1.594
-"Ludwig, Dan",Belmont,Sr,1.589
-"Mayle, Chad",Western Mich.,Sr,1.582
-"Smith, Clay",Saint Louis,Sr,1.581
-"Hammond, Xavier",Bucknell,Sr,1.564
-"McAfee, Brian",Cornell,Sr,1.563
-"Incinelli, Evan",North Florida,Sr,1.559
-"Narahara, Matt",San Francisco,Sr,1.537
-"Welmon, Colin",Loyola Marymount,Sr,1.529
-"Link, Jason",Bowling Green,Sr,1.527
-"Arakawa, Jarrett",Hawaii,Sr,1.510
-"Warner, Mitch",Gardner-Webb,Sr,1.500
-"Stoops, Dylan",Richmond,Sr,1.500
-"Bain, Rob",Davidson,Sr,1.489
-"Snyder, Brandon",Portland,Sr,1.488
-"Guilbeau, Taylor",Alabama,Sr,1.486
-"Veilleux, Kevin",UMass Lowell,Sr,1.481
-"McDorman, Kyle",Charleston So.,Sr,1.478
-"Martinez-McGraw, Ian",Lipscomb,Sr,1.471
-"Owen, David",Arkansas St.,Sr,1.465
-"Keel, Jerry",CSUN,Sr,1.440
-"Keselica, Sean",Virginia Tech,Sr,1.426
-"Cooper, Cody",Northern Ky.,Sr,1.419
-"Sheppard, Tripp",Ga. Southern,Sr,1.418
-"Clements, Robby",Auburn,Sr,1.404
-"Lewicki, Ed",Siena,Sr,1.403
-"Ernst, David",North Dakota St.,Sr,1.403
-"Prejean, Cole",McNeese St.,Sr,1.400
-"Cruz IV, Frank",Texas Southern,Sr,1.394
-"Smith, Cameron",Texas Tech,Sr,1.387
-"Tidwell, Ben",Troy,Sr,1.386
-"Frebis, Johnathan",Middle Tenn.,Sr,1.385
-"Smith, Chipper",UMES,Sr,1.383
-"Kerrigan, Scott",Notre Dame,Sr,1.380
-"Hunt, T.J.",Monmouth,Sr,1.373
-"Drapeau, Brian",LIU Brooklyn,Sr,1.370
-"Cozart, Logan",Ohio,Sr,1.367
-"Tabakman, Jordan",UConn,Sr,1.365
-"Dyer, Pat",Akron,Sr,1.364
-"Smith, Devin",Alabama A&M,Sr,1.354
-"Bowers, Heath",Campbell,Sr,1.351
+name,team,cl,ip,so,bb,outs,adj_so9,adj_bb9,index,gofo
+"Freeman, Michael",Oklahoma St.,Sr,102.2,92,25,308,8.20,1.95,4.11,4.025
+"Wertz, Dan",Sacred Heart,Sr,50.2,31,9,152,4.86,1.03,0.11,3.542
+"Thome, Andrew",North Dakota,Sr,94.2,65,22,284,5.89,2.04,-2.70,3.362
+"Mitchell, Ross",Mississippi St.,Sr,56.1,20,18,169,3.09,1.94,-17.92,2.909
+"Holtmann, Bryant",Florida St.,Sr,61.0,32,20,183,4.14,1.93,-13.51,2.886
+"Bisacca, Alex",Sam Houston St.,Sr,69.0,57,12,207,6.94,1.01,6.69,2.811
+"Davis, Evan",Marist,Sr,75.2,68,36,227,7.75,4.13,-20.10,2.585
+"Kerr, Austin",Coastal Caro.,Sr,61.2,57,18,185,8.14,1.97,-1.13,2.515
+"Haan, Brett",Purdue,Sr,59.1,27,17,178,4.06,1.97,-12.43,2.475
+"Anderson, Tanner",Harvard,Sr,40.1,19,10,121,3.91,2.05,-10.81,2.448
+"Angelle, Chase",Lamar,Sr,98.2,65,17,296,4.92,1.02,1.48,2.387
+"Danton, Matt",A&M-Corpus Chris,Sr,94.0,66,17,282,5.94,1.01,1.67,2.361
+"Berg, David",UCLA,Sr,61.2,56,7,185,8.23,0.97,14.97,2.343
+"Taylor, Corey",Texas Tech,Sr,57.1,32,13,172,5.09,1.96,-4.36,2.316
+"Johnson, Drasen",Illinois,Sr,107.2,71,16,323,5.06,0.99,4.34,2.286
+"Muhammad, Yahya",Coppin St.,Sr,63.1,41,46,190,4.77,6.29,-51.87,2.268
+"Ledford, Alex",Samford,Sr,104.1,83,46,313,7.09,2.96,-17.22,2.262
+"Solter, Matt",Furman,Sr,88.1,84,34,265,8.03,2.99,-8.81,2.235
+"Mulholland, Casey",South Fla.,Sr,87.1,71,31,262,7.14,2.94,-8.97,2.222
+"Milhorn, Greg",La.-Lafayette,Sr,51.2,38,23,155,6.03,3.98,-20.72,2.176
+"Neumann, Ben",Northern Ill.,Sr,84.1,53,30,253,4.97,3.02,-16.29,2.153
+"Luna, Alex",UAB,Sr,70.2,49,21,212,6.10,1.97,-7.27,2.146
+"Buettgen, Noah",Dayton,Sr,74.2,57,17,224,5.92,2.03,-0.54,2.140
+"Talley, Christian",Southern Miss.,Sr,59.1,52,15,178,7.06,1.98,1.40,2.135
+"Edwards, Jayme",Lehigh,Sr,53.0,40,28,159,5.74,4.18,-30.02,2.114
+"Clowers, Shawn",Liberty,Sr,71.0,52,25,213,6.04,2.98,-11.69,2.043
+"Hough, Bryson",Bucknell,Sr,72.1,46,10,217,4.84,1.03,4.08,2.037
+"Lieske, Johnny",UAB,Sr,81.2,48,30,245,5.08,2.95,-17.21,2.017
+"Galbraith, Laetten",Louisiana Tech,Sr,70.2,48,28,212,6.04,2.98,-16.60,2.000
+"Friedrichs, Kyle",Long Beach St.,Sr,100.0,109,12,300,9.21,0.98,19.89,1.983
+"Lyons, Jared",Liberty,Sr,99.2,100,22,299,9.06,0.99,8.29,1.952
+"Fernandez, Danny",Lamar,Sr,65.2,44,21,197,5.90,2.03,-10.75,1.918
+"Laster, Lucas",Mississippi St.,Sr,69.2,48,16,209,6.18,1.94,-0.89,1.904
+"Jacobson, Raul",UC Davis,Sr,95.2,69,18,287,6.02,1.00,3.12,1.882
+"Riga, Ryan",Ohio St.,Sr,97.2,71,27,293,6.10,1.97,-4.28,1.819
+"Suarez, Andrew",Miami (FL),Sr,67.0,65,18,201,8.18,1.96,3.13,1.791
+"Williams, John",George Mason,Sr,83.2,65,19,251,5.91,2.03,-0.60,1.790
+"Dwyer, Heath",VCU,Sr,85.1,82,23,256,7.94,2.02,0.62,1.783
+"Morrison, Preston",TCU,Sr,95.2,71,17,287,6.11,0.98,5.65,1.781
+"Loeffler, Matt",New Mexico St.,Sr,68.2,37,30,206,3.95,3.04,-25.63,1.778
+"Pittman, Morgan",Mercer,Sr,59.2,59,21,179,8.02,2.99,-4.86,1.756
+"Case, Tyler",Mississippi Val.,Sr,84.0,61,37,252,6.02,2.99,-19.85,1.730
+"French, Parker",Texas,Sr,85.0,54,21,255,5.12,1.95,-4.04,1.710
+"Wells, Ryan",IPFW,Sr,72.0,70,30,216,7.91,3.03,-11.70,1.708
+"Abbott, Tyler",Chicago St.,Sr,56.1,53,38,169,7.86,6.11,-36.53,1.703
+"McCord, Rocky",Auburn,Sr,83.0,64,41,249,6.22,3.86,-21.72,1.694
+"Kubat, Kyle",Nebraska,Sr,94.0,63,15,282,6.11,0.98,4.57,1.693
+"Elia, Anthony",Seton Hall,Sr,65.0,42,12,195,4.94,1.01,0.63,1.673
+"Pearson, Robert",Texas Southern,Sr,61.2,48,39,185,6.86,5.10,-36.51,1.667
+"Zuniga, Keith",Bethune-Cookman,Sr,86.0,58,13,258,5.93,1.01,4.66,1.667
+"Godail, Andrew",Sam Houston St.,Sr,97.2,88,28,293,7.93,2.02,-1.42,1.657
+"Magallones, Brandon",Northwestern,Sr,84.1,67,38,253,7.10,3.95,-18.17,1.641
+"Stewart, Devon",Canisius,Sr,93.2,72,22,281,5.86,2.05,-1.97,1.640
+"Stephens, Nick",Lehigh,Sr,64.1,50,16,193,5.74,2.09,-3.88,1.635
+"Istler, Andrew",Duke,Sr,86.1,82,20,259,8.14,1.97,5.77,1.627
+"Fraudin, Matt",Gardner-Webb,Sr,87.2,109,26,263,10.93,2.01,6.64,1.614
+"Ponto, Tim",Saint Joseph's,Sr,48.1,32,29,145,4.91,5.10,-38.37,1.610
+"Schwartz, Toby",Lafayette,Sr,58.1,47,18,175,6.83,2.05,-7.18,1.604
+"McClennan, Scott",Manhattan,Sr,76.0,54,18,228,5.81,2.07,-3.29,1.597
+"Heath, Scott",Maine,Sr,83.1,65,27,250,6.78,2.06,-9.60,1.594
+"Ludwig, Dan",Belmont,Sr,95.1,80,20,286,7.07,0.99,4.37,1.589
+"Mayle, Chad",Western Mich.,Sr,78.1,45,29,235,4.95,3.03,-18.44,1.582
+"Smith, Clay",Saint Louis,Sr,93.0,67,29,279,5.93,2.02,-9.57,1.581
+"Hammond, Xavier",Bucknell,Sr,71.2,65,19,215,7.75,2.06,-0.49,1.564
+"McAfee, Brian",Cornell,Sr,56.0,38,6,168,5.84,0.00,8.28,1.563
+"Incinelli, Evan",North Florida,Sr,66.1,33,11,199,3.99,1.00,-1.10,1.559
+"Narahara, Matt",San Francisco,Sr,49.0,25,23,147,4.04,3.96,-28.39,1.537
+"Welmon, Colin",Loyola Marymount,Sr,94.0,96,28,282,9.07,1.99,1.39,1.529
+"Link, Jason",Bowling Green,Sr,65.0,45,23,195,5.94,3.03,-13.48,1.527
+"Arakawa, Jarrett",Hawaii,Sr,54.0,27,13,162,4.06,1.97,-7.47,1.510
+"Stoops, Dylan",Richmond,Sr,71.0,75,15,213,8.80,1.02,7.94,1.500
+"Warner, Mitch",Gardner-Webb,Sr,69.0,36,23,207,3.98,3.02,-16.27,1.500
+"Bain, Rob",Davidson,Sr,92.2,44,26,278,3.97,2.01,-13.24,1.489
+"Snyder, Brandon",Portland,Sr,47.2,31,13,143,5.04,1.98,-6.65,1.488
+"Guilbeau, Taylor",Alabama,Sr,92.2,79,44,278,7.18,3.90,-17.33,1.486
+"Veilleux, Kevin",UMass Lowell,Sr,54.1,21,32,163,2.93,5.12,-44.54,1.481
+"McDorman, Kyle",Charleston So.,Sr,55.1,42,29,166,5.98,4.01,-27.18,1.478
+"Martinez-McGraw, Ian",Lipscomb,Sr,97.1,57,40,292,5.05,2.97,-20.52,1.471
+"Owen, David",Arkansas St.,Sr,91.1,73,44,274,7.04,3.98,-21.67,1.465
+"Keel, Jerry",CSUN,Sr,91.1,80,22,274,7.06,1.98,2.39,1.440
+"Keselica, Sean",Virginia Tech,Sr,72.2,55,30,218,6.12,2.94,-15.88,1.426
+"Cooper, Cody",Northern Ky.,Sr,66.1,36,31,199,4.03,3.97,-27.61,1.419
+"Sheppard, Tripp",Ga. Southern,Sr,70.1,34,19,211,4.03,1.98,-10.68,1.418
+"Clements, Robby",Auburn,Sr,51.0,28,8,153,4.15,0.96,1.00,1.404
+"Lewicki, Ed",Siena,Sr,68.2,36,35,206,3.92,4.09,-32.27,1.403
+"Ernst, David",North Dakota St.,Sr,87.0,49,41,261,4.96,4.03,-27.50,1.403
+"Prejean, Cole",McNeese St.,Sr,56.0,48,15,168,6.95,2.01,-1.34,1.400
+"Cruz IV, Frank",Texas Southern,Sr,77.0,62,26,231,6.86,3.06,-10.00,1.394
+"Smith, Cameron",Texas Tech,Sr,89.0,77,28,267,7.13,1.96,-4.06,1.387
+"Tidwell, Ben",Troy,Sr,45.2,26,20,137,5.03,2.98,-23.68,1.386
+"Frebis, Johnathan",Middle Tenn.,Sr,83.1,70,35,250,7.10,2.96,-14.17,1.385
+"Smith, Chipper",UMES,Sr,46.1,18,21,139,2.88,4.16,-32.03,1.383
+"Kerrigan, Scott",Notre Dame,Sr,73.1,36,24,220,4.08,1.96,-15.14,1.380
+"Hunt, T.J.",Monmouth,Sr,70.1,52,34,211,5.88,4.08,-25.20,1.373
+"Drapeau, Brian",LIU Brooklyn,Sr,80.2,60,32,242,5.78,3.12,-17.11,1.370
+"Cozart, Logan",Ohio,Sr,66.1,79,23,199,9.86,3.04,0.12,1.367
+"Tabakman, Jordan",UConn,Sr,90.0,50,27,270,5.01,1.99,-11.89,1.365
+"Dyer, Pat",Akron,Sr,49.0,31,12,147,4.97,2.01,-5.27,1.364
+"Smith, Devin",Alabama A&M,Sr,62.0,56,26,186,7.91,3.04,-13.71,1.354
+"Bowers, Heath",Campbell,Sr,93.0,90,22,279,8.00,2.00,5.01,1.351

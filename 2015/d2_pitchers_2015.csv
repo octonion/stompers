@@ -1,101 +1,101 @@
 year,player_name,team_name,class_year,position,p_gs,ip,so,bb,outs,adj_so9,adj_bb9,index
-2015,"Brown, Danny",Flagler,Sr,INF,12,100.1,93,13,301,8.05,0.99,14.21
-2015,"Chapman, Matt",Newberry,Sr,P,1,35.1,43,7,106,9.72,1.03,13.61
-2015,"Smith, Aaron",Neb.-Kearney,Sr,P,7,60.2,56,7,182,7.74,1.03,12.89
-2015,"Johns, Cody",Northern St.,Sr,P,13,70.2,53,5,212,5.66,0.00,12.51
-2015,"Taylor, Justin",California (PA),Sr,P,9,52.0,51,8,156,7.63,1.05,11.18
-2015,"Camp, Wesley",Newberry,Sr,P,36,83.0,77,12,249,7.78,1.03,10.93
-2015,"Groves, Kory",Cal St. Monterey Bay,Sr,P,1,43.2,44,7,131,8.55,1.05,10.92
-2015,"Talkington, Shawn",Emporia St.,Sr,P,5,60.1,63,11,181,8.78,1.03,10.90
-2015,"Burgess, Tyler",Mo. Southern St.,Sr,P,10,68.2,82,16,206,9.70,2.06,10.44
-2015,"Brooks, Craig",Catawba,Sr,P,59,97.0,153,33,291,13.69,3.07,10.40
-2015,"Endecott, Dillon",Okla. Christian,Sr,P,13,69.0,69,12,207,8.59,1.05,10.04
-2015,"Carnavale, Joe",Merrimack,Sr,P,9,61.2,60,10,185,7.61,1.05,10.01
-2015,"Klein, Jon",Mercyhurst,Sr,P,11,68.1,85,17,205,10.71,2.05,9.56
-2015,"Stevens, Alex",West Florida,Sr,P,5,34.2,26,4,104,5.88,1.02,9.39
-2015,"Kines, Gunner",Mount Olive,Sr,P,14,96.2,121,24,290,10.68,2.06,9.37
-2015,"Capistran, Joey",Colorado Mesa,Sr,P,0,35.1,38,7,106,8.49,1.06,9.33
-2015,"Peterson, Jordan",St. Joseph's (IN),Sr,P,10,63.2,72,13,191,9.44,1.06,9.26
-2015,"Mould, Luke",Ala.-Huntsville,Sr,P,0,38.0,38,7,114,8.58,1.05,8.96
-2015,"Sparkman, Chase",Tampa,Sr,P,16,94.1,71,12,283,5.98,1.00,8.90
-2015,"Black, Ben",S.C. Aiken,Sr,P,6,43.2,41,8,131,7.93,1.01,8.65
-2015,"Schneider, Kyle",Slippery Rock,Sr,P,10,56.1,54,10,169,7.71,1.04,8.52
-2015,"Reno, Ryan",Colorado Mesa,Sr,P,15,91.1,64,9,274,5.66,0.00,8.50
-2015,"McGill, Dylan",Wayne St. (NE),Sr,P,14,59.0,71,14,177,9.49,2.11,8.25
-2015,"Cromer, Cole",Newberry,Sr,P,12,75.1,52,8,226,5.83,0.00,8.24
-2015,"Martinez, Peter",Dominican (NY),Sr,P,8,62.0,57,9,186,7.35,1.09,7.88
-2015,"Lujan, Paul",West Tex. A&M,Sr,P,0,33.2,35,7,101,8.59,1.05,7.85
-2015,"Ward, Scott",Florida Tech,Sr,P,13,90.2,58,11,272,4.95,1.01,6.70
-2015,"McGuire, Colben",Northwest Nazarene,Sr,P,15,91.1,76,14,274,6.55,1.07,6.69
-2015,"Wurm, Mitch",Southwest Minn. St.,Sr,P,9,63.0,56,11,189,7.53,1.06,6.65
-2015,"Rivera, Bryan",Saint Augustine's,Sr,P,12,72.1,72,13,217,7.35,1.09,6.46
-2015,"Thompson, Russell Tyler",West Virginia St.,Sr,P,13,81.1,82,16,244,8.28,1.09,6.38
-2015,"Brosnan, Alex",Molloy,Sr,P,9,72.2,76,15,218,8.31,1.08,6.35
-2015,"Montiverdi, David",Dowling,Sr,P,5,33.2,23,4,101,5.61,1.07,6.12
-2015,"Bass, Blake",Angelo St.,Sr,P,17,105.1,106,23,316,8.64,1.04,6.11
-2015,"Haag, Scott",Southern Ind.,Sr,P,2,37.2,34,7,113,7.52,1.06,5.55
-2015,"Williams, Alex",Findlay,Sr,P,0,36.0,45,10,108,10.47,2.10,5.12
-2015,"Dickerson, Stephen",Philadelphia U.,Sr,P,9,44.1,25,4,133,4.55,0.00,4.86
-2015,"Sexton, Jamie",West Ga.,Sr,P,14,97.0,79,17,291,6.77,1.03,4.78
-2015,"Murphy, Chris",Millersville,Sr,P,13,88.0,70,15,264,6.69,1.05,4.37
-2015,"Helsabeck, Wes",UNC Pembroke,Sr,P,6,46.2,62,16,140,10.89,3.03,4.35
-2015,"Disbro, Justin",West Tex. A&M,Sr,P,11,52.1,42,9,157,6.68,1.05,4.32
-2015,"Harper, Ryan",Saint Rose,Sr,P,9,65.1,44,9,196,5.66,1.06,4.25
-2015,"O'Sullivan, Liam",Saint Leo,Sr,P,14,87.0,81,20,261,7.85,2.04,4.16
-2015,"Cox, Eann",Lewis,Sr,P,9,61.0,45,9,183,5.64,1.06,4.05
-2015,"Benitez, Ryan",Tex. A&M-Kingsville,Sr,P,13,80.0,81,19,240,8.60,2.09,3.81
-2015,"Zorn, Austin",Minot St.,Sr,P,15,62.0,38,8,186,4.74,1.06,3.56
-2015,"Claunch, Brantley",North Ala.,Sr,P,12,87.2,57,12,263,4.75,1.05,3.50
-2015,"Petrizzi, Matt",West Chester,Sr,INF,42,45.2,41,10,137,7.70,1.04,3.34
-2015,"Scudiero, Francesco",Bloomfield,Sr,P,8,56.1,52,11,169,7.29,1.10,3.22
-2015,"Lalk, Kris",Metro St.,Sr,P,11,92.1,89,22,277,7.68,2.08,3.07
-2015,"McAllister, Zach",Erskine,Sr,P,0,40.2,41,10,122,8.61,2.09,2.86
-2015,"Fronsoe, Ashton",Florida Tech,Sr,P,13,71.0,49,12,213,5.93,1.01,2.64
-2015,"Heissler, Jake",Central Mo.,Sr,P,10,65.0,66,17,195,8.76,2.06,2.63
-2015,"McClintock, Ryan",Catawba,Sr,P,0,38.0,20,5,114,3.91,1.02,2.45
-2015,"Purcell, Michael",Trevecca Nazarene,Sr,P,12,89.2,91,21,269,8.35,2.16,2.39
-2015,"Fahey, Paul",Franklin Pierce,Sr,P,0,51.1,57,14,154,8.50,2.12,1.97
-2015,"Katz, Jesse",Bemidji St.,Sr,P,8,36.2,29,7,110,6.62,1.06,1.86
-2015,"Burleson, Colton",Tarleton St.,Sr,P,11,38.2,24,6,116,4.81,1.04,1.85
-2015,"Barnett, Austin",Fla. Southern,Sr,P,1,36.0,30,8,108,6.95,2.02,1.67
-2015,"Baroniel, Robert",Nova Southeastern,Sr,P,15,82.1,69,19,247,6.94,2.02,1.66
-2015,"Jacobs, Craig",Nyack,Sr,INF,8,57.0,38,9,171,5.55,1.08,1.54
-2015,"Fries, Tyler",Wilmington (DE),Sr,P,0,39.0,44,11,117,9.36,2.14,1.37
-2015,"Abel, Nathaniel",Flagler,Sr,P,10,48.2,36,10,146,6.03,0.99,1.21
-2015,"Herd, David",California Baptist,Sr,P,5,37.2,42,11,113,9.51,2.10,1.19
-2015,"Ashford, Wilson",Fresno Pacific,Sr,P,11,71.2,68,17,215,7.53,2.13,1.19
-2015,"Richards, Trevor",Drury,Sr,P,11,72.1,72,19,217,7.69,2.08,1.06
-2015,"Leatherwood, William",Young Harris,Sr,P,2,40.1,32,9,121,7.00,2.00,0.98
-2015,"Koger, Daniel",Ala.-Huntsville,Sr,P,13,83.2,86,23,251,8.58,2.10,0.57
-2015,"Oglesby, Ryan",Slippery Rock,Sr,P,10,62.0,51,14,186,6.74,2.08,0.44
-2015,"Wright, Ben",Southern Ind.,Sr,P,12,72.1,41,11,217,4.70,1.06,0.28
-2015,"Moody, Jonathan",Delta St.,Sr,P,11,71.1,62,18,214,6.86,2.04,0.11
-2015,"Martin, Alex",King (TN),Sr,P,11,61.0,48,14,183,6.79,2.06,-0.27
-2015,"Rufer, Kyle",Barton,Sr,P,10,52.1,41,12,157,6.75,2.07,-0.47
-2015,"Mendek, Bill",Lynn,Sr,P,2,56.1,42,13,169,5.91,2.03,-0.61
-2015,"Kent, David",St. Anselm,Sr,P,9,57.0,50,14,171,6.75,2.08,-0.67
-2015,"Wright, Mitchell",Ala.-Huntsville,Sr,P,10,50.0,60,17,150,9.53,3.15,-0.96
-2015,"Jones, Cody",Henderson St.,Sr,P,13,71.0,60,18,213,6.81,2.06,-1.21
-2015,"Finley, Doug",Colorado St.-Pueblo,Sr,P,0,37.1,49,14,112,10.46,3.15,-1.41
-2015,"Batchelor, Zach",Post,Sr,P,6,52.1,47,13,157,7.42,2.16,-1.46
-2015,"Fortenberry, Brooks",Mississippi Col.,Sr,P,12,79.2,65,20,239,6.76,2.07,-1.51
-2015,"Martin, Brian",Shepherd,Sr,P,1,33.2,30,8,101,7.23,2.21,-1.52
-2015,"Dela Cruz, Jeremy",Hawaii Hilo,Sr,P,4,38.1,21,6,115,3.77,1.06,-1.65
-2015,"Barker, Luke",Chico St.,Sr,P,14,78.0,56,17,234,5.71,1.05,-1.86
-2015,"Kolodin, Dan",UC San Diego,Sr,P,5,63.0,74,21,189,9.53,3.15,-1.91
-2015,"Shaftner, Logan",Carson-Newman,Sr,P,9,49.2,28,9,149,4.83,1.03,-2.06
-2015,"Milligan, Drew",Delta St.,Sr,P,12,69.0,69,22,207,8.82,2.04,-2.09
-2015,"Behr, Dakota",Colorado Mesa,Sr,P,2,37.0,38,11,111,8.49,2.12,-2.10
-2015,"Smith, Carson",Northwest Mo. St.,Sr,P,0,35.2,33,10,107,7.82,2.05,-2.13
-2015,"Gonzalez, Fernando",West Ala.,Sr,P,15,96.1,96,29,289,7.78,2.06,-2.45
-2015,"Navratil, Richie",Minn.-Crookston,Sr,P,8,36.0,12,4,108,2.77,1.08,-2.52
-2015,"Blazier, Chase",Winona St.,Sr,P,11,65.2,30,10,197,3.75,1.07,-2.63
-2015,"Samluk, Frank",Wilmington (DE),Sr,INF,51,66.1,71,20,199,8.42,2.14,-2.64
-2015,"Stevenson, Jake",Pittsburg St.,Sr,P,11,53.2,28,10,161,3.91,1.02,-2.65
-2015,"Howell, Tyler",Ala.-Huntsville,Sr,P,10,53.1,35,11,160,4.77,1.05,-2.67
-2015,"Warren, Brandon",Barton,Sr,P,7,55.1,49,15,166,6.75,2.07,-2.69
-2015,"Sullivan, Brett",Seton Hill,Sr,P,13,74.0,51,16,222,5.72,1.05,-2.79
-2015,"Gray, Preston",Southern Ark.,Sr,P,15,82.0,53,18,246,4.88,1.02,-2.86
-2015,"Sacoman, Zach",Mansfield,Sr,P,1,34.2,29,9,104,6.70,2.09,-2.99
-2015,"Gresch, Zach",Notre Dame (OH),Sr,P,11,73.0,63,18,219,6.40,2.19,-3.03
-2015,"Bomenblit, Eric",Caldwell,Sr,P,8,55.1,53,15,166,7.35,2.18,-3.14
+2015,"Brown, Danny",Flagler,Sr,INF,12,100.1,93,13,301,7.05,1.13,9.57
+2015,"Johns, Cody",Northern St.,Sr,P,13,70.2,53,5,212,4.96,0.00,9.29
+2015,"Smith, Aaron",Neb.-Kearney,Sr,P,7,60.2,56,7,182,6.79,1.18,8.57
+2015,"Chapman, Matt",Newberry,Sr,P,1,35.1,43,7,106,8.52,1.17,7.31
+2015,"Taylor, Justin",California (PA),Sr,P,9,52.0,51,8,156,6.69,1.20,6.20
+2015,"Camp, Wesley",Newberry,Sr,P,36,83.0,77,12,249,6.82,1.17,6.04
+2015,"Groves, Kory",Cal St. Monterey Bay,Sr,P,1,43.2,44,7,131,7.50,1.20,5.68
+2015,"Stevens, Alex",West Florida,Sr,P,5,34.2,26,4,104,5.15,1.16,5.53
+2015,"Talkington, Shawn",Emporia St.,Sr,P,5,60.1,63,11,181,7.69,1.17,5.22
+2015,"Reno, Ryan",Colorado Mesa,Sr,P,15,91.1,64,9,274,4.96,0.00,5.21
+2015,"Sparkman, Chase",Tampa,Sr,P,16,94.1,71,12,283,5.24,1.14,4.89
+2015,"Carnavale, Joe",Merrimack,Sr,P,9,61.2,60,10,185,6.67,1.20,4.88
+2015,"Cromer, Cole",Newberry,Sr,P,12,75.1,52,8,226,5.11,0.00,4.77
+2015,"Endecott, Dillon",Okla. Christian,Sr,P,13,69.0,69,12,207,7.53,1.20,4.65
+2015,"Burgess, Tyler",Mo. Southern St.,Sr,P,10,68.2,82,16,206,8.51,2.35,3.70
+2015,"Capistran, Joey",Colorado Mesa,Sr,P,0,35.1,38,7,106,7.44,1.21,3.42
+2015,"Mould, Luke",Ala.-Huntsville,Sr,P,0,38.0,38,7,114,7.52,1.20,3.42
+2015,"Schneider, Kyle",Slippery Rock,Sr,P,10,56.1,54,10,169,6.76,1.18,3.35
+2015,"Black, Ben",S.C. Aiken,Sr,P,6,43.2,41,8,131,6.95,1.15,3.32
+2015,"Ward, Scott",Florida Tech,Sr,P,13,90.2,58,11,272,4.33,1.15,3.20
+2015,"Martinez, Peter",Dominican (NY),Sr,P,8,62.0,57,9,186,6.44,1.24,3.17
+2015,"Peterson, Jordan",St. Joseph's (IN),Sr,P,10,63.2,72,13,191,8.28,1.21,3.08
+2015,"Montiverdi, David",Dowling,Sr,P,5,33.2,23,4,101,4.92,1.22,2.54
+2015,"Klein, Jon",Mercyhurst,Sr,P,11,68.1,85,17,205,9.39,2.34,2.41
+2015,"Kines, Gunner",Mount Olive,Sr,P,14,96.2,121,24,290,9.36,2.35,2.22
+2015,"McGuire, Colben",Northwest Nazarene,Sr,P,15,91.1,76,14,274,5.74,1.22,2.19
+2015,"Dickerson, Stephen",Philadelphia U.,Sr,P,9,44.1,25,4,133,3.99,0.00,1.94
+2015,"Lujan, Paul",West Tex. A&M,Sr,P,0,33.2,35,7,101,7.53,1.20,1.90
+2015,"Wurm, Mitch",Southwest Minn. St.,Sr,P,9,63.0,56,11,189,6.60,1.21,1.62
+2015,"McGill, Dylan",Wayne St. (NE),Sr,P,14,59.0,71,14,177,8.32,2.40,1.38
+2015,"Rivera, Bryan",Saint Augustine's,Sr,P,12,72.1,72,13,217,6.44,1.24,1.06
+2015,"Brooks, Craig",Catawba,Sr,P,59,97.0,153,33,291,12.00,3.50,1.01
+2015,"Thompson, Russell Tyler",West Virginia St.,Sr,P,13,81.1,82,16,244,7.26,1.24,0.71
+2015,"Brosnan, Alex",Molloy,Sr,P,9,72.2,76,15,218,7.28,1.24,0.41
+2015,"Haag, Scott",Southern Ind.,Sr,P,2,37.2,34,7,113,6.59,1.21,0.37
+2015,"Harper, Ryan",Saint Rose,Sr,P,9,65.1,44,9,196,4.96,1.21,0.36
+2015,"Bass, Blake",Angelo St.,Sr,P,17,105.1,106,23,316,7.57,1.19,0.12
+2015,"Sexton, Jamie",West Ga.,Sr,P,14,97.0,79,17,291,5.93,1.18,0.09
+2015,"Zorn, Austin",Minot St.,Sr,P,15,62.0,38,8,186,4.15,1.20,0.05
+2015,"Cox, Eann",Lewis,Sr,P,9,61.0,45,9,183,4.95,1.21,-0.10
+2015,"Claunch, Brantley",North Ala.,Sr,P,12,87.2,57,12,263,4.16,1.20,-0.27
+2015,"Murphy, Chris",Millersville,Sr,P,13,88.0,70,15,264,5.86,1.19,-0.31
+2015,"Disbro, Justin",West Tex. A&M,Sr,P,11,52.1,42,9,157,5.85,1.20,-0.37
+2015,"McClintock, Ryan",Catawba,Sr,P,0,38.0,20,5,114,3.43,1.17,-0.83
+2015,"Fronsoe, Ashton",Florida Tech,Sr,P,13,71.0,49,12,213,5.20,1.15,-1.70
+2015,"O'Sullivan, Liam",Saint Leo,Sr,P,14,87.0,81,20,261,6.88,2.32,-1.74
+2015,"Burleson, Colton",Tarleton St.,Sr,P,11,38.2,24,6,116,4.21,1.19,-1.95
+2015,"Scudiero, Francesco",Bloomfield,Sr,P,8,56.1,52,11,169,6.39,1.25,-2.10
+2015,"Petrizzi, Matt",West Chester,Sr,INF,42,45.2,41,10,137,6.75,1.19,-2.29
+2015,"Williams, Alex",Findlay,Sr,P,0,36.0,45,10,108,9.17,2.40,-2.46
+2015,"Benitez, Ryan",Tex. A&M-Kingsville,Sr,P,13,80.0,81,19,240,7.54,2.39,-2.47
+2015,"Jacobs, Craig",Nyack,Sr,INF,8,57.0,38,9,171,4.87,1.23,-2.65
+2015,"Lalk, Kris",Metro St.,Sr,P,11,92.1,89,22,277,6.73,2.38,-3.09
+2015,"Katz, Jesse",Bemidji St.,Sr,P,8,36.2,29,7,110,5.80,1.21,-3.12
+2015,"Wright, Ben",Southern Ind.,Sr,P,12,72.1,41,11,217,4.12,1.21,-3.41
+2015,"McAllister, Zach",Erskine,Sr,P,0,40.2,41,10,122,7.55,2.38,-3.57
+2015,"Abel, Nathaniel",Flagler,Sr,P,10,48.2,36,10,146,5.29,1.13,-3.66
+2015,"Barnett, Austin",Fla. Southern,Sr,P,1,36.0,30,8,108,6.09,2.30,-3.86
+2015,"Baroniel, Robert",Nova Southeastern,Sr,P,15,82.1,69,19,247,6.09,2.30,-3.88
+2015,"Purcell, Michael",Trevecca Nazarene,Sr,P,12,89.2,91,21,269,7.32,2.46,-3.89
+2015,"Heissler, Jake",Central Mo.,Sr,P,10,65.0,66,17,195,7.68,2.34,-3.94
+2015,"Helsabeck, Wes",UNC Pembroke,Sr,P,6,46.2,62,16,140,9.55,3.46,-4.20
+2015,"Leatherwood, William",Young Harris,Sr,P,2,40.1,32,9,121,6.13,2.28,-4.43
+2015,"Ashford, Wilson",Fresno Pacific,Sr,P,11,71.2,68,17,215,6.60,2.43,-4.85
+2015,"Fahey, Paul",Franklin Pierce,Sr,P,0,51.1,57,14,154,7.45,2.42,-4.99
+2015,"Navratil, Richie",Minn.-Crookston,Sr,P,8,36.0,12,4,108,2.43,1.24,-5.07
+2015,"Oglesby, Ryan",Slippery Rock,Sr,P,10,62.0,51,14,186,5.91,2.37,-5.10
+2015,"Dela Cruz, Jeremy",Hawaii Hilo,Sr,P,4,38.1,21,6,115,3.31,1.21,-5.37
+2015,"Richards, Trevor",Drury,Sr,P,11,72.1,72,19,217,6.74,2.37,-5.39
+2015,"Martin, Alex",King (TN),Sr,P,11,61.0,48,14,183,5.95,2.35,-5.69
+2015,"Moody, Jonathan",Delta St.,Sr,P,11,71.1,62,18,214,6.02,2.33,-5.84
+2015,"Fries, Tyler",Wilmington (DE),Sr,P,0,39.0,44,11,117,8.21,2.44,-5.85
+2015,"Rufer, Kyle",Barton,Sr,P,10,52.1,41,12,157,5.92,2.37,-5.89
+2015,"Mendek, Bill",Lynn,Sr,P,2,56.1,42,13,169,5.18,2.32,-5.90
+2015,"Blazier, Chase",Winona St.,Sr,P,11,65.2,30,10,197,3.29,1.22,-5.97
+2015,"Koger, Daniel",Ala.-Huntsville,Sr,P,13,83.2,86,23,251,7.52,2.39,-6.15
+2015,"Herd, David",California Baptist,Sr,P,5,37.2,42,11,113,8.34,2.40,-6.18
+2015,"Shaftner, Logan",Carson-Newman,Sr,P,9,49.2,28,9,149,4.23,1.18,-6.19
+2015,"Kent, David",St. Anselm,Sr,P,9,57.0,50,14,171,5.91,2.37,-6.62
+2015,"Stevenson, Jake",Pittsburg St.,Sr,P,11,53.2,28,10,161,3.43,1.17,-6.64
+2015,"Barker, Luke",Chico St.,Sr,P,14,78.0,56,17,234,5.01,1.20,-6.91
+2015,"Jones, Cody",Henderson St.,Sr,P,13,71.0,60,18,213,5.97,2.35,-7.03
+2015,"Howell, Tyler",Ala.-Huntsville,Sr,P,10,53.1,35,11,160,4.18,1.20,-7.33
+2015,"Fortenberry, Brooks",Mississippi Col.,Sr,P,12,79.2,65,20,239,5.93,2.36,-7.34
+2015,"Martin, Brian",Shepherd,Sr,P,1,33.2,30,8,101,6.34,2.52,-7.47
+2015,"Batchelor, Zach",Post,Sr,P,6,52.1,47,13,157,6.50,2.46,-7.54
+2015,"Gray, Preston",Southern Ark.,Sr,P,15,82.0,53,18,246,4.28,1.17,-7.65
+2015,"Sullivan, Brett",Seton Hill,Sr,P,13,74.0,51,16,222,5.01,1.20,-7.71
+2015,"Schalk, Jeff",Saginaw Valley,Sr,P,0,40.0,19,7,120,3.30,1.21,-8.24
+2015,"Smith, Carson",Northwest Mo. St.,Sr,P,0,35.2,33,10,107,6.85,2.33,-8.63
+2015,"Conkle, Kyle",North Ala.,Sr,P,33,54.2,35,12,164,4.16,1.20,-8.69
+2015,"Hall, Cam",Salem Int'l,Sr,P,9,63.2,38,13,191,4.11,1.22,-8.75
+2015,"Royer, Joey",New Haven,Sr,P,8,47.2,24,9,143,3.28,1.22,-8.87
+2015,"Warren, Brandon",Barton,Sr,P,7,55.1,49,15,166,5.92,2.37,-8.93
+2015,"Sacoman, Zach",Mansfield,Sr,P,1,34.2,29,9,104,5.87,2.38,-8.97
+2015,"Gresch, Zach",Notre Dame (OH),Sr,P,11,73.0,63,18,219,5.61,2.50,-9.02
+2015,"Behr, Dakota",Colorado Mesa,Sr,P,2,37.0,38,11,111,7.44,2.42,-9.12
+2015,"Wright, Mitchell",Ala.-Huntsville,Sr,P,10,50.0,60,17,150,8.36,3.59,-9.15
+2015,"Pybus, Bryant",Concord,Sr,P,5,56.1,26,10,169,3.20,1.25,-9.18
+2015,"Milligan, Drew",Delta St.,Sr,P,12,69.0,69,22,207,7.73,2.33,-9.38
