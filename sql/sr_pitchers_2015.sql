@@ -26,9 +26,9 @@ end)::integer as outs,
 case when coalesce(split_part(ip,'.',2),'0')='' then '0'
      else coalesce(split_part(ip,'.',2),'0')
 end)::integer
-)*sqrt(sf.schedule_offensive)
+)*sqrt(sf.schedule_offensive*hd.exp_factor)
 
-)::numeric(4,2) as adj_so9,
+)::numeric(5,2) as adj_so9,
 
 (
 27*bb/
@@ -38,8 +38,8 @@ end)::integer
 case when coalesce(split_part(ip,'.',2),'0')='' then '0'
      else coalesce(split_part(ip,'.',2),'0')
 end)::integer
-)/sqrt(sf.schedule_offensive)
-)::numeric(4,2) as adj_bb9,
+)/sqrt(sf.schedule_offensive*hd.exp_factor)
+)::numeric(5,2) as adj_bb9,
 
 
 (3*
@@ -50,7 +50,7 @@ end)::integer
 case when coalesce(split_part(ip,'.',2),'0')='' then '0'
      else coalesce(split_part(ip,'.',2),'0')
 end)::integer
-)*sqrt(sf.schedule_offensive)
+)*sqrt(sf.schedule_offensive*hd.exp_factor)
 
 -
 
@@ -63,9 +63,9 @@ end)::integer
 case when coalesce(split_part(ip,'.',2),'0')='' then '0'
      else coalesce(split_part(ip,'.',2),'0')
 end)::integer
-)/sqrt(sf.schedule_offensive)
+)/sqrt(sf.schedule_offensive*hd.exp_factor)
 )
-)::numeric(4,2) as index
+)::numeric(5,2) as index
 
 
 --sd.year,
@@ -101,11 +101,11 @@ join ncaa._schedule_factors sf
 join ncaa.schools_divisions sd
   on (sd.school_id,sd.year)=(sf.school_id,sf.year)
 
-join ncaa._factors h
-  on (h.parameter,h.level::integer)=('h_div',sd.div_id)
+join ncaa._factors hd
+  on (hd.parameter,hd.level::integer)=('h_div',sd.div_id)
 
-join ncaa._factors p
-  on (p.parameter,p.level::integer)=('p_div',sd.div_id)
+join ncaa._factors pd
+  on (pd.parameter,pd.level::integer)=('p_div',sd.div_id)
 
 where
 

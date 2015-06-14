@@ -2,11 +2,12 @@ copy
 
 (
 select
-ps.year,
-ps.player_name,
-ps.team_name,
-ps.class_year,
-ps.position,
+ps.year as year,
+ps.player_name as name,
+ps.team_name as team,
+sd.div_id as div,
+ps.class_year as cl,
+ps.position as pos,
 ps.ab+ps.bb+coalesce(ps.hbp,0) as pa,
 
 (
@@ -62,15 +63,15 @@ join ncaa._factors pd
 
 where 
 
-    ps.class_year ilike 'sr'
+    ps.class_year ilike 'jr'
 
 and ps.ab+ps.bb+coalesce(ps.hbp,0) >= 150
 
 and sf.year=2015
-and sd.div_id=3
+and sd.div_id in (1,2,3)
 
 order by index desc
 
 limit 100
 )
-to '/tmp/d3_hitters_2015.csv' csv header;
+to '/tmp/jr_hitters_2015.csv' csv header;
