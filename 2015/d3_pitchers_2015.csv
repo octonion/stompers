@@ -1,0 +1,101 @@
+year,player_name,team_name,class_year,position,p_gs,ip,so,bb,outs,adj_so9,adj_bb9,index
+2015,"Bergjans, Tommy",Haverford,Sr,P,9,67.1,111,14,202,12.99,1.08,21.43
+2015,"Magni, Ryan",Fitchburg St.,Sr,P,5,38.2,39,4,116,8.13,0.00,14.43
+2015,"Davis, Kristopher",Elizabethtown,Sr,P,9,64.0,55,6,192,6.39,0.00,12.21
+2015,"Enterlin, Jacob",Johns Hopkins,Sr,P,10,74.0,61,8,222,6.49,0.00,10.68
+2015,"Zorn, Joe",Bethel (MN),Sr,P,9,69.1,62,9,208,7.42,1.08,10.41
+2015,"Oakes, Tanner",Augsburg,Sr,P,9,64.1,52,7,193,6.57,0.00,10.11
+2015,"Stevens, Blake",Birmingham-So.,Sr,P,14,100.2,108,19,302,8.39,1.07,8.93
+2015,"Richards, Andrew",Southern Me.,Sr,P,3,114.1,108,19,343,7.41,1.08,8.06
+2015,"Reuter, Aj",Coe,Sr,INF,42,63.2,46,7,191,5.52,0.00,7.69
+2015,"Cummiskey, Dylan",Rhode Island Col.,Sr,P,8,54.1,40,6,163,5.52,0.00,7.69
+2015,"Jacobsen, Erik",Bowdoin,Sr,P,30,49.2,30,4,149,4.66,0.00,7.41
+2015,"Blanchard, Kenny",North Park,Sr,P,9,61.0,56,10,183,7.41,1.08,7.13
+2015,"Baird, Jared",Wash. & Jeff.,Sr,P,13,80.2,74,14,242,7.44,1.08,6.18
+2015,"Jenkins, Justin",LeTourneau,Sr,P,11,101.1,91,18,304,7.39,1.08,5.95
+2015,"Scheibe, Dan",Whitworth,Sr,P,13,81.1,104,22,244,10.23,2.15,5.82
+2015,"Schlabach, Brad",Bluffton,Sr,P,9,65.2,33,5,197,3.75,0.00,5.78
+2015,"Miller, Joe",Wis.-La Crosse,Sr,P,12,77.1,51,9,232,4.77,1.05,5.75
+2015,"Munyon, John",Ill. Wesleyan,Sr,P,10,68.0,58,12,204,6.56,1.07,5.53
+2015,"Schmidt, Eric",Adrian,Sr,P,12,87.0,67,13,261,5.55,1.08,4.47
+2015,"Szatrowski, Kyle",UMass Boston,Sr,P,9,56.2,45,9,170,6.51,1.08,4.47
+2015,"Brankle, Matt",Earlham,Sr,P,7,61.1,62,14,184,8.49,2.12,4.29
+2015,"Van Zant, Henry",Bowdoin,Sr,P,8,61.0,54,11,183,6.53,1.07,4.29
+2015,"Rule, Jake",Westminster (MO),Sr,P,7,47.1,24,4,142,3.61,0.00,3.97
+2015,"Parent, KJ",MIT,Sr,OF,20,57.2,34,6,173,4.57,0.00,3.87
+2015,"Jordan, Christopher",Benedictine (IL),Sr,INF,8,52.2,21,3,158,2.77,0.00,3.82
+2015,"Tomich, Edward",Trine,Sr,INF,9,54.2,32,6,164,4.55,0.00,3.76
+2015,"Arning, Wesley",Gordon,Sr,P,8,46.1,26,5,139,4.54,0.00,3.73
+2015,"Bjorkgren, Jake",Buena Vista,Sr,P,8,59.2,37,7,179,4.58,1.09,3.72
+2015,"Grove, Colin",Wis.-Whitewater,Sr,P,12,84.2,50,10,254,4.74,1.06,3.66
+2015,"Hungerford, Eric",Gettysburg,Sr,P,8,59.0,51,11,177,6.41,1.09,3.60
+2015,"Dauer, Tyler",Texas-Dallas,Sr,P,14,94.1,93,20,283,7.40,1.08,3.51
+2015,"Hart, Matt",Ill. Wesleyan,Sr,P,10,66.1,59,14,199,7.49,1.07,3.26
+2015,"Elias, Sam",Wesleyan (CT),Sr,P,7,76.1,66,15,229,6.51,1.07,3.12
+2015,"Ingram, Tim",Old Westbury,Sr,P,10,69.1,92,20,208,9.80,2.25,3.10
+2015,"Hartman, Kyle",Penn St.-Berks,Sr,1B,35,34.2,21,4,104,4.47,1.12,3.09
+2015,"Ferguson, Tyler",La Roche,Sr,P,10,79.2,75,17,239,7.43,1.08,2.75
+2015,"Zahn, Marshall",Ripon,Sr,P,9,59.2,55,12,179,7.40,1.08,2.73
+2015,"Gregory, Austin",Roanoke,Sr,P,5,49.0,31,7,147,4.58,1.09,2.48
+2015,"Fein, Dan",Salisbury,Sr,P,9,64.2,40,9,194,4.72,1.06,2.37
+2015,"Lauer, Darren",Keystone,Sr,P,9,68.2,49,11,206,5.53,1.09,2.30
+2015,"Karinchak, Brendyn",Oswego St.,Sr,P,10,67.1,67,16,202,7.54,2.12,2.23
+2015,"Tindall, Matt",Trinity (TX),Sr,P,7,56.1,65,16,169,9.31,2.15,2.03
+2015,"Iniguez, Javi",La Verne,Sr,P,16,97.2,64,15,293,4.62,1.08,1.64
+2015,"Schwoebel, Adam",Loras,Sr,P,11,75.2,32,7,227,2.78,0.00,1.59
+2015,"Capiak, Derrick",Mount Aloysius,Sr,P,10,60.0,70,16,180,9.06,2.21,1.59
+2015,"Farnholtz, Kyle",Arcadia,Sr,P,5,36.2,22,5,110,4.52,1.11,1.22
+2015,"Conroy, Sean",Rensselaer,Sr,P,12,82.0,87,21,246,8.35,2.16,1.20
+2015,"Trosch, Lou",Guilford,Sr,P,6,37.1,21,5,112,4.59,1.09,0.70
+2015,"Larson, Walker",Ramapo,Sr,P,13,119.2,96,25,359,6.60,1.06,0.69
+2015,"Bach, Aaron",Texas-Dallas,Sr,P,8,62.2,43,11,188,5.55,1.08,0.44
+2015,"Soderberg, Grant",Gust. Adolphus,Sr,P,8,41.2,35,9,125,6.58,1.06,0.44
+2015,"Doring, Andrew",John Carroll,Sr,P,11,78.2,92,24,236,9.38,2.13,0.31
+2015,"Jensen, Jared",Rensselaer,Sr,P,44,61.0,46,12,183,5.57,1.08,0.24
+2015,"Johnstone, Kevin",Case,Sr,P,10,67.0,49,13,201,5.68,1.06,0.05
+2015,"Thomassen, Aaron",Linfield,Sr,P,12,82.1,59,16,247,5.66,1.06,-0.07
+2015,"Miller, Brandon",Lynchburg,Sr,P,5,56.1,30,8,169,3.69,1.08,-0.09
+2015,"Buckles, Ian",George Fox,Sr,P,13,88.2,65,17,266,5.66,1.06,-0.12
+2015,"Ethridge, Smokey",Millsaps,Sr,P,13,85.0,70,18,255,6.46,1.08,-0.28
+2015,"Speer, Zack",Trinity (TX),Sr,P,12,78.2,73,20,236,7.45,2.15,-0.34
+2015,"Hoffmann, Jack",Coe,Sr,P,42,66.1,39,10,199,4.60,1.09,-0.34
+2015,"Taylor, Bryce",Marian (WI),Sr,P,8,45.2,34,9,137,5.48,1.09,-0.35
+2015,"Marston, Peirce",Stevens,Sr,OF,8,52.1,41,11,157,6.39,1.10,-0.55
+2015,"Easterday, Ryan",Rowan,Sr,P,10,71.2,46,13,215,4.77,1.05,-0.57
+2015,"Tucci, Alex",Va. Wesleyan,Sr,P,8,50.0,21,6,150,2.77,1.08,-0.66
+2015,"Bowen, Ryan",Lasell,Sr,P,5,38.0,25,6,114,4.43,1.13,-0.74
+2015,"Barthold, Jason",Lebanon Valley,Sr,P,7,39.1,22,6,118,4.51,1.11,-0.88
+2015,"Perez, Paul",Baruch,Sr,P,8,51.2,34,9,155,4.56,1.10,-0.93
+2015,"Barth, Robert",Widener,Sr,P,12,80.0,65,17,240,6.48,1.08,-1.07
+2015,"Williamson, JT",Randolph-Macon,Sr,P,3,37.2,37,10,113,7.33,2.18,-1.27
+2015,"Hood, Casey",Susquehanna,Sr,P,8,53.1,45,12,160,6.43,2.18,-1.54
+2015,"Dominguez, Jonathan",Rutgers-Newark,Sr,P,7,46.0,43,12,138,7.43,2.15,-1.55
+2015,"Gilchrist, Cody",Plymouth St.,Sr,P,8,52.0,55,15,156,8.26,2.18,-1.56
+2015,"Hoffman, Peter",Willamette,Sr,P,10,68.2,63,17,206,7.40,2.16,-1.59
+2015,"Ryan, Tom",Tufts,Sr,P,4,44.1,32,9,133,5.54,1.08,-1.97
+2015,"Para, Mike",Pitt.-Bradford,Sr,P,6,37.1,22,6,112,4.50,1.11,-2.06
+2015,"Palmeri, Joe",Manhattanville,Sr,P,7,46.2,25,7,140,3.56,1.12,-2.14
+2015,"Sanders, Andrew",Ithaca,Sr,P,11,73.2,35,10,221,3.64,1.10,-2.25
+2015,"Petrella, Nick",Skidmore,Sr,P,9,57.2,40,11,173,5.46,1.10,-2.28
+2015,"Hulbert, Justin",Hilbert,Sr,P,7,40.2,29,8,122,5.33,1.13,-2.29
+2015,"Bourbonnais, David",Birmingham-So.,Sr,P,48,38.1,46,13,115,9.32,3.22,-2.37
+2015,"Smith, Dylan",Webster,Sr,P,1,42.1,31,9,127,5.63,1.07,-2.40
+2015,"King, Jamie",Transylvania,Sr,P,10,60.2,52,16,182,6.60,2.12,-2.69
+2015,"Sharkey, Ryan",Rowan,Sr,P,12,69.1,48,15,208,5.72,1.05,-2.77
+2015,"Haddeland, Chris",Linfield,Sr,P,15,109.1,64,20,328,4.72,1.06,-2.79
+2015,"Krahn, Tim",Kenyon,Sr,P,9,54.2,40,12,164,5.57,1.08,-2.81
+2015,"Meekins, Sean",Trinity (CT),Sr,P,7,44.2,52,15,134,9.39,3.19,-2.84
+2015,"Behme, Isaac",Webster,Sr,OF,15,78.1,74,22,235,7.51,2.13,-3.16
+2015,"Harwell, Thomas",Texas Lutheran,Sr,P,11,72.0,59,18,216,6.51,2.15,-3.18
+2015,"Dolan, Derek",Daniel Webster,Sr,P,7,43.1,28,8,130,4.40,1.14,-3.24
+2015,"Herlihy, Conor",Rochester Inst.,Sr,P,7,43.2,22,7,131,3.68,1.09,-3.27
+2015,"Meeken, Dan",St. Joseph's (ME),Sr,P,9,55.1,54,15,166,7.20,2.22,-3.30
+2015,"Meier, Ryan",Bethany (WV),Sr,P,9,48.0,38,11,144,6.30,2.22,-3.30
+2015,"Renz, Mitch",Centenary (NJ),Sr,P,8,49.1,25,8,148,3.64,1.10,-3.53
+2015,"Davis, Seth",Augustana (IL),Sr,P,9,65.2,92,26,197,11.11,3.24,-3.57
+2015,"Cooney, Zacary",Mass. Maritime,Sr,P,1,42.0,52,14,126,9.90,3.33,-3.62
+2015,"Lantz, Alex",Hanover,Sr,INF,31,39.2,31,10,119,6.57,2.13,-3.74
+2015,"Fitzpatrick, Thomas",Curry,Sr,P,9,60.2,55,16,182,7.23,2.21,-3.77
+2015,"Pennings, Matt",Simpson,Sr,P,8,59.0,39,12,177,4.62,1.08,-3.79
+2015,"Irgang, Michael",Benedictine (IL),Sr,P,8,58.1,38,12,175,4.62,1.08,-3.80
+2015,"Koenig, Steve",Penn St.-Berks,Sr,P,8,58.1,26,9,175,3.57,1.12,-3.84

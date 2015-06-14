@@ -1,0 +1,101 @@
+year,player_name,team_name,class_year,position,pa,adj_obp,slg,adj_slg,index
+2015,"Kaczmarski, Kevin",Evansville,Sr,OF,219,0.559,0.746,0.761,1.878
+2015,"George, Zach",Arkansas St.,Sr,INF,271,0.566,0.562,0.578,1.710
+2015,"Byler, Austin",Nevada,Sr,INF,272,0.511,0.652,0.653,1.675
+2015,"Ferguson, Drew",Belmont,Sr,OF,278,0.493,0.685,0.681,1.668
+2015,"Martin, Kyle",South Carolina,Sr,1B,247,0.485,0.635,0.661,1.630
+2015,"Beaty, Matt",Belmont,Sr,INF,277,0.466,0.668,0.664,1.597
+2015,"Dini, Nick",Wagner,Sr,INF,215,0.490,0.625,0.610,1.591
+2015,"Boehm, Jeff",Ill.-Chicago,Sr,OF,240,0.465,0.663,0.654,1.584
+2015,"Kerian, David",Illinois,Sr,INF,227,0.463,0.644,0.650,1.576
+2015,"Robinson, Chris",Morehead St.,Sr,C,274,0.467,0.672,0.641,1.575
+2015,"Bauml, Cole",Northern Ky.,Sr,OF,191,0.448,0.663,0.668,1.564
+2015,"Koenig, Sam",Milwaukee,Sr,INF,271,0.455,0.657,0.653,1.563
+2015,"Landon, Logan",Tex.-Pan American,Sr,OF,226,0.473,0.623,0.617,1.563
+2015,"Krill, Ryan",Michigan St.,Sr,1B,240,0.459,0.615,0.634,1.552
+2015,"Panas, Connor",Canisius,Sr,INF,287,0.468,0.633,0.616,1.551
+2015,"Lynch, Nick",UC Davis,Sr,INF,246,0.480,0.558,0.583,1.543
+2015,"Falcone, Joey",Columbia,Sr,OF,195,0.431,0.676,0.677,1.540
+2015,"Turbin, Drew",Dallas Baptist,Sr,INF,247,0.504,0.521,0.531,1.539
+2015,"Ferguson, Collin",St. Mary's (CA),Sr,P,258,0.472,0.577,0.586,1.530
+2015,"Marshall, Patrick",Radford,Sr,OF,240,0.455,0.622,0.618,1.528
+2015,"Sweeney, Kane",Morehead St.,Sr,INF,287,0.466,0.621,0.593,1.524
+2015,"Rodriguez, Melvin",Jackson St.,Sr,INF,253,0.465,0.629,0.592,1.522
+2015,"Jones, Cody",TCU,Sr,OF,245,0.497,0.507,0.527,1.521
+2015,"Tobias, Josh",Florida,Sr,INF,219,0.465,0.565,0.587,1.516
+2015,"Gunsolus, Mitchell",Gonzaga,Sr,INF,244,0.467,0.556,0.576,1.509
+2015,"Korenblatt, Justin",La Salle,Sr,OF,173,0.480,0.563,0.544,1.505
+2015,"Clement, Kyle",La.-Lafayette,Sr,OF,180,0.417,0.655,0.665,1.499
+2015,"Park, Jensen",Northern Colo.,Sr,OF,189,0.451,0.624,0.597,1.499
+2015,"Nau, Mitchell",Texas A&M,Sr,C,241,0.489,0.500,0.517,1.496
+2015,"Rivera, Cesar",Alabama St.,Sr,OF,240,0.454,0.614,0.587,1.495
+2015,"Howell, Caleb",Eastern Ill.,Sr,OF,215,0.491,0.511,0.504,1.487
+2015,"Ruchim, Kyle",Northwestern,Sr,INF,176,0.436,0.585,0.606,1.477
+2015,"Robinson, Dillon",BYU,Sr,1B,234,0.461,0.550,0.555,1.477
+2015,"Thomas, Jake",Binghamton,Sr,OF,178,0.479,0.521,0.517,1.476
+2015,"Pierson, Michael",Appalachian St.,Sr,INF,237,0.471,0.534,0.532,1.474
+2015,"Morman, Michael",Richmond,Sr,OF,249,0.437,0.611,0.599,1.473
+2015,"Porter, Patrick",Ohio St.,Sr,OF,243,0.440,0.576,0.592,1.472
+2015,"Glines, Jackson",Michigan,Sr,OF,259,0.471,0.514,0.531,1.472
+2015,"Allemand, Blake",Texas A&M,Sr,INF,250,0.463,0.526,0.544,1.471
+2015,"Orvis, Sikes",Ole Miss,Sr,INF,237,0.418,0.600,0.633,1.470
+2015,"Wright, Aaron",UNC Greensboro,Sr,INF,212,0.419,0.648,0.632,1.470
+2015,"Ratledge, Logan",North Carolina St.,Sr,INF,258,0.453,0.549,0.562,1.467
+2015,"Campbell, Jeff",North Dakota,Sr,P,216,0.438,0.598,0.590,1.466
+2015,"Kennedy, Garrett",Miami (FL),Sr,C,230,0.465,0.518,0.532,1.461
+2015,"Newell, Cameron",UC Santa Barbara,Sr,OF,223,0.477,0.490,0.502,1.456
+2015,"Cooper, Ryan",Elon,Sr,OF,233,0.451,0.562,0.552,1.454
+2015,"Sequeira, Anthony",Oral Roberts,Sr,INF,247,0.436,0.577,0.581,1.454
+2015,"Payne, Erik",Virginia Tech,Sr,INF,247,0.454,0.536,0.542,1.451
+2015,"Becker, Dylan",Missouri St.,Sr,INF,251,0.485,0.462,0.476,1.445
+2015,"Rea, Wes",Mississippi St.,Sr,1B,206,0.474,0.471,0.489,1.438
+2015,"Mack, Quinnton",New Mexico St.,Sr,OF,207,0.457,0.535,0.522,1.437
+2015,"Gardiner, Josh",Radford,Sr,INF,200,0.457,0.526,0.523,1.436
+2015,"Detmer, Tyler",Ill.-Chicago,Sr,OF,246,0.449,0.541,0.534,1.433
+2015,"Daniels, David",Davidson,Sr,INF,235,0.427,0.585,0.576,1.430
+2015,"Paul, Chris",California,Sr,INF,211,0.429,0.549,0.572,1.430
+2015,"Olenski, Greg",Delaware,Sr,OF,150,0.421,0.612,0.586,1.429
+2015,"Moore, Dylan",UCF,Sr,INF,275,0.433,0.542,0.562,1.428
+2015,"MacKenzie, Pat",Central Mich.,Sr,INF,269,0.495,0.435,0.432,1.422
+2015,"Follis, Tyler",North Dakota,Sr,INF,210,0.460,0.505,0.498,1.418
+2015,"Pacchioli, Justin",Lehigh,Sr,OF,231,0.485,0.453,0.449,1.418
+2015,"Ferreira, Ethan",Harvard,Sr,C,167,0.424,0.578,0.569,1.417
+2015,"Laurino, Steve",Marist,Sr,INF,215,0.434,0.561,0.550,1.417
+2015,"Friend, Jordan",Alabama A&M,Sr,INF,182,0.415,0.615,0.587,1.417
+2015,"Pallares, Steven",San Diego St.,Sr,INF,291,0.449,0.508,0.514,1.412
+2015,"Bryant, Hunter",UNC Asheville,Sr,INF,245,0.421,0.575,0.565,1.407
+2015,"Tubbs, Tucker",Memphis,Sr,INF,256,0.399,0.601,0.608,1.406
+2015,"Rawe, Brandon",Morehead St.,Sr,OF,293,0.420,0.592,0.565,1.406
+2015,"Caldwell, Elliott",South Carolina,Sr,OF,231,0.451,0.482,0.502,1.403
+2015,"Honchel, Matt",Miami (OH),Sr,OF,215,0.446,0.511,0.510,1.402
+2015,"Perez, Alex",Virginia Tech,Sr,INF,248,0.444,0.507,0.513,1.402
+2015,"Williams, Tommy",UCF,Sr,INF,256,0.421,0.536,0.555,1.398
+2015,"Woods, Jomarcos",UCF,Sr,OF,192,0.432,0.515,0.534,1.397
+2015,"Craig, Gus",Columbia,Sr,OF,199,0.403,0.590,0.591,1.396
+2015,"Plaisted, James",Wofford,Sr,C,268,0.429,0.557,0.538,1.395
+2015,"Biocic, PJ",Alabama St.,Sr,SS,228,0.491,0.433,0.414,1.395
+2015,"Vandercook, David",Columbia,Sr,INF,186,0.431,0.532,0.533,1.394
+2015,"Weist, Mark",Michigan St.,Sr,INF,254,0.426,0.526,0.542,1.394
+2015,"Hsieh, Eric",Yale,Sr,P,168,0.490,0.415,0.412,1.393
+2015,"Garza, Robert",Texas Southern,Sr,INF,188,0.437,0.548,0.518,1.392
+2015,"Bosheers, Dylan",Tennessee Tech,Sr,SS,240,0.417,0.576,0.554,1.389
+2015,"Bossart, Austin",Penn,Sr,C,156,0.429,0.540,0.531,1.389
+2015,"Reeves, John Clay",Rice,Sr,C,222,0.443,0.479,0.501,1.388
+2015,"Gugliettei, Vincent",Quinnipiac,Sr,INF,228,0.408,0.589,0.570,1.386
+2015,"Tarsovich, Jordan",VMI,Sr,INF,230,0.415,0.568,0.554,1.384
+2015,"Vallieres, Cedric",Texas St.,Sr,INF,248,0.441,0.497,0.503,1.384
+2015,"Close, Alex",Liberty,Sr,C,250,0.430,0.516,0.524,1.384
+2015,"Duce, Tagg",Dallas Baptist,Sr,OF,234,0.432,0.510,0.520,1.383
+2015,"Walsh, Connor",Citadel,Sr,INF,252,0.413,0.561,0.556,1.383
+2015,"McCants, Mark",Army,Sr,OF,188,0.436,0.522,0.510,1.382
+2015,"James, Derrian",Oral Roberts,Sr,OF,213,0.426,0.524,0.528,1.379
+2015,"Angelis, Spencer",High Point,Sr,C,213,0.452,0.472,0.473,1.377
+2015,"Peavey, Scotty",Alcorn,Sr,OF,225,0.397,0.603,0.580,1.374
+2015,"Havrilak, Joey",Akron,Sr,OF,263,0.436,0.507,0.501,1.374
+2015,"Hoover, Wesley",Central Ark.,Sr,OF,198,0.456,0.455,0.461,1.373
+2015,"Nunez, Julio",Alabama A&M,Sr,SS,238,0.401,0.597,0.570,1.373
+2015,"Morrill, Luke",Maine,Sr,INF,201,0.437,0.503,0.496,1.370
+2015,"Barber, Erik",UCF,Sr,OF,238,0.414,0.524,0.543,1.370
+2015,"Amendolare, Angelo",Jacksonville,Sr,INF,260,0.445,0.480,0.479,1.369
+2015,"VanMeetren, Erik",UNLV,Sr,C,233,0.448,0.475,0.472,1.368
+2015,"Harris, Matt",St. John's (NY),Sr,1B,209,0.440,0.489,0.488,1.368
