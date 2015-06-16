@@ -3,11 +3,12 @@ copy
 (
 select
 ps.year,
-ps.player_name,
-ps.team_name,
-ps.class_year,
-ps.position,
-ps.gs as p_gs,
+ps.player_name as name,
+ps.team_name as team,
+'D'||sd.div_id as div,
+ps.class_year as class,
+ps.position as pos,
+ps.gs as gs,
 ps.ip,
 ps.so,
 ps.bb,
@@ -124,10 +125,10 @@ end)::integer >= 100
 --and ps.gs >= 10
 
 and sf.year=2015
-and sd.div_id=3
+and sd.div_id in (1,2,3)
 
 order by index desc
 
-limit 100
+limit 200
 )
-to '/tmp/d3_pitchers_2015.csv' csv header;
+to '/tmp/pitchers_2015.csv' csv header;
