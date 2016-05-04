@@ -3,23 +3,42 @@ copy
 (
 select
 ps.year,
-ps.player_name,
-ps.team_name,
+ps.player_name as name,
+ps.team_name as team,
+'D'||sd.div_id as div,
 ps.class_year,
 ps.position,
-ps.ab+ps.bb+coalesce(ps.hbp,0) as pa,
+coalesce(ps.ab,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0) as pa,
 
 (
-(ps.h+ps.bb+coalesce(ps.hbp,0))::float/(ps.ab+ps.bb+coalesce(ps.hbp,0))
-/sqrt(schedule_field_park_defensive))::numeric(4,3) as adj_obp,
+(coalesce(ps.h,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))::float/(coalesce(ps.ab,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))
+)::numeric(4,3) as obp,
 
-ps.slg::numeric(4,3) as slg,
-(ps.slg/sqrt(schedule_field_park_defensive))::numeric(4,3) as adj_slg,
+(
+(coalesce(ps.h,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))::float/(coalesce(ps.ab,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))
+/sqrt(schedule_field_park_defensive*pd.exp_factor))::numeric(4,3) as adj_obp,
+
+((
+coalesce(ps.h,0)+coalesce(ps.d,0)+2*coalesce(ps.t,0)+3*coalesce(ps.hr,0)
+)::float
+/(coalesce(ps.ab,0)))::numeric(4,3) as slg,
+
+((
+coalesce(ps.h,0)+coalesce(ps.d,0)+2*coalesce(ps.t,0)+3*coalesce(ps.hr,0)
+)::float
+/(coalesce(ps.ab,0))
+/sqrt(schedule_field_park_defensive*pd.exp_factor))::numeric(4,3) as adj_slg,
 
 ((2*
-(ps.h+ps.bb+coalesce(ps.hbp,0))::float/(ps.ab+ps.bb+coalesce(ps.hbp,0))
-/sqrt(schedule_field_park_defensive))+
-(ps.slg/sqrt(schedule_field_park_defensive))
+(coalesce(ps.h,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))::float/(coalesce(ps.ab,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0))
+/sqrt(schedule_field_park_defensive*pd.exp_factor))+
+
+((
+coalesce(ps.h,0)+coalesce(ps.d,0)+2*coalesce(ps.t,0)+3*coalesce(ps.hr,0)
+)::float
+/(coalesce(ps.ab,0))
+
+/sqrt(schedule_field_park_defensive*pd.exp_factor))
 )::numeric(4,3) as index
 
 --sd.year,
@@ -55,23 +74,22 @@ join ncaa._schedule_factors sf
 join ncaa.schools_divisions sd
   on (sd.school_id,sd.year)=(sf.school_id,sf.year)
 
-join ncaa._factors h
-  on (h.parameter,h.level::integer)=('h_div',sd.div_id)
-
-join ncaa._factors p
-  on (p.parameter,p.level::integer)=('p_div',sd.div_id)
+join ncaa._factors hd
+  on (hd.parameter,hd.level::integer)=('h_div',sd.div_id)
+join ncaa._factors pd
+  on (pd.parameter,pd.level::integer)=('p_div',sd.div_id)
 
 where 
 
-    ps.class_year ilike 'jr'
+    ps.class_year ilike 'sr'
 
-and ps.ab+ps.bb+coalesce(ps.hbp,0) >= 150
+and coalesce(ps.ab,0)+coalesce(ps.bb,0)+coalesce(ps.hbp,0) >= 150
 
 and sf.year=2015
-and sd.div_id=1
+and sd.div_id in (1,2,3)
 
-order by index desc
+order by index desc nulls last
 
-limit 100
+limit 200
 )
-to '/tmp/2015.csv' csv header;
+to '/tmp/hitters_2015.csv' csv header;
